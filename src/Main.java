@@ -6,6 +6,8 @@ public class Main extends TwitterSearch {
 
 	private final AtomicInteger counter = new AtomicInteger();
 	public static int count = 0;
+	public static int numLines = 0;
+	public static int numUsers = 0;
 
 	@Override
 	public boolean saveTweets(List<Tweet> tweets) {
@@ -33,17 +35,22 @@ public class Main extends TwitterSearch {
 		String input = in.nextLine();
 		ReadFromFileObj inputFile = new ReadFromFileObj(input);
 		ReadNumLinesObj readLinesFile = new ReadNumLinesObj(input);
-		int numLines = readLinesFile.getNumLines();
+		numLines = readLinesFile.getNumLines();
+		numUsers = numLines;
 		count = 0;
 		System.out.println("Accepted file \"" + input + "\"." + "\n");
 
 		while (!input.isEmpty()) {
 			String output = inputFile.readLine();
 			if (output == null || output.equals("")) {
-				count++;
-				double progress = (count + 0.0) / numLines * 100; // this is
+				numUsers--;
+				double progress = (count + 0.0) / numUsers * 100; // this is
 																	// %progress
 				if (progress >= 100.0) {
+					System.out
+							.println("File \""
+									+ input
+									+ "\" has been completely processed. Program terminated.");
 					break;
 				}
 				continue;
@@ -52,12 +59,13 @@ public class Main extends TwitterSearch {
 			WriteToFileObj outputFile = new WriteToFileObj(output + ".txt");
 			TwitterPost tp = new TwitterPost(output);
 			List<Tweet> posts = tp.getPost();
-			for (Tweet item : posts) {
+			for (int i = 0; i < posts.size(); i++) {
+				Tweet item = posts.get(i);
 				if (item.getCreatedAt() == null) {
 					continue;
 				}
-				outputFile
-						.write(item.getCreatedAt() + " --  " + item.getText());
+				outputFile.write((i + 1) + "[" + item.getCreatedAt() + "] --  "
+						+ item.getText());
 				outputFile.write("\n");
 				System.out.println("@" + item.getUserScreenName() + ": "
 						+ item.getCreatedAt() + " --  " + item.getText());
@@ -66,9 +74,9 @@ public class Main extends TwitterSearch {
 			count++;
 			System.out.println("[@" + output + " had " + posts.size()
 					+ " posts]");
-			double progress = (count + 0.0) / numLines * 100;
+			double progress = (count + 0.0) / numUsers * 100;
 			String.format("%.2f", progress);
-			System.out.println(count + " users done with " + (numLines - count)
+			System.out.println(count + " users done with " + (numUsers - count)
 					+ " users to go (" + progress + "% done)");
 			System.out.println();
 		}
