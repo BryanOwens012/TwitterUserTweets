@@ -2,4 +2,4 @@ This program TwitterUserTweets.jar takes a file full of Twitter screen names (e.
 
 TwitterIDToName.jar converts a file full of Twitter IDs, and converts them to screen names. Speed is approx 600k-800k conversions/day.
 
-/bin, /jars, and /src are the source code for TwitterUserTweets.jar.
+/bin, /jars, and /src contain the source code for TwitterUserTweets.jar.
