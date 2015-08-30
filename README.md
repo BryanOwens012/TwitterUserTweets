@@ -5,4 +5,4 @@ For convenience I have provided TwitterIDToName.jar, which converts a file full 
 
 `/bin`, `/jars`, and `/src` contain the source code for TwitterUserTweets.jar.
 
-Thank you to *zhangxiaoxuan1* and *Bovey Qin* for contributing.
+Thank you to **zhangxiaoxuan1** and **Bovey Qin** for contributing.
