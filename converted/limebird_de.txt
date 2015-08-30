@@ -1,0 +1,19 @@
+Fri Aug 28 01:56:01 PDT 2015 --  JS and PHP are going through the exact same renaissance right now. We should look to each other for inspiration, not shaming. #frontinams
+Thu Aug 27 23:15:03 PDT 2015 --  Developers discovering something new. @akkateam @gruntjs @gulpjs #Javascript #Akka pic.twitter.com/nKheuBDnsv
+Thu Aug 27 23:35:54 PDT 2015 --  Scaling on Ruby, with a nomadic tech team http://ow.ly/33jN0m  #programming #ruby #github
+Thu Aug 27 12:14:21 PDT 2015 --  German spies sold out citizens' data to NSA in exchange for super-snoop-ware XKeyscore http://reg.cx/2gQ3 
+Thu Aug 27 00:22:04 PDT 2015 --  PHP coming to Google Managed VMs https://code.google.com/p/googleappengine/issues/detail?id=9953 … #programming #php #webdev #google
+Wed Aug 26 03:10:00 PDT 2015 --  Node and ARM https://medium.com/@nodesource/node-and-arm-b5e3eebf449 … #nodejs #node #arm #programming #javascript #js
+Tue Aug 25 12:39:02 PDT 2015 --  A chicken sandwich cannot be copyrighted, judge rules http://arstechnica.com/tech-policy/2015/08/a-chicken-sandwich-cannot-be-copyrighted-judge-rules/ … by @JBrodkin
+Fri Aug 21 08:39:41 PDT 2015 --  Spotify apologizes for their alarming ToS changes, promises to revise again to limit their scope and intent: https://news.spotify.com/us/2015/08/21/sorry-2/ …
+Thu Aug 20 02:06:28 PDT 2015 --  We’re celebrating our 20th anniversary! This is what the first version of #Opera desktop looked like in 1995 #tbt pic.twitter.com/Rj0KpIvgE9
+Wed Aug 19 16:06:42 PDT 2015 --  HHVM 3.9.0 is official and hot off the build server! Check it out! http://hhvm.com/blog/9995/hhvm-3-9-0 …
+Tue Aug 18 17:03:02 PDT 2015 --  Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.
+Fri Jul 24 12:54:45 PDT 2015 --  C++: The Good Parts pic.twitter.com/3R1pHJtztw
+Sun Jul 26 07:43:30 PDT 2015 --  If Linux is so private Who is it reporting the sudo failures to
+Fri Jul 24 08:14:57 PDT 2015 --  THE YEAR IS 2025. JAVASCRIPT FRAMEWORKS OUTNUMBER HUMANS. SENTIENT TODO WEBAPPS SCOUR THE EARTH, HUNTING THE REMNANTS OF HUMANITY.
+Sat Jul 25 18:20:31 PDT 2015 --  people get it even if the punchline comes first. The nice thing about a TCP joke is that
+Sat Jul 18 09:02:07 PDT 2015 --  NASA’s ten coding commandments. http://jaxenter.com/power-ten-nasas-coding-commandments-114124.html … #programming #nasa #cleancode
+Wed Jul 15 12:21:38 PDT 2015 --  Switched back to Firefox. Just found out you can take full-page screenshots with one click from the devtools! pic.twitter.com/QVijjfzVds
+Thu Jul 16 05:11:10 PDT 2015 --  Professor Frisby's Most Adequate Guide To Functional Programming (in javascript) https://github.com/DrBoolean/mostly-adequate-guide … #javascript #js #programming
+Tue Jul 14 18:05:50 PDT 2015 --  NASA: Decade long flight across the solar system. Arrives within 72 seconds of predicted. No errors. Me: undefined is not a function

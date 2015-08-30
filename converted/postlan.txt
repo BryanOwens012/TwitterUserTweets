@@ -1,0 +1,19 @@
+Tue Aug 25 08:10:12 PDT 2015 --  New release Developer Cloud Service 15.3.3 available - new features. #DevCS #OraclePaaS http://ora.cl/gIH  pic.twitter.com/t6ec9j88tG
+Fri Aug 21 10:16:15 PDT 2015 --  #WebLogic on #Docker - Scripts and files updated to Oracle JDK 8 Update 60 https://github.com/oracle/docker/commit/f063cec38fdcbe8ac8743a86f674b64180ae3474 … ... and some minor changes
+Thu Aug 20 01:16:35 PDT 2015 --  #OracleMCS includes usage of Developer Cloud Service as well - and #OracleMAF - everything for @OracleMobile http://www.oracle.com/us/corporate/contracts/paas-iaas-public-cloud-2140609.pdf …
+Wed Aug 19 09:00:26 PDT 2015 --  Join us at Asia IoT/M2M Biz Platform Aug 25-26 & catch a demo of the upcoming Oracle IoT Cloud Service http://ora.cl/YoD 
+Tue Aug 18 02:05:59 PDT 2015 --  Full house and loads of excitement continues in Day 2 playing with #OracleICS at #ofmSummerCamps pic.twitter.com/4B0IyBaf01
+Sat Aug 15 18:16:07 PDT 2015 --  Handy tool for hacking on CSV data: http://johnkerl.org/miller/doc/ 
+Fri Jul 17 11:12:48 PDT 2015 --  This #infographic shows accurately the differences btwn #Monolith vs #Microservices architectures via @alvaro_sanchez pic.twitter.com/j8gDtM0kgv
+Fri Jun 12 14:59:24 PDT 2015 --  Google ‘Headquarters’ in 1998 pic.twitter.com/w5rQWwz8rU
+Fri Jul 24 10:45:05 PDT 2015 --  Oracle Database Cloud Exadata Service. Exadata Performance. Cloud Simplicity. http://ora.cl/6MO  #OraclePaaS pic.twitter.com/bUjEJjY4cN
+Tue Jul 14 07:25:03 PDT 2015 --  Interested in #JAVA and #WebLogic ? Join the #OTN Virtual Technology Summit http://bit.ly/1IRkz56 
+Tue Jul 07 13:18:46 PDT 2015 --  Oracle Mobile Cloud Service Webinar July 22 #Oracle #Mobile #Cloud http://ora.cl/vG1 
+Wed Jul 01 06:40:18 PDT 2015 --  posted: costs and benefits to understand if you're thinking of using microservices http://martinfowler.com/articles/microservice-trade-offs.html … pic.twitter.com/jylm3jLDix
+Sat Jun 20 20:17:36 PDT 2015 --  16mi devs by 2019. Today 9mi use @Java and way more use #JVM-based languages. The platform of future has been chosen https://twitter.com/MarcelBruch/status/601803214854496257 …
+Mon Jun 22 05:50:05 PDT 2015 --  Join Larry Ellison June 22 at 10am PT as he announces Oracle's new #Cloud Platform Services: http://bit.ly/1IAa6NB   #OraclePaaS #OracleICS
+Thu Jun 18 13:42:15 PDT 2015 --  Now mashup these two... :-D // @ShirlyRonenRL pic.twitter.com/sCq8sqqLcf
+Thu Jun 18 14:06:27 PDT 2015 --  Managing logs in #WebLogic: https://blogs.oracle.com/WebLogicServer/entry/managing_logs_in_weblogic …
+Thu Jun 18 15:20:00 PDT 2015 --  Fitbit's IPO raised more than $730 million for the company: http://onforb.es/1J6uTvt 
+Wed Jun 17 10:04:27 PDT 2015 --  Watch live, June 22 at 10am PT as Larry Ellison unveils new Oracle #cloud services http://bit.ly/1IAa6NB  #OraclePaaS pic.twitter.com/QMHZYRjUld
+Wed Jun 17 13:00:18 PDT 2015 --  The best CIOs in the industry are beginning to train their staff to become experts in cloud technologies. http://ora.cl/GDR 

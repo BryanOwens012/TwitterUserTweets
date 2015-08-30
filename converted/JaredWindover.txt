@@ -1,0 +1,23 @@
+Sun Aug 23 13:01:23 PDT 2015 --  and then there are pattern ranges... sed -n '/\/\*/,/\*\// p' file.php
+Sun Aug 23 12:40:24 PDT 2015 --  prints all "/* ... */" style comments
+Sun Aug 23 12:39:23 PDT 2015 --  sed is powerful: sed -n '/\/\*.*\*\// p; /\/\*.*\*\// !{/\/\*/ h; /\/\*/ !H; x; /\/\*.*\*\// p; /\/\*.*\*\// !x;}' file.php
+Wed Aug 19 07:02:05 PDT 2015 --  8 courses.1 experiential component. Check out @conraduwaterloo's new Minor in Entrepreneurship http://ow.ly/R5Wum 
+Wed Aug 19 08:28:41 PDT 2015 --  Just discovered the #apropos command. What have I been doing with my life. #man #linux
+Tue Aug 18 09:47:59 PDT 2015 --  First good part: Recursive acronym. No, not PHP Has Problems. PHP: Hypertext Processor.
+Tue Aug 18 09:45:35 PDT 2015 --  Rather than continue hating on PHP, I've decided to embrace it.
+Tue Aug 18 08:08:26 PDT 2015 --  So cool @vardenlabs pic.twitter.com/J0GsEEYBcL
+Tue Aug 18 08:01:20 PDT 2015 --  At ring road about to watch @vardenlabs demo their self-driving car pic.twitter.com/9qMm4E6L9g
+Sat Aug 15 19:33:20 PDT 2015 --  Command line twitter feed + awesome wm + reliance on keyboard shortcuts results in some nonsensical tweets... #awesome #ttytter ;a
+Sat Aug 15 19:28:08 PDT 2015 --  ;a
+Fri Aug 07 12:04:07 PDT 2015 --  Anonymously group chat with people nearby with @yougotthenod app! Subscribe to get free sticker - http://yougotthenod.com  #yougotthenod
+Fri Jul 31 08:36:11 PDT 2015 --  If computers were magic, AWS would be the Necronomicon: complex, arcane, and dangerous in the wrong hands. #AWS #evildead #noobsysadmin
+Tue Jul 21 05:26:31 PDT 2015 --  New kickstarter for a fantastic product. Been using mine since December. http://Ow.ly/PSQzF  #sapling pic.twitter.com/2cgMUYap54
+Tue Jul 21 03:51:18 PDT 2015 --  Cool programming puzzle for the morning. At least one solution that fits in a tweet. http://wgreenberg.github.io/quine.zip/index.html …
+Sat Apr 06 13:00:34 PDT 2013 --  Jake has a garage sale; Jared diagnoses himself with "Jared Syndrome", a phenomenon where everything always works out for him #jandjcbc
+Sun Mar 24 17:24:43 PDT 2013 --  Jake goes to comicon to try out his stand up comedy. His nerd routine is ill-received. Jared is temporarily blind from a laser toy. #jandjcbc
+Sat Mar 23 18:40:45 PDT 2013 --  Jake buys a very cheap boat. Jared starts playing inner-city basketball. The boat is actually stolen. #jandjcbc
+Sat Mar 23 18:34:55 PDT 2013 --  Jake accidentally stalks a girl, resulting in a restraining order, which he accidentally breaks. Jared learns to pick locks. #jandjcbc
+Fri Mar 22 17:35:49 PDT 2013 --  Jake tries to invent things but they keep being taken. Jared adopts an Ethiopian. #jandjcbc
+Fri Mar 22 17:28:53 PDT 2013 --  Jake dots the 'i' in his signature with a circle and tries to fix it. Jared dates a girl who he's convinced is Jenny McCarthy. #jandjcbc
+Sat Mar 16 18:08:52 PDT 2013 --  Jake starts 3D printing everything; Jared starts his own fad diet. #jandjcbc
+Sat Mar 16 17:48:35 PDT 2013 --  Jake gets upset if people don't thank him twice for two door-holds, while Jared goes to great lengths to set up puns in daily life #jandjcbc

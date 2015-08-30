@@ -1,0 +1,3 @@
+Sat Aug 22 11:02:32 PDT 2015 --  RubyとQML/Qt Quickでデスクトップ用GUIアプリを書けるgem「ruby-qml」を作った by @seanchas_t on @Qiita http://qiita.com/seanchas_t/items/ec8b5376b80eee22ea15 … メモ
+Sat Aug 22 10:58:26 PDT 2015 --  RubyとQML/Qt Quickで デスクトップアプリを 書けるようにした [embedded in http://sssslide.com/speakerdeck.com/iofg2100/qt-quickte-tesukutotuhuahuriwo-shu-keruyounisita …] https://speakerdeck.com/iofg2100/qt-quickte-tesukutotuhuahuriwo-shu-keruyounisita …　メモ
+Wed Aug 12 11:01:03 PDT 2015 --  INCREDIBLE SUPER REALISTIC SMOKE BRUSHES FOR PSD! MADE BY: @freegoodies_fd - #freegoodiesfordesigners DOWNLOAD FREE: http://slfy.co/mysf 

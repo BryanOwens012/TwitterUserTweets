@@ -1,0 +1,23 @@
+Sun Aug 16 06:01:35 PDT 2015 --  How to speed up automated test design and code while driving costs down? Use our framework! A-TaaS (Automation - Testing as a Service)
+Fri Aug 14 07:53:42 PDT 2015 --  Because I value dignity and human rights,I will only celebrate the day #Cubans are truly free from Castro. #USCuba pic.twitter.com/Alik1g2KRN
+Fri Aug 14 08:09:58 PDT 2015 --  La norma mas ELEMENTAL de respeto "si NO lo invitas a la fiesta, no lo puedes invitar a limpiar la casa" #Cuba pic.twitter.com/P6ZbEolpCm.
+Wed Jul 01 09:30:22 PDT 2015 --  Boring lunch. Must eat and run!
+Mon Sep 15 13:12:54 PDT 2014 --  A response to the #stop29119 campaign by Dr. Stuart Reid, Convenor of WG26 http://bit.ly/1r0aBd7  well done Dr. Reid and we concur!
+Tue Oct 08 19:06:42 PDT 2013 --  When you piss a #Gemini off, be prepared for them to never deal with you again.
+Thu Jul 04 19:59:47 PDT 2013 --  Here is another Selenium system that incorporates GRID for parallel distribution of tests: http://lnkd.in/rz6UZF 
+Sat Jun 29 18:33:30 PDT 2013 --  http://lnkd.in/iivyBp  Some folks are meant for Agile while others are not. The folks that are a fit for agile and that are successful in...
+Sat Jun 29 08:38:33 PDT 2013 --  Web automation system using Selenium-RC, MySQL and Perl: http://lnkd.in/ikxGDA 
+Sat Jun 29 08:38:33 PDT 2013 --  Web automation system using Selenium-RC, MySQL and Perl: http://lnkd.in/2hWkQV 
+Sat Jun 29 07:59:49 PDT 2013 --  http://lnkd.in/Ma8HdW  Yongyan, I'm not a proponent for QTP or any other framework. I'm a proponent of design first when it comes to...
+Fri Jun 28 18:40:17 PDT 2013 --  Selenium User Group - Lima, Peru is now an open group: http://lnkd.in/_abhxp 
+Thu Jun 06 13:53:35 PDT 2013 --  Using the Patriot Act the govt has been secretly tracking the calls of every #Verizon Business customer.Act now: http://bit.ly/13IoqhD  #NSA
+Mon Jan 21 11:47:26 PST 2013 --  http://lnkd.in/F3YSsm  Dan, "TDD doesn't check", are you sure you're not thinking about ATDD (Acceptance Test Driven Development)?
+Mon Jan 21 09:15:41 PST 2013 --  http://lnkd.in/zNr-Aj  A good way to get your feet wet with automation frameworks is to download and run the samples from frameworks like...
+Sat Jan 19 14:48:07 PST 2013 --  http://lnkd.in/_FtvvV  So in true agile teams there are no testers but there are folks doing checks on the software being built, correct?...
+Sat Jan 19 12:27:23 PST 2013 --  http://lnkd.in/HaAQbU  Brett, so the PO would be responsible for the bugs found after he has accepted the product? That implies that the...
+Sun Oct 21 11:22:50 PDT 2012 --  - #Cuba Mi boleta ya anulada #eleccionescuba http://twitpic.com/b692zl 
+Wed Sep 26 14:23:20 PDT 2012 --  Extend #Selenium Remote Driver for #Perl to support applicationName capability: http://ow.ly/1ODoBQ 
+Thu Jul 12 04:39:20 PDT 2012 --  Happy Thursday!!! http://www.teamvgp.com/resources/web_test_script.html … #Selenium test script template that can be used to test practically any function.. Feedback welcomed!
+Thu May 17 19:22:03 PDT 2012 --  Tell Attorney General Holder: Protect the First Amendment http://action.aclu.org/site/Advocacy?pagename=homepage&id=4428&s_subsrc=120517_right_to_record_tw_ar … via @aclu
+Fri Apr 27 10:20:57 PDT 2012 --  RT @carlgerber Facebook security hole. Do this now to be secure http://bit.ly/facebookhacked 
+Thu Jan 26 08:59:06 PST 2012 --  Watch this application of our Multi Agent System technology based engine at work! http://ow.ly/8Hogb 

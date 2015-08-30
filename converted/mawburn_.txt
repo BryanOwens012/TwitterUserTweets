@@ -1,0 +1,36 @@
+Fri Aug 21 12:37:00 PDT 2015 --  And not a tear will be shed when it's finally put down for good. http://www.geek.com/news/amazon-joins-in-on-killing-flash-stops-accepting-flash-ads-1631748/ … #flash #ripflash #webdev
+Wed Aug 19 20:15:39 PDT 2015 --  Learn ES6: 1. https://leanpub.com/understandinges6/read/ … 2. https://github.com/getify/You-Dont-Know-JS/tree/master/es6%2520%26%2520beyond … 3. http://www.2ality.com/  #es6 #JavaScript
+Tue Aug 18 09:08:19 PDT 2015 --  Reddit Names Marty Weiner, Founding Engineer At Pinterest, Its First CTO http://on.tcrn.ch/l/Ytna  by @drew
+Mon Aug 17 06:20:18 PDT 2015 --  http://git.io/v3p3x  FINALLY! A way to use #COBOL to write #nodejs apps! How did I ever get anything accomplished before now? #javascript
+Fri Aug 14 11:02:34 PDT 2015 --  The Future of Programming: WebAssembly & Life After JavaScript: http://www.sitepoint.com/future-programming-webassembly-life-after-javascript/ … #wasm #javascript
+Fri Aug 14 06:42:58 PDT 2015 --  This is great: https://youtu.be/g01dGsKbXOk  Netflix - Chasing 60fps with React.js #netflix #reactjs #nodejs #javascript #webdev
+Thu Aug 13 18:11:07 PDT 2015 --  Just incase anyone is looking at my early posts and wondering, I created this account in 2009 to keep track of an EVE bot I was building.
+Sat Aug 08 15:57:41 PDT 2015 --  Reviving an old account. I still don't really "get" Twitter....
+Fri Oct 23 22:52:33 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 21min | Total Profit: 703,347 isk | Per Hour: 2,006,695 isk/hr | Last Trade: 703,347
+Fri Oct 23 22:14:32 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 27min | Total Profit: 1,095,926 isk | Per Hour: 2,406,866 isk/hr | Last Trade: 428,042
+Fri Oct 23 22:04:07 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 17min | Total Profit: 667,884 isk | Per Hour: 2,371,186 isk/hr | Last Trade: 667,884
+Fri Oct 23 19:48:05 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 24min | Total Profit: 1,025,905 isk | Per Hour: 2,571,190 isk/hr | Last Trade: 1,025,905
+Fri Oct 23 18:02:19 PDT 2009 --  Timer is still ticking though :(
+Fri Oct 23 18:01:59 PDT 2009 --  Paused it
+Fri Oct 23 18:01:04 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 36min | Total Profit: 2,252,576 isk | Per Hour: 3,755,336 isk/hr | Last Trade: 831,832
+Fri Oct 23 17:38:38 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 14min | Total Profit: 1,420,744 isk | Per Hour: 6,281,846 isk/hr | Last Trade: 1,420,744
+Fri Oct 23 16:39:16 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 76min | Total Profit: 5,191,060 isk | Per Hour: 4,083,697 isk/hr | Last Trade: 596,469
+Fri Oct 23 16:31:50 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 69min | Total Profit: 4,594,591 isk | Per Hour: 4,004,583 isk/hr | Last Trade: 366,973
+Fri Oct 23 16:26:05 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 63min | Total Profit: 4,227,618 isk | Per Hour: 4,019,922 isk/hr | Last Trade: 956,042
+Fri Oct 23 14:38:39 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 134min | Total Profit: 8,180,345 isk | Per Hour: 3,663,114 isk/hr | Last Trade: 406,461
+Fri Oct 23 14:33:33 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 129min | Total Profit: 7,773,884 isk | Per Hour: 3,619,127 isk/hr | Last Trade: 694,101
+Fri Oct 23 13:50:32 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 86min | Total Profit: 6,109,409 isk | Per Hour: 4,268,831 isk/hr | Last Trade: 1,389,997
+Fri Oct 23 13:34:37 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 70min | Total Profit: 4,719,412 isk | Per Hour: 4,047,523 isk/hr | Last Trade: 1,212,618
+Fri Oct 23 13:17:17 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 53min | Total Profit: 3,506,794 isk | Per Hour: 3,999,385 isk/hr | Last Trade: 540,541
+Fri Oct 23 13:12:08 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 47min | Total Profit: 2,966,253 isk | Per Hour: 3,749,214 isk/hr | Last Trade: 371,673
+Fri Oct 23 13:03:41 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 39min | Total Profit: 2,594,580 isk | Per Hour: 3,989,616 isk/hr | Last Trade: 1,078,203
+Fri Oct 23 12:51:42 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 27min | Total Profit: 1,516,377 isk | Per Hour: 3,365,986 isk/hr | Last Trade: 717,218
+Fri Oct 23 12:41:56 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 17min | Total Profit: 799,159 isk | Per Hour: 2,776,463 isk/hr | Last Trade: 299,087
+Fri Oct 23 12:35:58 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 11min | Total Profit: 500,072 isk | Per Hour: 2,652,901 isk/hr | Last Trade: 500,072
+Fri Oct 23 12:21:04 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 42min | Total Profit: 2,634,942 isk | Per Hour: 3,780,405 isk/hr | Last Trade: 636,129
+Fri Oct 23 12:12:15 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 33min | Total Profit: 1,998,813 isk | Per Hour: 3,635,308 isk/hr | Last Trade: 798,480
+Fri Oct 23 12:03:03 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 24min | Total Profit: 1,200,334 isk | Per Hour: 3,028,597 isk/hr | Last Trade: 400,868
+Fri Oct 23 11:58:06 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 19min | Total Profit: 799,466 isk | Per Hour: 2,543,369 isk/hr | Last Trade: 321,116
+Fri Oct 23 11:53:12 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 14min | Total Profit: 478,350 isk | Per Hour: 2,060,373 isk/hr | Last Trade: 478,350
+Fri Oct 23 07:10:17 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 59min | Total Profit: 5,476,872 isk | Per Hour: 5,550,884 isk/hr | Last Trade: 462,941
+Fri Oct 23 07:03:50 PDT 2009 --  ::> EVE Trader Bot <:: Total Time: 53min | Total Profit: 5,013,931 isk | Per Hour: 5,701,969 isk/hr | Last Trade: 1,376,137

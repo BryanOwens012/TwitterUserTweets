@@ -1,0 +1,78 @@
+Fri Aug 28 04:37:44 PDT 2015 --  MSDN Flash ニュースレター | MSDN : https://msdn.microsoft.com/ja-jp/newsletter …
+Fri Aug 28 04:25:44 PDT 2015 --  はじめに http://azure.microsoft.com/en-us/get-started/ … @azureさんから
+Fri Aug 28 01:52:42 PDT 2015 --  Windows 10 Developer Readiness [Egypt] (Channel 9) https://channel9.msdn.com/Events/MVP-Virtual-Conference/Windows-10-Developer-Readiness-Powered-by-MVPs/Egypt … @ch9さんから
+Fri Aug 28 01:32:01 PDT 2015 --  なりすましに関するポリシー | Twitterヘルプセンター https://help.twitter.com/articles/253551  @サポートさんから
+Fri Aug 28 00:54:44 PDT 2015 --  Documentation for Visual Studio Code https://code.visualstudio.com/docs?dv=win 
+Thu Aug 27 22:21:07 PDT 2015 --  Friday Five on Windows : http://blogs.msdn.com/b/mvpawardprogram/archive/2015/07/03/friday-five-on-windows.aspx …
+Thu Aug 27 22:02:32 PDT 2015 --  Build 2015 marks an important step in our journey with developers – and it’s just the beginning http://blogs.microsoft.com/blog/2015/04/30/build-2015-marks-an-important-step-in-our-journey-with-developers-and-its-just-the-beginning/ …
+Tue Aug 25 08:27:11 PDT 2015 --  A Journey Through Space with IBM Analytics for Apache Spark http://www.dbta.com/Webinars/802-A-Journey-Through-Space-with-IBM-Analytics-for-Apache-Spark.htm … @dbtrendsさんから
+Tue Aug 25 07:19:27 PDT 2015 --  返信と@ツイート | Twitterヘルプセンター https://help.twitter.com/articles/223454  @サポートさんから
+Tue Aug 25 05:21:26 PDT 2015 --  なりすましに関するポリシー | Twitterヘルプセンター https://help.twitter.com/articles/253551  @サポートさんから
+Tue Aug 25 02:23:58 PDT 2015 --  The Twitter Blog https://blog.twitter.com/  @twitterさんから
+Tue Aug 25 00:33:44 PDT 2015 --  ツイートの公開または非公開設定 | Twitterヘルプセンター https://help.twitter.com/articles/20169930 … @サポートさんから
+Sun Aug 16 21:16:44 PDT 2015 --  http://windows.microsoft.com/en-us/internet-explorer/ie-security-privacy-settings#ie=ie-11&pop-up_blocker …
+Sun Aug 16 07:46:59 PDT 2015 --  A North Korean Defector’s Regret http://a.msn.com/01/en-us/BBlMgQ4?ocid=st …
+Sat Aug 15 06:33:05 PDT 2015 --  Microsoft put a Pong game in its Bing search engine http://www.windowscentral.com/microsoft-put-pong-game-its-bing-search-engine …
+Sat Aug 15 06:02:21 PDT 2015 --  A Journey Through Space with IBM Analytics for Apache Spark http://www.dbta.com/Webinars/802-A-Journey-Through-Space-with-IBM-Analytics-for-Apache-Spark.htm … @dbtrendsさんから
+Fri Jul 31 07:04:12 PDT 2015 --  Visual Studio 2015 Final Release Event (Channel 9) https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event … @ch9さんから
+Sun Jul 05 13:02:02 PDT 2015 --  Microsoft put a Pong game in its Bing search engine http://www.windowscentral.com/microsoft-put-pong-game-its-bing-search-engine …
+Sun Jul 05 12:01:18 PDT 2015 --  The Twitter Blog https://blog.twitter.com/  @twitterさんから
+Fri Jun 26 17:30:42 PDT 2015 --  炭酸ドリンクS/M/L全サイズ￥100 | キャンペーン | McDonald's http://www.mcdonalds.co.jp/campaign/drink_100yen/index.html …
+Wed Jun 24 16:16:07 PDT 2015 --  Twitterヘルプセンター | Twitter for Androidからログアウトする方法 https://support.twitter.com/  @サポートさんから
+Wed Jun 24 15:30:56 PDT 2015 --  Twitterヘルプセンター | Twitterルール https://support.twitter.com/  @サポートさんから
+Wed Jun 24 14:07:45 PDT 2015 --  Twitterヘルプセンター | Twitterルール https://support.twitter.com/  @サポートさんから
+Wed Jun 24 14:07:30 PDT 2015 --  Twitterヘルプセンター | 認証済みアカウントに関するよくある質問 https://support.twitter.com/  @サポートさんから
+Wed Jun 24 13:25:32 PDT 2015 --  Celebrating Dads on Twitter https://blog.twitter.com/2015/celebrating-dads-on-twitter … @twitterさんから
+Wed Jun 24 13:22:18 PDT 2015 --  The Twitter Blog https://blog.twitter.com/  @twitterさんから
+Wed Jun 24 13:20:29 PDT 2015 --  Twitter Japan Blog https://blog.twitter.com/ja/japan  @TwitterJPさんから
+Wed Jun 24 11:54:53 PDT 2015 --  Twitterヘルプセンター | メールアドレスの更新 https://support.twitter.com/  @サポートさんから
+Wed Jun 24 11:47:17 PDT 2015 --  Windows 10 Developer Readiness [Egypt] (Channel 9) https://channel9.msdn.com/Events/MVP-Virtual-Conference/Windows-10-Developer-Readiness-Powered-by-MVPs/Egypt … @ch9さんから
+Thu Jun 11 15:05:46 PDT 2015 --  Twitterヘルプセンター | 認証済みアカウントに関するよくある質問 https://support.twitter.com/  @サポートさんから
+Fri May 08 03:23:57 PDT 2015 --  9 Ways Therapists Can Tell If Your Relationship Won't Work http://a.msn.com/0E/en-us/BBiYQDX?ocid=st …
+Wed May 06 17:03:00 PDT 2015 --  So you know we've added #Android debugging support for natvis files to help visualize your native types, right? http://spr.ly/6013Ao2h 
+Thu May 07 11:19:55 PDT 2015 --  EarthSky News - May 6 - X2 Solar Flare! via @earthskyscience http://eepurl.com/blX4Hn 
+Fri Jun 25 10:55:14 PDT 2010 --  What do teens do online? 1 in 4 kids (25%) report they wouldn’t know what to do if they were bullied/harassed online. http://bit.ly/b0z2D3
+Sun Jun 27 06:37:52 PDT 2010 --  Images of (.Net logo)TM http://bit.ly/buHS5c
+Sun Jun 27 05:53:50 PDT 2010 --  Bounty Jobs New York, NY, 10036 - YELLOWPAGES.COM - http://t.yp.com/1876M
+Sun Jun 27 05:52:37 PDT 2010 --  1199 Seiu League Job Security Fund New York, NY, 10036 - YELLOWPAGES.COM - http://t.yp.com/1876q
+Sun Jun 27 05:51:23 PDT 2010 --  American Bartending School New York, NY, 10001 - YELLOWPAGES.COM - http://t.yp.com/2GHw
+Sun Jun 27 04:43:34 PDT 2010 --  Currently reading http://www.microsoft.com/everybodysbusiness/en/us/blog.aspx
+Sun Jun 27 02:46:26 PDT 2010 --  Microsoft Office Professional Academic 2010 http://shar.es/m85LM
+Sat Jun 26 20:06:22 PDT 2010 --  http://whatbrowser.org
+Fri Jun 25 14:06:34 PDT 2010 --  Home Shopping Network sees increased revenue with Silverlight and IIS Smooth Streaming online videos - http://bit.ly/c3ILEU #silverlight
+Sat Jun 26 16:04:56 PDT 2010 --  @Windows_Japan shunji tokuoka e.g
+Fri Jun 25 10:37:33 PDT 2010 --  join blog porson reach stop
+Fri Jun 25 10:36:05 PDT 2010 --  Welcome to Microsoft Office Labs - Office Labs http://www.officelabs.com/Lists/Posts/Post.aspx?ID=17
+Thu Jun 24 07:09:39 PDT 2010 --  Should Elementary Schools Give Condoms to Students? Provincetown, Mass. Thinks So - ABC News: http://bit.ly/dB8Gf9 via @addthis
+Wed Jun 23 06:23:29 PDT 2010 --  windowsyour@hotmail.co.jp
+Wed Jun 23 06:05:30 PDT 2010 --  shunji tokuoka.e.g
+Wed Jun 23 00:38:40 PDT 2010 --  ABC
+Sun Jun 20 07:17:04 PDT 2010 --  News about cnn.com live http://bit.ly/bHvgEs
+Sun Jun 20 06:37:36 PDT 2010 --  cnn com
+Fri Jun 18 20:25:41 PDT 2010 --  retrieval
+Fri Jun 18 20:22:03 PDT 2010 --  RT @Xconomy Tim Berners-Lee and Group of Boston Web Gurus Leading New MIT Class to Get Linked Data to Market http://xconomy.com/?p=87620
+Wed Jun 16 12:28:13 PDT 2010 --  http://glo.msn.com/relationships/how-to-flirt-with-an-older-woman-4031.gallery?photoId=8140
+Wed Jun 16 12:17:19 PDT 2010 --  http://glo.msn.com/relationships/how-to-flirt-with-an-older-man-4045.gallery?photoId=8152
+Wed Jun 16 03:17:41 PDT 2010 --  徳岡俊二e.g
+Wed Jun 16 03:16:43 PDT 2010 --  shunji tokuoka e.g
+Mon Jun 14 23:28:37 PDT 2010 --  2010年5月のサービスエリア拡大実績について http://www.emobile.jp/cgi-bin/press.cgi?id=767 #emobile
+Mon Jun 14 23:28:35 PDT 2010 --  2010年5月のサービスエリア拡大実績について http://www.emobile.jp/cgi-bin/press.cgi?id=767 #emobile
+Mon Jun 14 02:55:30 PDT 2010 --  worldwide exchange
+Mon Jun 14 02:53:46 PDT 2010 --  How to use RSS - CNBC-http://www.cnbc.com/id/17073179
+Sun Jun 13 11:59:14 PDT 2010 --  Green blunder costs England victory against U.S. - http://bit.ly/dm7x0S #cnn
+Sun Jun 13 10:56:45 PDT 2010 --  cnbc
+Sun Jun 13 10:54:52 PDT 2010 --  SUZE ORMAN
+Fri Jun 11 14:38:37 PDT 2010 --  eminder: Windows XP end-of-sales and end-of-support deadlines http://cot.ag/aIMHgN
+Sun Jun 06 12:10:15 PDT 2010 --  rest pause august
+Sun Jun 06 12:01:29 PDT 2010 --  As strong rivals emerge, do you really need a new iPhone? - http://bit.ly/dwBQP1 #cnn
+Sun Jun 06 01:25:46 PDT 2010 --  search
+Sun Jun 06 01:19:31 PDT 2010 --  Jay Leno on Bing http://bit.ly/ar6O59
+Wed Jun 02 12:13:35 PDT 2010 --  cnn
+Wed Jun 02 11:19:25 PDT 2010 --  ホリエモン　連絡待っている　徳岡俊二eg
+Wed Jun 02 11:16:12 PDT 2010 --  松山から帰る自宅だょ
+Sun May 30 15:12:50 PDT 2010 --  松山に着く e.g
+Sun May 30 07:28:07 PDT 2010 --  バスーで移動中
+Sun May 30 07:03:24 PDT 2010 --  四国八十八に
+Sat May 29 09:00:25 PDT 2010 --  retrieval search
+Sat May 29 08:55:37 PDT 2010 --  Infoplease Search: shunji tokuoka e.g: http://bit.ly/91GewF via @addthis
+Sat May 29 04:27:18 PDT 2010 --  cnn jon

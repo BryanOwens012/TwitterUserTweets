@@ -1,0 +1,72 @@
+Sun Aug 23 11:52:55 PDT 2015 --  How to Restore Individual Exchange User Mailbox using Symantec Netbackup http://theithead.com/2015/08/23/how-to-restore-individual-exchange-user-mailbox-using-symantec-netbackup … pic.twitter.com/SPZ5jXvsNP
+Sun Aug 23 11:52:54 PDT 2015 --  Login to exchange server as a administrator and follow the below screen shots to do a successful single user... http://fb.me/2MlVIakfP 
+Sat Aug 22 11:40:53 PDT 2015 --  Step by Step restoration procedure of… http://theithead.com/2015/08/22/step-by-step-restoration-procedure-of-vmware-virtual-machine-backup-using-symantec-netbackup … pic.twitter.com/xcjWN9S3xM
+Sat Aug 22 11:40:52 PDT 2015 --  Follow the steps to do a full virtual machine restore to its original location. Start the NetBackup Backup,... http://fb.me/7nSJnOIW5 
+Sat Aug 22 11:08:25 PDT 2015 --  Security Consideration in the Network Level – Oracle Solaris Hardening http://theithead.com/2015/08/22/security-consideration-in-the-network-level-oracle-solaris-hardening … pic.twitter.com/VNfdVVXGvw
+Sat Aug 22 11:08:24 PDT 2015 --  Network Services Hardening Disabling port 23, 21, 25, 110, 53..etc., and enable only required ports. Enhancing... http://fb.me/3PzWi6odF 
+Sat Aug 22 10:59:11 PDT 2015 --  Security Consideration in Operating System Level – Oracle Solaris Hardening http://theithead.com/2015/08/22/security-consideration-in-operating-system-level-oracle-solaris-hardening … pic.twitter.com/FWV4rgJxwZ
+Sat Aug 22 10:59:10 PDT 2015 --  User Management Disable All unused user accounts You can disable accounts by changing NP on the shadow file for... http://fb.me/2hjRBjGfZ 
+Sat Aug 22 10:39:29 PDT 2015 --  Security Consideration During OS Installation – Oracle Solaris Hardening http://theithead.com/2015/08/22/security-consideration-during-os-installation-oracle-solaris-hardening … pic.twitter.com/t6Q6vF7jBQ
+Sat Aug 22 10:39:28 PDT 2015 --  Installation Installing most recently Built operating system. Applying latest patch cluster. Use “ patchdiag “ if... http://fb.me/3SmlEyFKm 
+Sat Aug 22 07:29:45 PDT 2015 --  How to restore SAP-Oracle database using BR tools and Symantec NetBackup in a Linux Machine http://theithead.com/2015/08/22/how-to-restore-sap-oracle-database-using-br-tools-and-symantec-netbackup-in-a-linux-machine …
+Sat Aug 22 07:29:44 PDT 2015 --  For the SAP-Oracle database restore, normally if you take a backup using SAP as policy type from Symantec... http://fb.me/7tM0X4Tmf 
+Sat Aug 22 07:04:42 PDT 2015 --  Step by Step restoration procedure for SAP-DB2 database using Symantec Netbackup http://theithead.com/2015/08/22/step-by-step-restoration-procedure-for-sap-db2-database-using-symantec-netbackup … pic.twitter.com/MvKYs0UjCc
+Sat Aug 22 07:04:41 PDT 2015 --  Find the below steps to restore a SAP-DB2 database and its archive logs using Symantec NetBackup in a Linux... http://fb.me/2hmMpA9rP 
+Fri Aug 21 12:45:22 PDT 2015 --  How to perform a SAP-MaxDB database restore using Symantec NetBackup in a Linux Machine http://theithead.com/2015/08/21/how-to-perform-a-sap-maxdb-database-restore-using-symantec-netbackup-in-a-linux-machine/ …
+Fri Aug 21 12:45:22 PDT 2015 --  The following procedure will show you how to perform a MaxDB database restore using Symantec NetBackup for SAP.... http://fb.me/85qkBfMv8 
+Fri Aug 21 12:26:24 PDT 2015 --  Prepare a Client to restore using BMR (Bare Metal Restore) in Symantec Netbackup http://theithead.com/2015/08/21/prepare-a-client-to-restore-using-bmr-bare-metal-restore-in-symantec-netbackup/ … pic.twitter.com/tsuKz3sPdF
+Fri Aug 21 12:26:22 PDT 2015 --  Follow the below steps to prepare a client to restore using bare metal restore in Symantec Netbackup. In the... http://fb.me/7uUOQKm18 
+Fri Aug 21 03:29:22 PDT 2015 --  @theIThead Hey. Great getting connected to you. :-) Discover how to build a Real Internet Business: http://www.onlinecash.xyz 
+Thu Aug 20 06:46:35 PDT 2015 --  How to join multiple split files in Windows http://theithead.com/2015/08/20/how-to-join-multiple-split-files-in-windows …
+Thu Aug 20 06:46:33 PDT 2015 --  Command to join multiple split files as a one zip file in a windows machine. Please find the same from below.... http://fb.me/6MX2LUz5O 
+Thu Aug 20 06:34:38 PDT 2015 --  How to Join Binary Splits File in Unix http://theithead.com/2015/08/20/how-to-join-binary-splits-file-in-unix …
+Thu Aug 20 06:34:35 PDT 2015 --  Command to join binary split files as a one tar file in a Unix machine. Please find the same from below. Binary... http://fb.me/3HYHGoxPU 
+Thu Aug 20 06:03:47 PDT 2015 --  Batch Script to transfer files from Windows to FTP Server http://theithead.com/2015/08/20/batch-script-to-transfer-files-from-windows-to-ftp-server …
+Thu Aug 20 06:03:45 PDT 2015 --  Create a batch file and schedule it in a task scheduler to transfer files automatically from windows to FTP... http://fb.me/3YJvJijU0 
+Thu Aug 20 05:33:16 PDT 2015 --  How to enable FTP in Oracle Solaris 11.1 http://theithead.com/2015/08/20/how-to-enable-ftp-in-oracle-solaris-11-1 … pic.twitter.com/Jlny89cQN9
+Thu Aug 20 05:33:13 PDT 2015 --  Besides removing "root" from /etc/ftpd/ftpusers, also need to modify /etc/proftpd.conf on both local and remote... http://fb.me/7uOHSoKOo 
+Thu Aug 20 03:41:09 PDT 2015 --  Procedure to Upgrade Symantec Netbackup License from any 7.x to 7.7 http://theithead.com/2015/08/20/procedure-to-upgrade-symantec-netbackup-license-from-any-7-x-to-7-7 … pic.twitter.com/5mLIsAwr52
+Thu Aug 20 03:41:04 PDT 2015 --  Licensing upgrade procedure for netbackup Connect to http://licensing.symantec.com  Click on 'go to my Symantec', it... http://fb.me/7rPxr3lz4 
+Thu Aug 20 03:01:00 PDT 2015 --  Symantec Netbackup 7.7 released http://theithead.com/2015/08/20/symantec-netbackup-7-7-released …
+Thu Aug 20 03:00:58 PDT 2015 --  Please find the link fileconnect to download Symantec NetBackup 7.7, before downloading the same, as a first step... http://fb.me/6McqZ37I8 
+Wed Aug 19 12:07:20 PDT 2015 --  Configuring VMware Backup Policy in Symantec NetBackup http://theithead.com/2015/08/19/configuring-vmware-backup-policy-in-symantec-netbackup … pic.twitter.com/6RuYe7ofFS
+Wed Aug 19 12:07:17 PDT 2015 --  Follow the below screenshots to configure vmware backup policy in Symantec Netbackup. The NetBackup for VMware... http://fb.me/6Lz2AGjI9 
+Wed Aug 19 11:09:38 PDT 2015 --  The NetApp SnapProtect backup management software delivers the fast and efficient backup and recovery solution... http://fb.me/7vCxzCMYq 
+Wed Aug 19 11:09:28 PDT 2015 --  About NetApp SnapProtect http://theithead.com/2015/08/19/about-netapp-snapprotect …
+Tue Aug 18 12:47:18 PDT 2015 --  Accessing to Dell TL2000/TL4000 Tape Libraries Web Console http://theithead.com/2015/08/18/accessing-to-dell-tl2000tl4000-tape-libraries-web-console … pic.twitter.com/ttfXV9YISK
+Tue Aug 18 12:47:15 PDT 2015 --  To connect the Dell TL series tape libraries web console, as a first step configure IP address for the library... http://fb.me/2JwbLQtgc 
+Tue Aug 18 12:12:56 PDT 2015 --  NetApp SnapProtect Oracle IdataAgent remote install via Commcell Console on Windows Machine http://theithead.com/2015/08/18/netapp-snapprotect-oracle-idataagent-remote-install-via-commcell-console-on-windows-machine … pic.twitter.com/9b5fzAw2Of
+Tue Aug 18 12:12:52 PDT 2015 --  The below screen shots will show you the steps to install remotely the oracle idatagent via commcell console... http://fb.me/31XhkPkNt 
+Tue Aug 18 11:32:49 PDT 2015 --  Connecting to NetApp SnapProtect Commcell console http://theithead.com/2015/08/18/connecting-to-netapp-snapprotect-commcell-console … pic.twitter.com/pJHk2A99BA
+Tue Aug 18 11:32:46 PDT 2015 --  Login to Commserve server and connect to commcell console or if you have installed commcell console agent in your... http://fb.me/7s24FmlKA 
+Mon Aug 17 12:59:01 PDT 2015 --  Photographic Art by Russel Ray Photos http://fb.me/7nzO9c1OP 
+Mon Aug 17 09:12:31 PDT 2015 --  How to monitor active backup jobs in Oracle Secure Backups http://theithead.com/2015/08/17/how-to-monitor-active-backup-jobs-in-oracle-secure-backups … pic.twitter.com/iOtaKsJ6JA
+Mon Aug 17 09:12:28 PDT 2015 --  Please find below screenshots which will show you the way to monitor the active backups jobs in Oracle secure... http://fb.me/zU63n47l 
+Mon Aug 17 08:39:35 PDT 2015 --  How to run a manual backup for datasets added in Oracle Secure backup http://theithead.com/2015/08/17/how-to-run-a-manual-backup-for-datasets-added-in-oracle-secure-backup … pic.twitter.com/pdWFVs9Xel
+Mon Aug 17 08:39:32 PDT 2015 --  Please find below screenshots which will show you in detailed steps to be followed to run a manual backup for... http://fb.me/7sgDT1QiD 
+Mon Aug 17 08:17:07 PDT 2015 --  Adding a Dataset for file system backup in Oracle Secure backup http://theithead.com/2015/08/17/adding-a-dataset-for-file-system-backup-in-oracle-secure-backup … pic.twitter.com/ia3weq0VMu
+Mon Aug 17 08:17:04 PDT 2015 --  The Below screenshots will show you in detail how to add a new backup dataset for a file system backup in OSB.... http://fb.me/7vdS7UMCX 
+Sun Aug 16 04:28:17 PDT 2015 --  Logical Volume Manager (removing volume group&physical volumes) for Red Hat Linux http://theithead.com/2015/08/16/logical-volume-manager-removing-volume-groupphysical-volumes-for-red-hat-linux …
+Sun Aug 16 04:28:15 PDT 2015 --  Procedure to remove volume group, logical volume and physical volume on RedHat Linux 1) Become a root user 2) #lvm... http://fb.me/J9LD28TQ 
+Sun Aug 16 03:58:08 PDT 2015 --  Logical Volume Manager (Creating and mounting new volumes) for Red Hat Linux http://theithead.com/2015/08/16/logical-volume-manager-creating-and-mounting-new-volumes-for-red-hat-linux …
+Sun Aug 16 03:58:06 PDT 2015 --  Procedure to create physical volume, volume group, logical volume, filesystem and mount on RedHat Linux Server 1)... http://fb.me/2ojAtQaU0 
+Sun Aug 16 00:33:36 PDT 2015 --  About Me http://wp.me/P6AQ1s-1  via @theIThead
+Sat Aug 15 12:02:20 PDT 2015 --  Adding new user in HPC system using Rocks Cluster and Redhat Linux/CentOS http://theithead.com/2015/08/15/adding-new-user-in-hpc-system-using-rocks-cluster-and-redhat-linuxcentos/ …
+Sat Aug 15 12:02:18 PDT 2015 --  Login to Linux machine as a root user and follow the below steps to create and add new user to rockscluster and... http://fb.me/2rQdVV05B 
+Sat Aug 15 05:15:00 PDT 2015 --  Script for file system full alert of Solaris Machine http://theithead.com/2015/08/15/script-for-file-system-full-alert-of-solaris-machine …
+Sat Aug 15 05:14:58 PDT 2015 --  Please find the below script to send filesystem full auto alert of solaris machine by scheduling it in crontab... http://fb.me/2l6PC8ZlF 
+Sat Aug 15 04:57:47 PDT 2015 --  Script for System Load alert of Solaris Machine http://theithead.com/2015/08/15/script-for-system-load-alert-of-solaris-machine …
+Sat Aug 15 04:57:45 PDT 2015 --  Please find below the script to send system load auto alert of Solaris machine by scheduling it in crontab... http://fb.me/7lYbL4I4s 
+Fri Aug 14 07:27:22 PDT 2015 --  ILOM Password Reset of Oracle T4- Sparc http://theithead.com/2015/08/14/ilom-password-reset-of-oracle-t4-sparc …
+Fri Aug 14 07:27:20 PDT 2015 --  Please follow the below procedure to recover Oracle T4-Sparc ILOM password 1) Connect serial console or laptop... http://fb.me/2acwsc2Xn 
+Fri Aug 14 07:12:38 PDT 2015 --  Configuring an Active-Active IPMP Group in Solaris 11 http://theithead.com/2015/08/14/configuring-an-active-active-ipmp-group-in-solaris-11 …
+Fri Aug 14 07:12:32 PDT 2015 --  1) Become a root user 2) Use the below commands to confiure IPMP group naming ipmp0 for net0 and net2 interfaces... http://fb.me/4ehsNYuNA 
+Fri Aug 14 03:45:07 PDT 2015 --  Adding a New Backup Policy for SAP in Netbackup http://theithead.com/2015/08/14/adding-a-new-backup-policy-for-sap-in-netbackup … pic.twitter.com/TydFZsTLyz
+Fri Aug 14 03:13:19 PDT 2015 --  Configuring process description for SAP-MaxDB with DBMCLI http://theithead.com/2015/08/14/configuring-process-description-for-sap-maxdb-with-dbmcli …
+Fri Aug 14 03:04:59 PDT 2015 --  Configuration process description for SAP-Oracle with RMAN http://theithead.com/2015/08/14/configuration-process-description-for-sap-oracle-with-rman …
+Thu Aug 13 18:30:54 PDT 2015 --  About Dell Compellent Fluid Data Architecture http://theithead.com/2015/08/14/about-dell-compellent-fluid-data-architecture …
+Thu Aug 13 17:48:32 PDT 2015 --  RMAN Script to take Oracle Database Full Backup from OEM 12C backup schedule http://theithead.com/2015/08/14/rman-script-to-take-oracle-database-full-backup-from-oem-12c-backup-schedule …
+Sat Apr 25 06:55:26 PDT 2015 --  #RajiniMurugan trneding in #India @Siva_Kartikeyan @RDRajaofficial @StudioGreen2 http://www.screen4screen.com/rajini-murugan-news/ … pic.twitter.com/VheGfc63pA
+Sat Apr 25 05:34:22 PDT 2015 --  #RajiniMurugan First look Poster pic.twitter.com/VIzgfJwxbI
+Tue Apr 14 09:54:42 PDT 2015 --  INNIMEY IPPADITHAAN MOTION POSTER:-) https://m.youtube.com/watch?v=B0MUYLWGjCk&feature=youtu.be …
+Sun Dec 18 01:23:55 PST 2011 --  @DhanushOnline All the best ...////

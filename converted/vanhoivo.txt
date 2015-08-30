@@ -1,0 +1,154 @@
+Fri Aug 28 10:19:04 PDT 2015 --  LangPack for build 10532: http://pcportal.org.ru/forum/60-6497-197729-16-1440753868 … and http://forums.mydigitallife.info/threads/64736-DISCUSSION-Windows-10-Insider-Preview-Build-10532/page17?p=1133824#post1133824 …
+Sat Aug 29 04:03:34 PDT 2015 --  Download MUI language packs for Windows 10 build 10532 http://winaero.com/blog/download-mui-language-packs-for-windows-10-build-10532/ …
+Fri Aug 28 19:00:02 PDT 2015 --  http://spr.ly/6010BH2LI  - Here are your Top Ten Developer Links from August 27 thanks to @lyalindotcom. pic.twitter.com/Losd3rVzby
+Fri Aug 28 07:35:29 PDT 2015 --  @evil_abhi We don't release builds on the weekends.
+Fri Aug 28 07:32:43 PDT 2015 --  The new V8 (in Chrome 46 beta) includes ES6 Spread & improvements to JavaScript performance: http://v8project.blogspot.co.uk/2015/08/v8-release-46.html … pic.twitter.com/hN6S3WlvfX
+Thu Aug 27 23:04:22 PDT 2015 --  ISO List Windows 10 Build 10532 (10532.0.th2_release.150822-1406) MEGA: http://pastebin.com/1zNpZK6Q  pic.twitter.com/MouLrg4DgC
+Thu Aug 27 18:17:59 PDT 2015 --  MS Edge on Android http://www.neowin.net/forum/topic/1266990-digital-entitlement-new-licensing-system-introduced-in-windows-10/?do=findComment&comment=597004106 … pic.twitter.com/DNTrhacs30
+Thu Aug 27 23:43:24 PDT 2015 --  VMware Workstation Pro 12.0.0 + key for Windows: (284.72 MB) https://mega.co.nz/#!R8pBDBpB!Bll-MpaiGt53oYNtaDnfJVtZ9Z-FMdxzsGGh-DQL5yI … pic.twitter.com/LjBnYhoxmo
+Fri Aug 28 03:59:26 PDT 2015 --  Google fixes bug which caused 64-bit Chrome to crash on Windows 10 Insider builds: http://www.neowin.net/news/google-fixes-bug-which-caused-64-bit-chrome-to-crash-on-windows-10-insider-builds … qua @NeowinFeed
+Thu Aug 27 21:32:42 PDT 2015 --  New Office 2016 build discovered: 16.0.4229.1020 #Office2016 #Preview
+Fri Aug 28 01:02:19 PDT 2015 --  Lịch thi đấu vòng 23 TOYOTA V.League 1-2015 https://youtu.be/ez4zf1HO_IU  qua @YouTube
+Fri Aug 28 01:01:39 PDT 2015 --  Trực tiếp: Becamex Bình Dương vs FLC Thanh Hóa – V.League 2015 https://youtu.be/eDGHjW47jpY  qua @YouTube
+Fri Aug 28 00:57:43 PDT 2015 --  Trực tiếp: Đồng Nai vs Hoàng Anh Gia Lai – V.League 2015 https://youtu.be/-RKTBLttbmw  qua @YouTube
+Thu Aug 27 22:17:31 PDT 2015 --  change the Retail to GVLK key and activation KMSAuto Net 2015 v1.3.8 Portable http://files.fm/down.php?i=fdtztkw&n=KMSAuto+Net+2015+v1.3.8+Portable.zip … by Ratiborus pic.twitter.com/BWcFrsAW0X
+Thu Aug 27 12:07:58 PDT 2015 --  A few sharp-eyed #WindowsInsiders noticed that I only said no *mobile* build today. Hmm...that button sure looks shiny...
+Thu Aug 27 13:17:27 PDT 2015 --  10532 Pro x64 - gDrive Mirror: https://drive.google.com/file/d/0BylqhXw5kQ7MQVFBXy1LVXJSdjQ/view?usp=sharing …
+Thu Aug 27 13:35:02 PDT 2015 --  How long did the files sit on the MS delivery server? Here's the answer if you for some reason want to know pic.twitter.com/X36Gnk40eb
+Thu Aug 27 20:51:43 PDT 2015 --  pt_windows_10_pro_10532_x86_dvd.iso (2.77 GB) https://mega.co.nz/#!2sVkgbyD!7cm8k0pnU4NANNmvnRzcTKrRix3ZFvB_aFp_DVgXJlo … pic.twitter.com/jeCuVVOruc
+Thu Aug 27 13:33:42 PDT 2015 --  10532 Pro x86 - gDrive Mirror: https://drive.google.com/file/d/0BylqhXw5kQ7MbEFrRmdObzFRb00/view?usp=sharing …
+Thu Aug 27 10:37:25 PDT 2015 --  @Mkeallison That's just date when the cert currently used to sign builds expires. The program will continue. New builds will use new cert.
+Tue Aug 18 10:00:41 PDT 2015 --  Previewing our first platform updates for Microsoft Edge http://bit.ly/1hlWBsP  pic.twitter.com/vqAb7mLgMK
+Wed Aug 26 06:27:48 PDT 2015 --  Windows 8 hit 100 million licenses in 6 MONTHS. Windows 10 on 75 million PCs in 4 WEEKS http://www.theverge.com/2015/8/26/9209949/windows-10-75-million-machines … pic.twitter.com/wTkEAMUobL
+Tue Aug 18 10:03:31 PDT 2015 --  Here's what we're up to next! Coming soon to an Insider build near you. https://twitter.com/MSEdgeDev/status/633684956653334528 … pic.twitter.com/7oh8Xhidsw
+Wed Aug 26 16:17:08 PDT 2015 --  Now boarding for an upcoming Insider flight... pic.twitter.com/XucKzp8phL
+Wed Aug 26 11:34:49 PDT 2015 --  @cdorf17 @SamTechh I'm on 10532 currently
+Thu Aug 27 01:34:04 PDT 2015 --  http://startisback.com/ 
+Wed Aug 26 21:30:11 PDT 2015 --  New build discovered: 10.0.10240.16484 (th1_st1_apps.150826-1038) #Windows #WindowsInsiders
+Wed Aug 26 21:38:50 PDT 2015 --  Windows 10 Now on 75 Million Devices http://blogs.windows.com/bloggingwindows/2015/08/26/windows-10-now-on-75-million-devices/#.Vd6UV_lUzjE.twitter …
+Wed Aug 26 18:41:04 PDT 2015 --  Microsoft's Insider Preview program for Mobile expires on October 1, 2015 http://buff.ly/1MU82oy  pic.twitter.com/NnK3Iyz2oB
+Wed Aug 26 06:41:13 PDT 2015 --  Microsoft announces the affordable Nokia 222, powered by Series 30+ http://buff.ly/1UcDLjx  pic.twitter.com/og8EljWYQq
+Wed Aug 26 06:31:11 PDT 2015 --  Office 2016 for Windows expected to launch on September 22nd http://buff.ly/1MTdd88  pic.twitter.com/dYuAsbeTwx
+Tue Aug 18 11:26:31 PDT 2015 --  Live Tiles just got a big upgrade in #Windows10. Learn more: http://wndw.ms/4PPvrH  #Win10x10 pic.twitter.com/5lHXe5tRGY
+Wed Aug 26 06:42:06 PDT 2015 --  Engaging customers with Live Tiles and toast notifications (10 by 10) http://blogs.windows.com/buildingapps/2015/08/18/engaging-customers-with-live-tiles-and-toast-notifications-10-by-10/#.Vd3CK4qbAb8.twitter …
+Wed Aug 26 06:34:10 PDT 2015 --  You can now play the classical Snake game in Bing’s search results page http://dlvr.it/ByxdNt  #Bing pic.twitter.com/qJaVWQpfw3
+Wed Aug 26 06:40:52 PDT 2015 --  Windows 10 officially reaches 75 million installs: http://www.winbeta.org/news/windows-10-officially-reaches-75-million-installs … - via: @WinBetaDotOrg
+Wed Aug 26 06:07:20 PDT 2015 --  Almost one month since Windows 10 launched. Here are a few fun facts. Top 10 list…starts now! #Windows10
+Wed Aug 26 06:09:20 PDT 2015 --  2. #Windows10: Windows 10 is running in 192 countries, virtually every country on the planet. 2/10 pic.twitter.com/GcAzAd501T
+Wed Aug 26 06:09:56 PDT 2015 --  3. #Windows10: More than 90,000 unique PC or tablet models have upgraded to Windows 10. 3/10 pic.twitter.com/dEHWnBf1g9
+Wed Aug 26 06:10:35 PDT 2015 --  4. #Windows10: Even some devices manufactured in 2007 have upgraded to Windows 10. 4/10 pic.twitter.com/Jo14necMkY
+Tue Aug 25 17:36:00 PDT 2015 --  Configuration w/ environment variables w/ #VisualStudio #Docker Tools "...specify Run options in the wizard..." - http://spr.ly/6010BHroG 
+Tue Aug 25 17:44:48 PDT 2015 --  http://Tweaking.com  - Windows Repair 3.4.3 #tech #software #free http://www.tweaking.com/content/page/windows_repair_all_in_one.html …
+Tue Aug 25 01:42:16 PDT 2015 --  Office 2016 for Windows expected to launch on September 22nd http://www.theverge.com/2015/8/25/9204575/microsoft-office-2016-windows-release-date-rumors?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter … pic.twitter.com/uNFGJcb2UY
+Sun Aug 23 14:25:48 PDT 2015 --  где взять Windows 10 Enterprise 2015 LTSB? здесь: https://cloud.mail.ru/public/55iF/AeAXbaWx7 … в имени ищим _ltsb_, их 6 шт, 2 русских, 2 английских и 2 EN "N"
+Sat Aug 22 18:51:10 PDT 2015 --  Beautiful #Facebook #Messenger client for Mac, Windows & Linux by @Aluxian http://messengerfordesktop.com 
+Sat Aug 22 17:52:12 PDT 2015 --  Perfect Saturday PCs https://www.reddit.com/r/shittybattlestations/comments/3gnwcs/natty_light_king_of_beers/ …, http://imgur.com/a/RWUXx , http://imgur.com/a/DyQZL  pic.twitter.com/Zzx3WwPKug
+Sat Aug 22 17:54:06 PDT 2015 --  Microsoft Surface Pro 4 Features Include Skylake Chipset, 1TB SSD, and 16GB RAM: Consumers can expect Microsof... http://bit.ly/1JEIY42 
+Sat Aug 22 17:54:35 PDT 2015 --  Microsoft won't provide full release notes for most Windows 10 updates http://www.pcworld.com/article/2974648/windows/microsoft-wont-provide-full-release-notes-for-most-windows-10-updates.html … by @dtnick pic.twitter.com/IWSmoojZyi
+Fri Aug 21 09:24:24 PDT 2015 --  Windows 10x10 Series: Learn how to do more with Live Tiles in Windows 10. https://cards.twitter.com/cards/9q3yc/umr9 …
+Sat Aug 22 17:56:04 PDT 2015 --  This Real-Time Stats Counter Tells You How Many Windows Users Have Windows 10 http://buff.ly/1U7jXxY  pic.twitter.com/bYMWLEdjo2
+Sat Aug 22 18:45:30 PDT 2015 --  Inspiron 15 5000 Series Touch + Free 32" TV http://fw.to/Q8MEzqO 
+Sat Aug 22 18:01:07 PDT 2015 --  New study shows more people love Windows 10 than hate it http://buff.ly/1WLK8yo  pic.twitter.com/SADdYkGkce
+Sat Aug 22 18:11:00 PDT 2015 --  Acer Aspire One Cloudbook 11, with Windows 10 and 32GB of storage, launches for $189.99 http://buff.ly/1Jo4ymU  pic.twitter.com/1H9xE4wde9
+Sat Aug 22 06:17:38 PDT 2015 --  Checkout http://sharewareonsale.com/s/avg-antivirus-giveaway-coupon-sale … qua @SharewareOnSale
+Sat Aug 22 06:16:41 PDT 2015 --  Checkout http://sharewareonsale.com/s/free-avg-internet-security-2014-54-99-value … qua @SharewareOnSale
+Sat Aug 22 02:57:29 PDT 2015 --  Google Mất Dữ Liệu Vĩnh Viễn Vì Bị Sét Đánh Liên Tiếp | Cộng Đồng IT Việt Nam: http://www.itonline.vn/threads/google-mat-du-lieu-vinh-vien-vi-bi-set-danh-lien-tiep.5641/ …
+Sat Aug 22 02:57:18 PDT 2015 --  Tăng Tốc Mở Menu Start Trên Windows 10 | Cộng Đồng IT Việt Nam: http://www.itonline.vn/threads/tang-toc-mo-menu-start-tren-windows-10.5640/ …
+Thu Aug 20 02:25:04 PDT 2015 --  Insider build of Windows 10 make screenshots and send them to the server Microsoft. http://www.youtube.com/watch?v=C5rEgOUuoFI …
+Fri Aug 21 12:38:12 PDT 2015 --  DWS Build 298 ! *FIREWALL RULES FIX* Download https://github.com/Nummer/Destroy-Windows-10-Spying/releases/latest … pic.twitter.com/vjkvtkf6aA
+Wed Aug 19 13:05:26 PDT 2015 --  Microsoft Office 2016 v16.0.4229.1017 ISO x86-64 ENGLISH, RUSSIAN 2,8 Gb https://cloud.mail.ru/public/BXSY/sUrNsFCxc/ … by Ratiborus
+Wed Aug 19 13:38:22 PDT 2015 --  https://cloud.mail.ru/public/2phS/TanDg1xHP … pic.twitter.com/7j0wG7hbsB
+Wed Aug 19 01:02:06 PDT 2015 --  Windows 10 Build 10525 ISO's(note: these are homebrews, not MS official): http://winaero.com/blog/download-windows-10-build-10525-iso-images/ …
+Wed Aug 19 01:08:05 PDT 2015 --  Please, redownload PIDKey http://v2.0.9.1003.zip  https://cloud.mail.ru/public/Chjb/NzzPK2gr3 … Thank you. ;)
+Tue Aug 18 20:30:41 PDT 2015 --  New Intel HD 5000 graphics driver for Windows 10 available on Windows Update.
+Tue Aug 18 22:01:08 PDT 2015 --  Intel's new tech could let Windows 10 owners use their voice to wake up a PC http://buff.ly/1NrRrao  pic.twitter.com/081kPh8HVz
+Tue Aug 18 20:56:04 PDT 2015 --  Microsoft explains four new graph types in Office 2016: http://www.winbeta.org/news/microsoft-explains-four-new-graph-types-office-2016 … - via: @WinBetaDotOrg
+Tue Aug 18 20:55:59 PDT 2015 --  New series launched by Microsoft to help bring businesses to Windows 10: http://www.winbeta.org/news/new-series-launched-microsoft-help-bring-businesses-windows-10 … - via: @WinBetaDotOrg
+Tue Aug 18 20:54:05 PDT 2015 --  Video: Windows 10 Build 10525 showcasing new features and changes: http://www.winbeta.org/news/video-windows-10-build-10525-showcasing-new-features-and-changes … - via: @WinBetaDotOrg
+Tue Aug 18 15:18:46 PDT 2015 --  10525.0.th2_release.150812-1658 https://cloud.mail.ru/public/75xL/fiBoCPK5m … https://mega.nz/#!M9B2DDpZ!713oQSj6nlYVHvkpSAo20g6E3yNRHcfYOvshELjRu0k … pic.twitter.com/bAP0q9xwF9
+Tue Aug 18 13:47:05 PDT 2015 --  Download, Install and Activation latest Office 2016 v16.0.4229.1017 https://cloud.mail.ru/public/Chjb/NzzPK2gr3 … http://wzor.net/50207.html  pic.twitter.com/kckOzwkQyu
+Tue Aug 18 19:20:07 PDT 2015 --  New Microsoft Windows advertising SDK with support for video interstitials http://blogs.windows.com/buildingapps/2015/08/17/new-windows-microsoft-advertising-sdk-with-support-for-video-interstitials/#.VdPn1cZGmiQ.twitter …
+Tue Aug 18 19:20:01 PDT 2015 --  August update for Xbox app on Windows 10 brings high-res Game Streaming http://blogs.windows.com/bloggingwindows/2015/08/18/august-update-for-xbox-app-on-windows-10-brings-high-res-game-streaming/#.VdPnz1bidHY.twitter …
+Tue Aug 18 19:19:55 PDT 2015 --  Previewing our first platform updates for Microsoft Edge http://blogs.windows.com/msedgedev/2015/08/18/previewing-our-first-platform-updates-for-microsoft-edge/#.VdPnyYMUE3A.twitter …
+Tue Aug 18 19:19:47 PDT 2015 --  Engaging customers with Live Tiles and toast notifications (10 by 10) http://blogs.windows.com/buildingapps/2015/08/18/engaging-customers-with-live-tiles-and-toast-notifications-10-by-10/#.VdPnwCM03Bo.twitter …
+Tue Aug 18 19:17:15 PDT 2015 --  Windows 10 virtual machines now available on Microsoft Edge Dev http://blogs.windows.com/msedgedev/2015/08/17/windows-10-virtual-machines-now-available-on-microsoft-edge-dev/#.VdPnKD5zRsJ.twitter …
+Sun Aug 16 02:43:16 PDT 2015 --  Windows Server 2016 Technical Preview 3 Build 10512 China Edition ...: Windows Server 2016 Technical Preview ... http://bit.ly/1TJdpLa 
+Mon Aug 17 10:25:55 PDT 2015 --  Microsoft Desktop Optimization Pack 2015 (x86 and x64) - DVD (Multiple Languages): VS Enterprise with MSDN (Retail) http://bit.ly/1TPl36V 
+Mon Aug 17 11:20:32 PDT 2015 --  Windows 10 virtual machines now available on Microsoft Edge Dev http://blogs.windows.com/msedgedev/2015/08/17/windows-10-virtual-machines-now-available-on-microsoft-edge-dev/#.VdIl4vgkoyo.twitter …
+Mon Aug 17 11:44:06 PDT 2015 --  mu_microsoft_desktop_optimization_pack_2015_x86_x64_dvd_5975282.iso (2.80 GB) https://mega.co.nz/#!wVBWGRBA!HaIJrIQdiqV7nmLjkpOFJOZZKex92A_IG4sWVjSVgak … pic.twitter.com/OMvvObEv0g
+Mon Aug 17 07:01:43 PDT 2015 --  After 53 million installs, Windows 10 takes 4.95% of the market: http://www.neowin.net/news/after-53-million-installs-windows-10-takes-495-of-the-market … qua @NeowinFeed
+Sat Aug 15 23:23:33 PDT 2015 --  massive clean-up of Windows 10 Feedback, now only 2 weeks ago - i.e. since RTM. Preparation of new post-RTM Preview release?
+Sat Aug 15 13:16:49 PDT 2015 --  10512.1000 Server zh-CN https://drive.google.com/file/d/0BylqhXw5kQ7MZm55cmRoZnN4R1U/view?usp=sharing …
+Sun Aug 16 01:12:37 PDT 2015 --  всплыла на поверхность приватная китайская сборка сервера, 10512.1000.150802-1426.TH2 https://twitter.com/0xCore/status/632647150594359296 … https://twitter.com/gus33000/status/632611842838372352 …
+Sun Aug 16 02:30:13 PDT 2015 --  Windows Server 2016 Technical Preview 3 Build 10512.1000.th2.150802-1426 ZH-CN screenshots... http://wzor.net/49269.html  pic.twitter.com/2vLzRTt4TX
+Sun Aug 16 15:03:57 PDT 2015 --  Windows 10 China Build 10240.16425.th1.150802-1600 Source: BetaAsia@Weibo http://forums.mydigitallife.info/threads/64321-Leak-10240-16425-150802-1600-TH1_CLIENTPRO-CORE_OEMRET_X64FRE_ZH-CN-ISO … pic.twitter.com/wKUsuppOuH
+Mon Aug 17 01:57:44 PDT 2015 --  Acronis выпустила новый True Image 2016 для резервного копирования PC, Mac и… http://dlvr.it/Bsvcbk  #3DNews pic.twitter.com/3G9e68z9Ds
+Tue Jun 09 00:51:13 PDT 2015 --  New Public Beta builds of Norton Security and Norton Security with Backup 22.5 Update for Win 10 are now available! http://nr.tn/1cI2qgH 
+Thu Aug 13 17:06:38 PDT 2015 --  Boarding a plane in a few minutes, and my vacation comes to an end. Back to work!
+Sun Aug 16 03:00:54 PDT 2015 --  Is Microsoft prepping for a post Windows 10 RTM Insider build? http://www.neowin.net/news/is-microsoft-prepping-for-a-post-windows-10-rtm-insider-build … qua @NeowinFeed
+Sat Aug 15 23:17:23 PDT 2015 --  [FAQ] Windows 10 bản chính thức, nâng cấp miễn phí, bản quyền mãi mãi cho Insider | Cộng Đồng IT Việt Nam: http://www.itonline.vn/threads/faq-windows-10-ban-chinh-thuc-nang-cap-mien-phi-ban-quyen-mai-mai-cho-insider.5234/ …
+Sat Aug 15 01:19:45 PDT 2015 --  Из 4Gb RAM в Note 5 свободен почти 1Gb! Наконец-то, это чего мы ждали! Рубеж в 300 свободных Mb пройден! pic.twitter.com/Aoxp56rQ4W
+Sun Aug 02 22:55:38 PDT 2015 --  Новое в блоге: Оптимизация доставки, или торрент-клиент под капотом Windows 10 http://buff.ly/1MEAPff  pic.twitter.com/IKKij7uQed
+Fri Aug 14 21:42:31 PDT 2015 --  WINDOWS.SERVER.2016.ESSENTIALS.TP3.10514.X64.OEM.ENGLISH.DVD-WZT https://mega.nz/#!pEsFFIra!h3KSpq4orD4UuXWz9eqFRENzKEoizvNuRT0usxsQ1zQ … https://openload.io/f/K5m3gwnE6_U/  pic.twitter.com/i3bP0hplIR
+Fri Aug 14 21:43:51 PDT 2015 --  WINDOWS.SERVER.2016.HYPERCORE.TP3.10514.X64.OEM.ENGLISH.DVD-WZT https://mega.nz/#!AI80CLia!sYJ5TSoAJl38SxtGpJlK4BRU2xsrtXKEGaHlPfmnyss … https://openload.io/f/sBnQsbceRHw/  pic.twitter.com/nSuH3ZCYrS
+Sat Aug 15 16:59:29 PDT 2015 --  @Mitchell90 Working on it. There's an issue in some cases of going straight from 8.1 -> 10512, thus the extra step.
+Sat Aug 15 17:09:34 PDT 2015 --  @Joecascio2000 As long as Activation status in Settings shows "activated" you should be good, and can clean install on same PC.
+Fri Aug 14 18:44:26 PDT 2015 --  Updates to Windows 10. #WindowsInsiders pic.twitter.com/bnYn5zUqq3
+Fri Aug 14 13:09:24 PDT 2015 --  Windows Server 2016 Technical Preview 3 Build 10514.0.150808-1529 Essentials Edition ... screenshots gallery UPDATE http://wzor.net/49101.html 
+Fri Aug 14 06:09:57 PDT 2015 --  Files.fm: Easy file transfer and cloud storage http://files.fm  #files.fm
+Fri Aug 14 06:09:42 PDT 2015 --  Sig up for Files.fm! http://files.fm/sign_up?i=vanhoivo&sh=d6b2a02c9a15df43e1f7935e3780a07e …
+Thu Aug 13 22:08:25 PDT 2015 --  @scweeny https://twitter.com/WZorNET/status/631969610288513025 …
+Thu Aug 13 23:14:31 PDT 2015 --  Windows Server 2016 Technical Preview 3 Build 10514 Essentials Edition http://wzor.net/49101.html  to be continued ... pic.twitter.com/zA2K1BDc1H
+Fri Aug 14 00:38:50 PDT 2015 --  Bộ Công an vào cuộc vụ thảm sát 4 người ở Yên Bái - Kiến Thức http://www.baomoi.com/Bo-Cong-an-vao-cuoc-vu-tham-sat-4-nguoi-o-Yen-Bai/104/17265411.epi …
+Thu Aug 13 19:50:33 PDT 2015 --  lol. oh dear, WiFi is here. pic.twitter.com/4gdTi4XdM6
+Thu Aug 13 22:04:31 PDT 2015 --  MICROSOFT.WINDOWS.SERVER.2016.TP3.10514.X64.OEMRET.ENGLISH.DVD-WZT https://mega.nz/#!Iw4RlY7S!uSNbezdZN9N9DAcceV8TKBnPTAxsch-X-O68C-7J6-E … https://openload.io/f/npyQ9f4nJF8/MICROSOFT.WINDOWS.SERVER.2016.TP3.10514.X64.OEMRET.ENGLISH.DVD-WZT.rar … pic.twitter.com/sicu5FPkaL
+Thu Aug 13 23:30:30 PDT 2015 --  Kaspersky One Dollar Lesson - Defending your cash from online fraud/ http://onedollarlesson.com  via @
+Thu Aug 13 18:54:59 PDT 2015 --  'ALL 282 NON-ENTERPRISE Windows 10 ORIGINAL ISO...' | http://TextUploader.com  http://textuploader.com/aoqru 
+Thu Aug 13 08:40:25 PDT 2015 --  Windows Server 2016 Technical Preview 3 Release Candidate (10514.0.150808-1529.TH2) is now available for the partners
+Thu Aug 13 13:02:30 PDT 2015 --  soon (8/17) here Release Notes: Important Issues in Windows Server Technical Preview 3 Build 10514.0.150808-1529 https://technet.microsoft.com/en-US/library/dn765470.aspx … …
+Thu Aug 13 13:32:32 PDT 2015 --  Windows Hardware Compatibility playlists https://sysdev.microsoft.com/en-US/Hardware/compatibilityplaylists/ … Windows Hardware Certification blog http://blogs.msdn.com/b/windows_hardware_certification/ …
+Thu Aug 13 13:39:02 PDT 2015 --  Windows Server 2016 Technical Preview 3 Release Candidate Build 10514.0.150808-1529 http://wzor.net/48470.html  pic.twitter.com/7DfQB5ISbw
+Thu Aug 13 15:40:06 PDT 2015 --  soon Server 10514.0.150808-1529.TH2_Release gallery and more ... pic.twitter.com/2ZgKrOK2Vd
+Thu Aug 13 16:24:31 PDT 2015 --  Windows Server 2016 TP3 Release Candidate Build 10514.0.150808-1529 screenshots ... http://wzor.net/48785.html  by WZT pic.twitter.com/4SBM5Ku7k1
+Thu Aug 13 13:40:38 PDT 2015 --  @nvtweak @ViciousGaymer @windowsinsider Correct. The free upgrade offer extends to 7 and 8.1. For a new PC, would need to buy a 10 license.
+Thu Aug 13 17:59:49 PDT 2015 --  Windows Server 2016 build 10514 screenshots have leaked onto the web - http://bit.ly/1Jg4b4f  via @WinBetaDotOrg
+Thu Aug 13 17:20:50 PDT 2015 --  Some WinServer 10514 screenies if that's yo thing : http://www.winbeta.org/news/windows-server-2016-build-10514-screenshots-have-leaked-web …
+Thu Aug 13 17:05:00 PDT 2015 --  ‘Twins Minigame’ takes you in a playfully unpredictable world http://spr.ly/6017BGTbS  pic.twitter.com/XQp8O9ampD
+Wed Aug 12 07:01:07 PDT 2015 --  Let's download this and mirror it shall we ? A little bit old, but nice for collection pic.twitter.com/8fw4OOv7OP
+Thu Aug 13 01:58:20 PDT 2015 --  That screenshot shows what everyone expects. And this is the reality.. pic.twitter.com/bKJwLy4iBD
+Thu Aug 13 05:56:02 PDT 2015 --  Windows 10 Mobile 10512 New Feature: This is the new default start layout pic.twitter.com/oSAvJMw75j
+Thu Aug 13 05:56:09 PDT 2015 --  Windows 10 Mobile Preview build 10512 has over 2,000 fixes http://buff.ly/1KiuK3j  pic.twitter.com/v6OJLnXTPL
+Thu Aug 13 05:59:49 PDT 2015 --  Use Windows 10 on your Mac with Boot Camp: https://support.apple.com/en-us/HT204990  pic.twitter.com/seGkrh6QLh
+Thu Aug 13 06:00:01 PDT 2015 --  Happy throwback Thursday from @BillGates http://bit.ly/1fqqeb5  #tbt pic.twitter.com/V59xSDSRg8
+Thu Aug 13 06:01:34 PDT 2015 --  Film and TV updated on Windows 10 mobile for latest build http://dlvr.it/Bqynn2 
+Thu Aug 13 06:06:01 PDT 2015 --  Corel’s VideoStudio X8.5 update supports Windows 10 and adds creative goodies for filmmakers http://buff.ly/1PlZkNK  pic.twitter.com/jYMAEeFDqH
+Wed Aug 12 15:39:08 PDT 2015 --  Now I know it's called "Digital Entitlement" instead of "Digital License" - new licensing mechanism for Windows 10 http://www.pcworld.com/article/2970075/windows/why-you-cant-find-your-product-key-after-upgrading-to-windows-10.html#tk.twt_pcworld …
+Wed Aug 12 23:08:11 PDT 2015 --  гигантской силы взрыв на контейнерном терминале в китайском Тяньцзинь http://m.chinadaily.com.cn/en/live/node_11001961.htm … http://www.ibtimes.com/tianjin-blasts-update-photos-show-aftermath-explosions-rocked-chinese-city-killing-2051442 … pic.twitter.com/zmYLjWTsQe
+Wed Aug 12 13:13:43 PDT 2015 --  Is Windows 10 Mobile build 10512 ready for daily use? Yes! :)
+Wed Aug 12 23:01:10 PDT 2015 --  ICYMI: Start10 - A Windows 10 Start Menu Replacement from Stardock http://clkon.us/1Enqb5F  via @SSforWindows pic.twitter.com/OSellDNgAW
+Tue Aug 11 05:00:03 PDT 2015 --  GEEK ON THIS: 64GB memory, 1TB SSD, 4K, mighty @Intel Xeon processor for mobile workstation http://lnv.gy/1J0KFXr  pic.twitter.com/ctzFbnFgby
+Wed Aug 12 22:52:36 PDT 2015 --  Windows 10 Mobile Insider Preview Build 10512 (official) | Cộng Đồng IT Việt Nam: http://www.itonline.vn/threads/windows-10-mobile-insider-preview-build-10512-official.5524/ …
+Tue Aug 11 19:43:06 PDT 2015 --  Some screen-shots of Windows 10 Mobile Build 10512 :http://www.neowin.net/forum/topic/1267908-run-android-appsapk-on-windows-10-mobile/?do=findComment&comment=596971310 … pic.twitter.com/DftSv3SeBi
+Tue Aug 11 23:14:05 PDT 2015 --  Interesting: Win8.1 OEM(CCS) also shows LTSB in build tag: 9600.17936.amd64fre.winblue_ltsb.** http://bbs.pcbeta.com/viewthread-1630916-1-1.html … pic.twitter.com/dDhMLXGv63
+Fri Jul 31 08:55:45 PDT 2015 --  @kennethkee93 You won't need a key, the entitlement is cloud stored. A clean install on the same PC will just reactivate.
+Wed Aug 12 18:08:15 PDT 2015 --  Why you can't find your product key after upgrading to Windows 10 http://www.pcworld.com/article/2970075/windows/why-you-cant-find-your-product-key-after-upgrading-to-windows-10.html … qua @pcworld
+Tue Aug 11 12:07:39 PDT 2015 --  Adobe Flash Player 18.0.0.232: http://www.neowin.net/news/adobe-flash-player-1800232 …
+Tue Aug 11 06:43:33 PDT 2015 --  pCloud https://my.pcloud.com/#page=register&invite=hHNzZKPN4ay …
+Tue Aug 11 04:12:09 PDT 2015 --  Save sensitive files in a reliable place! https://blog.pcloud.com/cloud-storage-101-how-to-organize-your-new-academic-year/ …
+Tue Aug 11 01:34:03 PDT 2015 --  KMSAuto Net 2015 v1.3.8 Portable - (10/08/2015) http://files.fm/down.php?i=fdtztkw&n=KMSAuto+Net+2015+v1.3.8+Portable.zip … pic.twitter.com/WWl38kq7aX
+Sun Aug 09 19:35:12 PDT 2015 --  @FaiKeeF It's probably some Partner build, Rumor(take with salt) is 10516 coming up for Insiders.
+Mon Aug 10 15:23:04 PDT 2015 --  @SamTechh Soon :-)
+Mon Aug 10 19:34:46 PDT 2015 --  @Wereszko Okay, changing your profile name is officially the most committed way to ask for new builds I've seen yet :-) Answer: Soon
+Mon Aug 10 20:02:32 PDT 2015 --  http://blogs.opera.com/desktop  qua @Opera
+Sun Aug 09 19:33:57 PDT 2015 --  A guy posted in Weibo about receive Windows 10 Mobile Build 10512 on Aug 7 http://www.weibo.com/871214949#_rnd1439173631112 … pic.twitter.com/YWdQ5w6yaa
+Sun Aug 09 23:19:08 PDT 2015 --  @Ivelok как пример, 22TKD-F8XX6-YG69F-9M66D-PMJBM ;Ultimate;OEM:SLP;Lenovo был заблокирован :)
+Sat Aug 08 08:44:53 PDT 2015 --  MICROSOFT.WINDOWS.10.PROFESSIONAL.RTM.10240.X64.VOL.UKRAINIAN.DVD-WZT https://mega.nz/#!gkZ3DYoZ!g9KnypdUw64XPcgWssBWrCsSRdHZrgTTinvX11dMMH0 … https://openload.io/f/BeVM3857dkA/MICROSOFT.WINDOWS.10.PROFESSIONAL.RTM.10240.X64.VOL.UKRAINIAN.DVD-WZT.rar … pic.twitter.com/ffdp0c7jIg
+Sat Aug 08 08:45:31 PDT 2015 --  MICROSOFT.WINDOWS.10.PROFESSIONAL.RTM.10240.X86.VOL.UKRAINIAN.DVD-WZT https://mega.nz/#!tsh3SIRZ!1EgWeOzsVoJVBzHja2wYakqEjgUmo54Plq4TI7uNa5k … https://openload.io/f/qJABy-Q5iQ0/MICROSOFT.WINDOWS.10.PROFESSIONAL.RTM.10240.X86.VOL.UKRAINIAN.DVD-WZT.rar … pic.twitter.com/Cyq1pZtK3o
+Mon Aug 10 07:30:04 PDT 2015 --  In case you missed it last week: Save Time and Energy with Mobile Device Support https://blog.teamviewer.com/mobile-device-support/?utm_source=Twitter&utm_medium=social&utm_content=blogmobiledevicesupport&utm_campaign=Social …
+Mon Aug 10 04:34:31 PDT 2015 --  Files.fm: Easy file transfer and cloud storage http://files.fm  #files.fm
+Sun Aug 09 17:31:05 PDT 2015 --  Audiobooks from Audible now available for Windows 10 http://blogs.windows.com/bloggingwindows/2015/08/07/audiobooks-from-audible-now-available-for-windows-10/#.VcfwwleGI9M.twitter …
+Sun Aug 09 11:00:01 PDT 2015 --  On @Ch9's latest Defrag – detecting C memory leaks and renaming the #Windows10 Start Menu: http://wndw.ms/PLa98I  pic.twitter.com/oOMMbOvfJP
+Sun Aug 09 16:30:00 PDT 2015 --  Who has time for passwords? See how Microsoft Passport & #Azure are eliminating passwords : http://msft.it/6010B1rYK  pic.twitter.com/0mQrxFUHSe
+Sun Aug 09 07:02:52 PDT 2015 --  StartIsBack returns real start menu and common sense to Windows 8, you should definitely try it out! http://startisback.com  #startisback
+Sun Aug 09 04:33:04 PDT 2015 --  GAJJAR TEJAS'S BLOG: http://www.gajjartejas.in/#.Vcc6YqcWFiU.twitter …
+Sun Aug 09 01:58:33 PDT 2015 --  #OneDrive is here! It's the one place for everything in your life. Sign up and get 15 GB free. https://onedrive.live.com/?invref=27a271a0eef8b1e2&invsrc=91 …

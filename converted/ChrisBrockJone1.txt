@@ -1,0 +1,2 @@
+Thu Aug 13 09:59:43 PDT 2015 --  Clarification on the Supremacy blog: each time a control point is claimed, time is added. A close Supremacy match can go on forever
+Thu Aug 13 20:59:03 PDT 2015 --  Hello

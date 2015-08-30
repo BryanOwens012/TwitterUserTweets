@@ -1,0 +1,11 @@
+Sat Aug 15 03:45:32 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=1019 … VSPEX - قسمت سوم
+Sat Aug 15 03:45:17 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=1018 … VSPEX - قسمت دوم
+Sat Aug 15 03:45:02 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=1016 … VSPEX - قسمت اول
+Sat Aug 15 03:44:43 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=1014 … نسل جدید فایروال ها Cisco ASA with FirePOWER (اسلاید و متن)
+Sat Aug 15 03:44:15 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=1013 … فایروال به زبان ساده - قسمت دوم
+Sat Aug 15 03:43:53 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=1011 … فایروال به زبان ساده - قسمت اول
+Sat Aug 15 03:43:23 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=9 … راهکار مجازی سازی سیسکو برای EMC VSPEX VMware 5.1 با 100، 125 و 250 ماشین های مجازی
+Sat Aug 15 03:43:01 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=7 … میکروتیک چیست
+Sat Aug 15 03:42:44 PDT 2015 --  http://farazaseman.ir/NewsDetails.aspx?NewsID=6 … آموزش Load Balancing به روش ECMP در میکروتیک
+Mon Aug 03 02:09:26 PDT 2015 --  نسل بعدی فایروال ها با ASA و FirePower Services by @farazasemanir #asa #cisco http://www.slideshare.net/farazaseman/asa-firepower-services … via @SlideShare
+Sat Jul 04 00:52:30 PDT 2015 --  #شبکه فراز آسمان شبکه : اولین و تنها مجری راهکار زیرساخت مجازی VSPEX و FlexPod در کشور

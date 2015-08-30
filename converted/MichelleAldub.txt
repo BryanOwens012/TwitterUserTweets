@@ -1,0 +1,2 @@
+Sat Aug 15 01:35:14 PDT 2015 --  Hello Twitter! #myfirstTweet
+Sat Aug 15 01:35:10 PDT 2015 --  Hi followers

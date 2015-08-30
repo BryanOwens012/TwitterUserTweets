@@ -1,0 +1,76 @@
+Thu Aug 27 14:30:28 PDT 2015 --  Help! There's a feature walking around my cup... pic.twitter.com/pW9De4XIWf
+Fri Aug 28 00:28:38 PDT 2015 --  Never forget #timehop @philsturgeon http://timehop.com/c/t:505095853183598592:55637176:14446593:2d479 … pic.twitter.com/ktOaLfm2zD
+Thu Aug 27 13:11:14 PDT 2015 --  <q>It now happens too fast, can you slow it down a bit. I liked the "Busy" spinner.</q> Actual quote.
+Thu Aug 27 08:13:37 PDT 2015 --  You never go full SELinux
+Tue Aug 25 01:12:58 PDT 2015 --  If u ever need Periodic Table in JSON https://gist.github.com/MightyPork/2ecea27f95c283e2ee60 …
+Tue Aug 11 09:17:06 PDT 2015 --  Corgi stylesheets. Amazing :) http://jackiekircher.com/blog/posts/2014-09-19-corgi-stylesheets … pic.twitter.com/KJLeeramyi
+Wed Aug 12 17:10:06 PDT 2015 --  I *need* this t-shirt in my life! :D pic.twitter.com/AqYfkkZ4j6
+Wed Aug 12 07:33:49 PDT 2015 --  Never scare a magician. pic.twitter.com/RqFoybd1hw
+Sun Jul 26 04:00:19 PDT 2015 --  So the guy in the bottom right corner of #phpStorm is called "Hector the inspector" o.O #phpKonf
+Fri Jul 10 16:09:22 PDT 2015 --  If you ever get the opportunity to use a "Build [x] without coding!" tools, don't. Save yourself some pain & light yourself on fire.. twice
+Tue Jul 07 10:19:30 PDT 2015 --  Someone pls put this "author" into a dungeon with rats or something pic.twitter.com/OIIqad0H7e
+Mon Jul 06 20:26:57 PDT 2015 --  Greece's game plan right now pic.twitter.com/E0XPybvuGf
+Wed Jun 10 10:27:01 PDT 2015 --  We will just add a "small feature" #programmerhumor (pic via @UltraLinx and @msdevUK) pic.twitter.com/FU7kVUQ5w5
+Sat Jun 20 11:09:31 PDT 2015 --  One of my favorite comic strips #dev #programmerhumor pic.twitter.com/LRwxIKfUQr
+Sat Jun 20 12:20:04 PDT 2015 --  Oh, so we're doing CSS jokes? Okay, 'vertical-align: middle'. #programmerhumor
+Fri May 29 12:05:01 PDT 2015 --  When you forget to comment... #DeveloperProblems #ProgrammerHumor via @msdevUK pic.twitter.com/mQJQDiomsg
+Wed Jul 01 09:29:54 PDT 2015 --  That moment when you forget a semicolon in a JS loop. loop. loop. loop. loop. loop. loop. loop. loop.
+Wed Jul 01 12:56:26 PDT 2015 --  Does this happen to anyone else? #developerproblems pic.twitter.com/RxZEIDR3DM
+Sun Jul 05 14:16:04 PDT 2015 --  So, what's the euro to drachma rate? I would like to be able to go home from Greece when my vacation is over...
+Sun Jul 05 10:48:40 PDT 2015 --  Just wait with the drachmas till I get back home, k? pic.twitter.com/dDJBYZIKqx
+Wed Jul 01 05:44:14 PDT 2015 --  Look who I found in a guest book in Athens @MightyPork pic.twitter.com/Id2Wms63rU
+Fri Jun 26 14:51:53 PDT 2015 --  Love everything about this. #LoveWins http://meta.stackoverflow.com/a/297871  pic.twitter.com/szaduZdH9v
+Wed Jun 24 17:54:24 PDT 2015 --  Regressive Enhancement: the process of blurring text in IE8 to encourage upgrading to a better experience! #wdcode @SlexAxton
+Fri Jun 19 06:55:50 PDT 2015 --  <!--[if IE 5]>  <p>HI WHAT IS THE PAST LIKE?</p> <![endif]-->
+Fri Jun 12 04:29:36 PDT 2015 --  What’s a Redditor’s favourite DOM method in JavaScript? element.getBoundingClientRekt();
+Tue Jan 20 13:54:31 PST 2015 --  @_Jordan all tests pass pic.twitter.com/IiRSiY4cu3
+Tue Jun 09 11:40:54 PDT 2015 --  Hey @getm3at! Send me an invite to your awesome #git app for web developers NOW!
+Fri Jun 05 14:18:33 PDT 2015 --  "I wrote the source code, asshat" http://i.imgur.com/MfFKGP4.jpg  #Burn
+Sat May 30 02:56:06 PDT 2015 --  Geek verb 1. someone who laughs at their screen constantly while everyone else in the room wonders on.
+Wed May 27 10:28:05 PDT 2015 --  $foo::$bar::$baz This is now possible in PHP7. IT IS STILL NOT A GOOD IDEA! Code like this will be impossible to maintain in 6 months.
+Fri May 08 06:50:15 PDT 2015 --  Finally weekend, time to play around with the little brother of @laravelphp, Lumen.
+Thu May 07 17:24:35 PDT 2015 --  @MightyPork Oh I'm sure it works, so does most of the code I do whilst drunk.
+Fri May 01 22:51:33 PDT 2015 --  Kun ved at kigge på hendes tatoveringer, kan man gætte at Medina har en brændende passion for jura. pic.twitter.com/Rlxm2qFPqY
+Thu Apr 30 05:23:20 PDT 2015 --  lel Instagram has insecure SSL
+Mon Apr 20 07:09:26 PDT 2015 --  Ok, I have a solution. We all agree just to never resize our browsers. Starting in 3…2…1…GO.
+Fri Apr 17 12:24:26 PDT 2015 --  Deadmau5 Tusken Raider. #starwars @deadmau5 #StarWarsCelebration pic.twitter.com/3XKBvUcR5S
+Thu Apr 16 00:52:46 PDT 2015 --  this is not a haiku the syllables don't check out
+Thu Apr 09 02:12:52 PDT 2015 --  $ sudo apt-get install -y nodejs & npm install bower & bower install jquery You are now ready to fade a div out.
+Tue Apr 07 23:06:40 PDT 2015 --  "I truly suck at using Twitter productively" - me
+Mon Mar 30 09:11:21 PDT 2015 --  #StevenBlakeney guess what (•_•) <) )╯ #Anonymous / \ \(•_•) ( (> has / \ (•_•) <) )> evidence / \
+Thu Mar 26 16:13:30 PDT 2015 --  This just made my night! https://github.com/joho/7XX-rfc  They're just way too awesome...
+Wed Feb 25 19:15:18 PST 2015 --  To Celebrate joining #TeamRazer We are doing a Razer BlackShark Headset Giveaway! Follow instructions below! #RT GO! pic.twitter.com/Qasc5gSfVG
+Sat Mar 21 12:38:30 PDT 2015 --  Turing would have been done sooner, but someone on Hacker News made fun of his framework choice.
+Wed Mar 18 15:17:31 PDT 2015 --  My new sounds: Lost https://soundcloud.com/deli73/closure-2 … on #SoundCloud
+Wed Mar 18 09:48:04 PDT 2015 --  @Dropbox lately, all your tweets are "Use dropbox for <random thing you just made up>". It's getting kinda old.
+Tue Mar 17 14:37:09 PDT 2015 --  my dad has never been proud of me one day he asked me, "how old are you?" I said, "I'm 16" he said, "when I was your age I was 17"
+Tue Mar 17 07:37:43 PDT 2015 --  What you say: "I'm a web developer" What people hear: "I can fix any computer problem you have. Ring me anytime"
+Tue Mar 10 13:08:06 PDT 2015 --  RT & follow for a chance to win this #RazerPAX swag bundle. Extra goodies from our friends for 1 lucky winner. pic.twitter.com/DvSz5uINS6
+Tue Mar 10 01:27:52 PDT 2015 --  Well, our teacher is sick in the four of the six hours today, so a whole lot of free time. Please check out http://loser.com  #HiterTip
+Sun Mar 08 12:06:19 PDT 2015 --  #vivaldibrowser https://vivaldi.com/ 
+Thu Mar 05 08:20:12 PST 2015 --  "I want this fire to go out" *pours petrol on the fire* "WHY ISN''T IT GOING OUT?!" - Idiots.
+Wed Mar 04 13:59:21 PST 2015 --  Do you think this is what it's like to be a Kardashian? pic.twitter.com/5ZrWRtA9NN
+Thu Feb 26 05:39:45 PST 2015 --  1 hour and 50 minutes left until the most important FCC vote in history. https://www.battleforthenet.com  pic.twitter.com/Fv4Vf1KNcr
+Thu Feb 26 02:06:39 PST 2015 --  Joe Armstrong, interviewed in Coders at Work. pic.twitter.com/z7nHpCkBSK
+Tue Feb 24 04:58:17 PST 2015 --  Driving theory test... Passed, yay!
+Tue Feb 24 02:58:25 PST 2015 --  “I spilt coffee over my laptop, causing it to crash, here’s a list of things that went wrong with the app when that happened.” QA’s.
+Sun Feb 22 13:31:29 PST 2015 --  Anyone who doesn't believe in evolution clearly hasn't played Pokemon.
+Fri Feb 20 23:13:14 PST 2015 --  pic.twitter.com/O1vqjXvSIg
+Fri Feb 20 15:59:03 PST 2015 --  If God hadn't made me allergic to dogs I would've have six of them. If God hadn't made allergic to cats I would still have zero.
+Mon Feb 16 08:47:48 PST 2015 --  Day 1 DLC which makes an actual difference? Absolutely, bad bad bad business practice. Day 1 hats? I cannot summon the fucks. Sorry.
+Mon Feb 16 08:46:24 PST 2015 --  . @iamdevloper 1997: Just use Flash 2007: Do that and you are fired. HTML/CSS/JS only plz 2015: Oh, rending the webpage using <canvas>…cool
+Sun Feb 15 22:15:14 PST 2015 --  http://i.imgur.com/piYLcaF.jpg 
+Fri Feb 13 11:15:27 PST 2015 --  pic.twitter.com/XaSccSxhRL
+Fri Feb 13 12:43:45 PST 2015 --  Top 3 list of safe career choices: 1. Bankster 2. CIA Torturer 3. Racist Police Officer Source: Department of Justice
+Fri Feb 13 17:38:07 PST 2015 --  Forget Tinder, I need an app to help me find more people who want to go drink beer with me. You can call it Bender. Get on it internet.
+Thu Feb 12 00:21:56 PST 2015 --  now that i have a world of warcraft subscription i can finally stop talking to girls
+Tue Feb 10 21:57:36 PST 2015 --  Would be cool if space aliens landed on Earth and instead asked, “Take me to your common people!"
+Sun Feb 08 12:17:11 PST 2015 --  How have I not found this before? http://www.gabenislife.com/  So Glorious!
+Fri Feb 06 00:05:33 PST 2015 --  Acceptable ways to name your JavaScript folder: - js - javascript - scripts (if you must) Unacceptable: - javascripts
+Wed Feb 04 08:44:14 PST 2015 --  Based on GA, 1 country remains that has not visited the Laravel homepage: West Sahara, Africa. Yes, North Korea has visited. Repeatedly. :)
+Tue Feb 03 18:22:00 PST 2015 --  Yo me he enamorado de Max Caulfield, de #LifeIsStrange y este fanart sólo lo empeora :_ http://blackassassin999.deviantart.com/art/p-55-Max-511261066 … pic.twitter.com/HoWuZi7Ow9
+Thu Jan 29 23:17:09 PST 2015 --  Instant-coffee and redbull, not a recommend mix.
+Wed Jan 28 12:13:34 PST 2015 --  Let's help with mental illness! Bell is donating 5 cents for every retweet using #BellLetsTalk
+Tue Jan 27 19:45:17 PST 2015 --  Now decide who are the most creative people on earth #ProgrammingQuotes @romero #QOTD #HEQuotes pic.twitter.com/V32yN1mKdo
+Mon Jan 26 23:33:12 PST 2015 --  When I see that someone has created the Mona Lisa using only CSS. pic.twitter.com/dxcp01W4PI
+Mon Jan 26 14:36:51 PST 2015 --  I am not sure where my life is headed when I purposefully search for videos like this on Youtube. https://www.youtube.com/watch?v=B_DR9-_QUx4 …

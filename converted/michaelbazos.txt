@@ -1,0 +1,19 @@
+Thu Aug 27 09:00:07 PDT 2015 --  New in DevTools: Aggregated timeline details, color palettes, new main menu and much more. https://developers.google.com/web/updates/2015/07/23/devtools-digest-aggregated-timeline-details-color-palettes-and-more … pic.twitter.com/PUGfTFlSBP
+Thu Aug 27 15:12:13 PDT 2015 --  Cowabunga, dude https://twitter.com/nicvargus/status/636626724696952832 …
+Wed Aug 26 00:20:02 PDT 2015 --  What’s New in Bootstrap 4 https://scotch.io/bar-talk/whats-new-in-bootstrap-4 … via @scotch_io
+Mon Aug 24 02:31:34 PDT 2015 --  pic.twitter.com/wKUquZOi4C
+Sat Aug 22 16:30:20 PDT 2015 --  Countries with names ending in "Stan" - pic.twitter.com/aNCUaKSHtv
+Sat Aug 22 12:28:17 PDT 2015 --  ES6 In Depth: Modules - https://hacks.mozilla.org/2015/08/es6-in-depth-modules/ …
+Tue Jun 02 08:34:35 PDT 2015 --  A new tool’s been released to help you decide whether to use a service, provider, or factory in Angular.js. pic.twitter.com/p3RTdH6GKA
+Sat Aug 22 03:17:15 PDT 2015 --  Emmet (ex Zen Coding) cheat-sheet : http://docs.emmet.io/cheat-sheet/ 
+Sat Aug 22 03:12:23 PDT 2015 --  Would you like to take a vim refreshment? https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide … via @scotch_io
+Fri Aug 21 05:27:28 PDT 2015 --  A two-year but still actual article on how to test an AngularJS app : http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html#.VdcYxM51Mrc.twitter …
+Wed Aug 19 10:21:59 PDT 2015 --  We now have a demo of Espree to help you create custom rules: http://eslint.org/parser/ 
+Wed Aug 19 12:10:20 PDT 2015 --  ESLint Yeoman Generator v1.0.0 released: https://www.npmjs.com/package/generator-eslint … Helps you create plugins and rules!
+Sat Jun 27 18:59:26 PDT 2015 --  Best flexbox guide https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties …
+Mon Aug 17 07:05:38 PDT 2015 --  When household gadget makers discover in-app purchases pic.twitter.com/p8ZfFj6scg
+Mon Aug 17 15:30:05 PDT 2015 --  Command-line pro-tips: pic.twitter.com/PI2g5oTtpf
+Sun Aug 16 14:59:36 PDT 2015 --  CSS backdrop-filter (https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter …) arriving to webkit! https://www.webkit.org/blog/3632/introducing-backdrop-filters/ … pic.twitter.com/iQ9Divz2JL
+Wed Aug 12 14:19:49 PDT 2015 --  "So, this is an unpaid internship?" "Yes. Think of it as a doorway to business success" "Like your business?" "Yes" "That can't pay interns"
+Fri Aug 14 01:22:02 PDT 2015 --  Still one of my favorite #Infographics ... pic.twitter.com/YXrveTRYVE
+Fri Jan 16 07:55:50 PST 2015 --  . @addyosmani Moments of a programmer's life. pic.twitter.com/jye0aSe5xz

@@ -1,0 +1,829 @@
+Sat Aug 29 10:28:54 PDT 2015 --  Truly a remarkable leader and person! Another reason why I love working at VMware! https://lnkd.in/eH2jzmT 
+Wed Aug 26 17:37:12 PDT 2015 --  New NSX for vSphere Troubleshooting Guides http://bit.ly/1Kloc8k 
+Tue Aug 25 08:42:53 PDT 2015 --  I'm hiring! Looking for a Pre-Sales Systems Engineer with extensive VMware and Intel Community experience. Come join…https://lnkd.in/expsn5N 
+Tue Aug 25 08:35:12 PDT 2015 --  VMware vCloud Air Outperforms Amazon Web Services and Microsoft Azure - VMware vCloud Blog https://lnkd.in/ejxD4Ap 
+Sun Aug 16 17:22:24 PDT 2015 --  "Life is not linear; it's organic. We create our lives symbiotically as we explore our talents." http://t.ted.com/fVZvwJt 
+Fri Aug 14 07:04:26 PDT 2015 --  More and more IT executives are looking to the power of cloud-based disaster recovery. Here's why:... http://vmw.re/1LbB4PR 
+Fri Aug 14 07:04:14 PDT 2015 --  The public cloud has spread to 85% of the public sector. But might the #hybridcloud offer a flexible, safer... http://vmw.re/1LbB3LE 
+Fri Aug 14 07:04:05 PDT 2015 --  Discover how Legacy Reserves identified new IT opportunities with #vCloudAir: http://vmw.re/1Kjyt0w  http://vmw.re/1gGFmBq 
+Fri Aug 14 07:03:54 PDT 2015 --  Our 1st #vCloudAirNetwork Service Provider Spotlight focuses on @Rackspace. Read more on the #vCloud Blog:... http://vmw.re/1LbAZvs 
+Fri Aug 14 07:03:46 PDT 2015 --  In this week's vTech Talk, Simon Momber covers the various tools available to #vCloudAir users:... http://vmw.re/1LbAVvU 
+Fri Aug 14 07:03:40 PDT 2015 --  Another VMware Cloud in Action - Legacy Reserves Protects Its Growing Business with... http://vmw.re/1LbAVfj  pic.twitter.com/bX7RjNHqr5
+Fri Aug 14 07:03:28 PDT 2015 --  With #vCloudAir, you can run your apps in the cloud without modification. Start your journey to the hybrid... http://vmw.re/1gGFd0M 
+Fri Aug 14 07:03:19 PDT 2015 --  Are you ready for this year's #VMworld? We are! Take a look at what the #vCloudAir team has in store for you:... http://vmw.re/1LbARfu 
+Fri Aug 14 07:03:12 PDT 2015 --  Stay compliant with a Service Provider on the #vCloudAirNetwork: http://vmw.re/1HJbZ7d  http://vmw.re/1gGFbWK 
+Fri Aug 14 07:03:06 PDT 2015 --  Want a drone? All you have to do is make the creator of Dilbert laugh! Participate in our #vDilbert caption... http://vmw.re/1LbARMq 
+Fri Aug 14 07:02:53 PDT 2015 --  Get a preview from #VMware global Ops Transformation principal architect Kevin Lees of his sessions at... http://vmw.re/1LbAL7B 
+Fri Aug 14 07:02:48 PDT 2015 --  Best Practice Approaches to Transformation with the Software-Defined Data Center http://vmw.re/1gGF4KT 
+Fri Aug 14 07:02:43 PDT 2015 --  Announcing the GA release of #vCloud Usage Meter 3.4: https://communities.vmware.com/community/vmtn/vcd/vcloud_usage_meter/overview … http://vmw.re/1gGF5OS 
+Fri Aug 14 07:02:33 PDT 2015 --  Looking to implement DevOps in your organization? #vCloudAir makes it easy. See how: http://vmw.re/1JWRyd5  http://vmw.re/1LbAGkm 
+Fri Aug 14 07:02:27 PDT 2015 --  VMware Exec: Software-Defined Data Center A Massive Partner Services Opportunity http://vmw.re/1LbAHoq  pic.twitter.com/hJ1j1mGVbV
+Tue Aug 11 22:16:51 PDT 2015 --  What Every Sales Rep Wants in a Manager https://lnkd.in/eJke6Uy 
+Tue Aug 11 14:52:55 PDT 2015 --  #Symantec to sell Veritas for $8 billion, focus on #cybersecurity http://bit.ly/1PjoqNm 
+Mon Aug 10 07:17:05 PDT 2015 --  Tesla Motors doesn't spend money on advertising. Instead, they put all their money into making their cars as good as possible.
+Fri Aug 07 10:21:02 PDT 2015 --  Check out http://bcove.me/d17dbs2h 
+Fri Aug 07 07:20:13 PDT 2015 --  Your workforce already loves their consumer cloud tools. Is it time for the #CIO to accept them?... http://vmw.re/1K7pYFC 
+Fri Aug 07 07:10:13 PDT 2015 --  VR will change the TV only when network connectivity improves http://vmw.re/1K7ouew  pic.twitter.com/ji8GWZDb67
+Fri Aug 07 07:05:21 PDT 2015 --  Explore all the ways @VMware Business Mobility is transforming industries http://vmw.re/1K7nG9z  pic.twitter.com/k7Smr3yDaz
+Fri Aug 07 07:01:08 PDT 2015 --  New Activity in App Standards http://vmw.re/1K7mYJk  pic.twitter.com/3lECSstxoi
+Fri Aug 07 07:01:06 PDT 2015 --  Explore all the ways @VMware Business Mobility is transforming retail http://vmw.re/1K7mXW1  pic.twitter.com/MRL5TWgbkh
+Fri Aug 07 06:50:12 PDT 2015 --  How does technology drive change in the role of the #CIO and #CMO ? @baskiyer and @rmatlock share their... http://vmw.re/1K7lrD9 
+Fri Aug 07 06:25:22 PDT 2015 --  Embracing the mobile cloud IT model http://vmw.re/1MeXrUM  pic.twitter.com/SwIGknVPe8
+Fri Aug 07 06:20:14 PDT 2015 --  VIDEO: Seeing things from the perspective of the customer with @baskiyer and @rmatlock http://bit.ly/1DVZlkZ  http://vmw.re/1MeWThH 
+Fri Aug 07 06:15:41 PDT 2015 --  When sandwiches meet technology! Interview with #CIO @capriottisjason http://bit.ly/1DfUlfO  http://vmw.re/1MeWoEj 
+Fri Aug 07 06:10:13 PDT 2015 --  Teaching kids sustainability through a virtual waterfall http://vmw.re/1MeVUxO  pic.twitter.com/MxqlmzqwQX
+Fri Aug 07 06:05:21 PDT 2015 --  VMware CEO at IIT Alumni Global Leadership Conference http://vmw.re/1MeVmYU 
+Fri Aug 07 06:02:40 PDT 2015 --  Spicing up Data Lifecycle Management with Hybrid Cloud Storage Recipes http://vmw.re/1MeV5oS  pic.twitter.com/G0D7GShmdQ
+Fri Aug 07 06:01:12 PDT 2015 --  Why the Finance Industry Will Benefit the Most From Moving to the Cloud @VMware http://vmw.re/1MeUTWE  pic.twitter.com/IeSItWdH7W
+Fri Aug 07 05:55:22 PDT 2015 --  Everyone is coming down with #VMworld fever http://vmw.re/1MeUovH  pic.twitter.com/33gHt8lOHO
+Fri Aug 07 05:42:09 PDT 2015 --  pic.twitter.com/1gFmZG9K7M
+Fri Aug 07 05:05:05 PDT 2015 --  It’s Time to Bring Mobile Moments to the Enterprise http://vmw.re/1K76iSq  pic.twitter.com/m4wH9PLDV6
+Thu Aug 06 11:56:57 PDT 2015 --  With vCloud Air, SAIC responds to government demands faster - The bridge https://lnkd.in/e3K8hE5 
+Thu Aug 06 08:23:17 PDT 2015 --  Compliance Made Clear with the vCloud Air Network - VMware vCloud Blog https://lnkd.in/eUFXYzB 
+Thu Aug 06 07:55:23 PDT 2015 --  Why Governments Need a New Approach to Technology http://vmw.re/1IWegTI  http://vmw.re/1M7TgIG  pic.twitter.com/GslwaYNYKr
+Thu Aug 06 06:30:48 PDT 2015 --  Government Demands Met Faster with #VMware vCloud Air http://vmw.re/1M7CwBw  pic.twitter.com/uPh3Cc9HPA
+Thu Aug 06 05:58:00 PDT 2015 --  The next decade of #mobility is forcing leaders to rethink business @VMware http://vmw.re/1InN10R  pic.twitter.com/TmgSz1q1tg
+Tue Aug 04 07:39:32 PDT 2015 --  Join us for NSX technical deep dive & customer use cases at #NSXFundametalsOnline on 8/6 @11am ET... http://vmw.re/1ImNYEF 
+Wed Aug 05 10:29:35 PDT 2015 --  Landing page for VMWorld NSX events http://virtualizeyournetwork.com/vmworld2015us/ 
+Wed Aug 05 11:03:37 PDT 2015 --  Donating My Kidney to Baby Derek http://www.gofundme.com/BabyDerek?pc=14_tw_2 … via @gofundme
+Wed Aug 05 07:00:45 PDT 2015 --  Tell me and I forget. Teach me and I remember. Involve me and I learn. - Benjamin Franklin
+Wed Aug 05 07:02:06 PDT 2015 --  If you don't ask for it, you won't get it. Ask often. #DailyMojo
+Sun Aug 02 11:34:14 PDT 2015 --  Men, you don’t have to boil in your suit this summer: http://on.wsj.com/1Spb3jP  pic.twitter.com/mNz6LUY8qv
+Sun Aug 02 05:40:41 PDT 2015 --  pic.twitter.com/W7oGFuhdRv
+Sat Aug 01 08:14:55 PDT 2015 --  pic.twitter.com/4suy0wCxk4
+Thu Jul 30 15:54:04 PDT 2015 --  #VMworld 2015 Backpack Reveal #vmware https://vine.co/v/eXIrhVtpTqB 
+Fri Jul 31 11:48:56 PDT 2015 --  Step by Step instructions to fully integrate vRA with vCGS! https://lnkd.in/ePR6Rr4 
+Thu Jul 30 11:41:21 PDT 2015 --  VMware vCloud Air Roadshow http://vmw.re/1DcxrWY 
+Thu Jul 30 09:52:45 PDT 2015 --  Log Insight Documentation: http://vmw.re/1VPEnzp  #loginsight http://vmw.re/1SPc7bS 
+Thu Jul 30 09:52:27 PDT 2015 --  How to take your Data Center from 0 to 60: vSphere with Operations Management http://vmw.re/1SPc53I  pic.twitter.com/8CHx8zC3cJ
+Thu Jul 30 09:25:03 PDT 2015 --  NSX HOL http://vmw.re/1SP8McJ 
+Sat Jul 11 06:30:00 PDT 2015 --  One of the most visible risks facing corporations today is cybersecurity: http://onforb.es/1LUWekQ 
+Thu Jun 25 07:30:26 PDT 2015 --  RT @VMwareDoD: DISA Certifies Level 2 DoD Mission Data on @VMware vCloud Government Service http://vmw.re/1LrpVsT 
+Thu Jul 30 09:17:36 PDT 2015 --  Please follow our updates going forward at @VMwareGOV http://vmw.re/1SP7HSl 
+Thu Jul 30 06:22:57 PDT 2015 --  Executive Conversations: CEOs Bill McDermott of SAP and Pat Gelsinger of VMware discuss... http://vmw.re/1SOKRKq  pic.twitter.com/BaNjzdkYOh
+Thu Jul 30 06:22:44 PDT 2015 --  Not one, not two, but six years of being the Leader in Gartner Magic Quadrant for x86... http://vmw.re/1SOKP5o  pic.twitter.com/q3GcnJfu7l
+Thu Jul 30 06:22:34 PDT 2015 --  How can you make your executive peers understand cyber risk? 4 solid tips for the #CIO http://bit.ly/1HW2NzR  http://vmw.re/1SOKO1d 
+Thu Jul 30 06:22:26 PDT 2015 --  IT is as much about the use of technology as the trust of those that advise on it http://vmw.re/1SOKL5s  pic.twitter.com/1Q2VK3ksGt
+Thu Jul 30 06:22:13 PDT 2015 --  Join us this Wednesday for a chat w/ #VMware's VP of Global Comms Oliverroll & Kathy Klotz-Guest of Keeping it... http://vmw.re/1SOKMqe 
+Thu Jul 30 06:22:09 PDT 2015 --  What turns a "good" #CIO into a great one? Collaboration is the key http://red.ht/1IGpoE5  http://vmw.re/1SOKM9N 
+Thu Jul 30 06:21:53 PDT 2015 --  50% of IT pros said getting the chance to assess security before adopting cloud services was a challenge.... http://vmw.re/1SOKJdQ 
+Thu Jul 30 06:21:43 PDT 2015 --  ROI analysis defines in hard numbers just how much an investment will return. In this... http://vmw.re/1SOKHCZ  pic.twitter.com/nXtpcwOgyF
+Thu Jul 30 06:21:23 PDT 2015 --  Check out what #VMware CEO Pat Gelsinger has to say about The Enterprise Hybrid Cloud http://vmw.re/1SOKGio  pic.twitter.com/wzgt7CAKg4
+Thu Jul 30 06:21:20 PDT 2015 --  #slideshow - Automation and the modern #CIO http://bit.ly/1Jw4oii  http://vmw.re/1SOKDmv 
+Sat Jul 25 20:25:07 PDT 2015 --  OPM e-QIP system now back online ... for some http://ow.ly/31LqnJ 
+Fri Jul 24 10:17:13 PDT 2015 --  PHOTO OF THE WEEK: Dep.Sec. Mayorkas and @ICEgov Dir. Saldaña cut the ribbon on the expanded Cyber Crimes Center. pic.twitter.com/WsFPQTEhek
+Fri Jul 24 11:51:02 PDT 2015 --  Unexpected ice flowing across Pluto’s surface discovered from @NASANewHorizons #PlutoFlyby: http://go.nasa.gov/1SGi2zH  pic.twitter.com/fzCVy02ewP
+Fri Jul 17 09:20:23 PDT 2015 --  Using #PowerCLI to invoke Guest Operations API to a Nested ESXi VM http://ift.tt/1Ob7GY0  http://vmw.re/1e4ZxHw  pic.twitter.com/kY0jxMICEN
+Fri Jul 17 09:20:14 PDT 2015 --  Using #PowerCLI to invoke Guest Operations API to a Nested ESXi VM http://ift.tt/1Ob7GY0  http://fb.me/4r00SNYKr  http://vmw.re/1VaQfeO 
+Fri Jul 17 09:20:01 PDT 2015 --  Custom certificate on the outside, VMware CA (VMCA) on the inside - Replacing vCenter... http://vmw.re/1e4Zziy  pic.twitter.com/R7uvUu3flJ
+Fri Jul 17 09:19:50 PDT 2015 --  [New Blog Post] Replacing vCenter’s “external” SSL cert w/3rd party while still using VMCA for “internal”... http://vmw.re/1VaQbvz 
+Fri Jul 17 09:19:38 PDT 2015 --  #vSphere Replication 6.0 part 3: enhanced linked mode, backup and recovery scenarios http://vmw.re/1VaQ7fB  pic.twitter.com/1s5Enaccxr
+Fri Jul 17 09:19:33 PDT 2015 --  Case Study: Big Data/Hadoop on vSphere and Other Blogs http://vmw.re/1VaQ6Iy  pic.twitter.com/It0wraAYJH
+Fri Jul 17 09:19:27 PDT 2015 --  #VMware and the Future of Storage and Availability http://vmw.re/1e4ZvQ1  pic.twitter.com/rNPhiGHQzh
+Fri Jul 17 09:19:11 PDT 2015 --  The Long-awaited fling: Onyx for the Web Client, has been released. Get it now!... http://fb.me/28euHSek2  http://vmw.re/1e4Zsn9 
+Fri Jul 17 09:19:08 PDT 2015 --  The Long-awaited fling: Onyx for the Web Client, has been released. Get it now!... http://vmw.re/1VaPYZB 
+Fri Jul 17 09:18:59 PDT 2015 --  Now you can use Onyx in your #vSphere Web Client! http://vmw.re/1VaPXok  pic.twitter.com/4V07WSoRwY
+Fri Jul 17 09:18:46 PDT 2015 --  vSphere Replication and Virtual Raw Device Mappings http://vmw.re/1e4ZueP  pic.twitter.com/7uNpRNgXxz
+Fri Jul 17 09:18:38 PDT 2015 --  70% of businesses will pursue cloud-based disaster recovery in the next 12-18 months http://vmw.re/1VaPVgn  pic.twitter.com/5QfVbkezlT
+Tue Jul 14 08:06:00 PDT 2015 --  BabyBe = gel mattress that allows preemies to feel their mother's warmth & heartbeat while inside an incubator. http://bit.ly/Pebblesbe 
+Thu Jul 16 11:40:10 PDT 2015 --  Follow us tonight at 7. We will be live tweeting our anniversary event. Also, tweet us your questions for our live, Q&A section!
+Wed Jul 15 13:46:19 PDT 2015 --  #VMware #vCloud for NFV Platform Selected by IIJ http://vmw.re/1I3mVTR  pic.twitter.com/oPTVEMu2V5
+Wed Jul 15 13:45:43 PDT 2015 --  VMware NSX Hosted Evaluation http://vmw.re/1GmFCdZ 
+Wed Jul 15 13:45:35 PDT 2015 --  VMware TCO Saving Calculator http://vmw.re/1GmFzi8 
+Tue Jul 14 10:56:40 PDT 2015 --  In the cloud-mobile era, it's all about speedy, on-demand delivery of products and... http://vmw.re/1CENegW  pic.twitter.com/obybUuMmdt
+Tue Jul 14 10:56:33 PDT 2015 --  "When vCloud Air showed up with a disaster recovery environment, it was a no brainer." http://vmw.re/1CENfRX  pic.twitter.com/o91LPgodXG
+Tue Jul 14 10:56:15 PDT 2015 --  Now is the season of IT discontent. Are your employees happy? #CIOproblems http://bit.ly/1eWZMW1  http://vmw.re/1CENf4g 
+Tue Jul 14 10:55:56 PDT 2015 --  Configure your #VM to use the Intel Xeon Phi http://vmw.re/1dYLNxV  pic.twitter.com/1YGxXiHFAR
+Tue Jul 14 10:55:50 PDT 2015 --  #DR is one of the biggest triggers for #cloud adoption http://vmw.re/1dYLN14  pic.twitter.com/uuEGfhYJH1
+Mon Jul 06 15:05:35 PDT 2015 --  Who's ready for Neon Trees and Alabama Shakes at AT&T Park? #VMworld 2015 http://vmw.re/1CircjU  pic.twitter.com/Sk03AzMI33
+Sun Jul 12 10:59:58 PDT 2015 --  How does the internet of things affect the #CIO and the #CEO ? Interview with @fcc_cio http://red.ht/1dL5EAK  http://vmw.re/1dUjelg 
+Sun Jul 12 10:59:52 PDT 2015 --  World’s Largest #VMUG UserCon to be hosted in Indianapolis http://vmw.re/1dUjgtA  pic.twitter.com/EnqCdaKxa4
+Sun Jul 12 10:59:41 PDT 2015 --  IT talent shortage is a struggle in many industries, but it's even tougher for healthcare #CIOs. What's the... http://vmw.re/1CyRXjZ 
+Sun Jul 12 10:59:34 PDT 2015 --  Every business needs technology to survive. How does the #CIO overhaul the IT workforce to meet demands?... http://vmw.re/1CyRXRc 
+Sun Jul 12 10:59:26 PDT 2015 --  Content vs context: how can the #CIO transform IT culture? http://bit.ly/1CuOHX4  http://vmw.re/1dUjfFM 
+Sun Jul 12 10:59:22 PDT 2015 --  #VMware News Recap: What We Read This Week, July 10, 2015 http://vmw.re/1dUjfpq  pic.twitter.com/u0SFJWHK5X
+Fri Jul 10 15:14:47 PDT 2015 --  How Network Virtualization is Used as a Security Tool https://lnkd.in/bcTKKxf 
+Thu Jul 09 12:55:34 PDT 2015 --  Watch to find out how the UK's leading multi-website online retailer uses vCloud Air to... http://vmw.re/1JXbZF1  pic.twitter.com/dbxfhblGSE
+Thu Jul 09 12:55:20 PDT 2015 --  David Hill, Senior Technical Marketing Architect at VMware, shows you how to replicate... http://vmw.re/1KYIFiJ  pic.twitter.com/xEtEnZyQFj
+Thu Jul 09 12:55:09 PDT 2015 --  Good news came in pairs for #VMware today! http://vmw.re/1JXbVF2  pic.twitter.com/YB2nturB3d
+Thu Jul 09 12:54:19 PDT 2015 --  Attention #VMworld 2015 US & EMEA Attendees! Receive a 50% discount on your certification exams at the event.... http://vmw.re/1JXbNFL 
+Thu Jul 09 12:54:11 PDT 2015 --  CIOs need holistic view for #FITARA to have maximum effect http://vmw.re/1JXbLOa  pic.twitter.com/28eAkXJiSG
+Thu Jul 02 15:24:34 PDT 2015 --  The Security Benefits of Network Virtualization https://lnkd.in/b9rzjiY 
+Fri Jun 26 10:05:58 PDT 2015 --  Cyberattacks surface anybody and everywhere: VMware CEO http://cnb.cx/1GgldHJ 
+Fri Jun 26 10:05:07 PDT 2015 --  DISA Certifies Level 2 DoD Mission Data on VMware Government Cloud https://lnkd.in/bK5tpFs 
+Tue Jun 23 16:11:58 PDT 2015 --  pic.twitter.com/NOsuRCJs2t
+Tue Jun 23 08:18:44 PDT 2015 --  #Dropbox for Business to get mobile management boost http://vmw.re/1fx4Tg3  pic.twitter.com/rfOmoviLm7
+Tue Jun 23 08:17:41 PDT 2015 --  Healthcare tech adoption "not far off" http://vmw.re/1fx4I4i  pic.twitter.com/YEj4V4mLeN
+Tue Jun 23 08:17:24 PDT 2015 --  #DevOps and #Cloud: Like Chocolate and Peanut Butter http://vmw.re/1fx4BFW  pic.twitter.com/cCTmpiAkZj
+Mon Jun 22 05:39:29 PDT 2015 --  Missed an old #AirWatch webinar? Replay it here along with other #vmwmobility videos! http://vmw.re/1SCCjrT  pic.twitter.com/0eDgdWmeMK
+Mon Jun 22 05:38:59 PDT 2015 --  #DataCenter maybe secure digitally, but what about physically? http://vmw.re/1JdS3Aa  pic.twitter.com/cKzU5WLla8
+Mon Jun 22 05:36:28 PDT 2015 --  Identity Manager from #VMware includes single sign-on and #HTML5 portal http://vmw.re/1JdRRko  pic.twitter.com/qMUMsZkBxo
+Mon Jun 22 05:36:22 PDT 2015 --  6 More Reasons Why @VMware Thinks Its Hyper-Converged Tech Beats #Nutanix http://vmw.re/1SCBMGx  pic.twitter.com/BgaqIOxSud
+Mon Jun 22 05:36:10 PDT 2015 --  6 Processes You Should Automate to Provide IT-as-a-Service http://vmw.re/1SCBPlv 
+Mon Jun 22 05:35:50 PDT 2015 --  Part Two of Leadership Perspectives with #VMware #CIO Bask Iyer http://vmw.re/1SCBLlO 
+Mon Jun 22 05:35:45 PDT 2015 --  If You Like vCloud Director, You Will Love vCloud Air http://vmw.re/1SCBNKp  pic.twitter.com/PeS1lCNLuw
+Mon Jun 22 05:35:38 PDT 2015 --  How do you keep your mobile apps effective and useful? Automation is key for the #CIO http://bit.ly/1IRHBuU  http://vmw.re/1SCBHT5 
+Mon Jun 22 05:35:27 PDT 2015 --  "Legacy tech can kill the CIO" - great CxO talk with @andrewxwilson #CIO http://zd.net/1QGEm0H  http://vmw.re/1SCBJKT 
+Mon Jun 22 05:35:17 PDT 2015 --  New business models are becoming very liquid, and we recognize that our clients need... http://vmw.re/1JdRMwS  pic.twitter.com/yyF5ZoH8b6
+Mon Jun 22 05:35:10 PDT 2015 --  Be a #LabBoss at #VMworld 2015 http://vmw.re/1JdRM04  pic.twitter.com/W59PoldvbF
+Mon Jun 22 05:35:09 PDT 2015 --  Miss the #vmwmobility event? VMware has you covered.. watch the playback here! http://vmw.re/1JdRM00  pic.twitter.com/hNAp5ie3m9
+Mon Jun 22 05:34:57 PDT 2015 --  #End-UserComputing business #mobility strategy from #VMware #vmwmobility http://vmw.re/1SCBG1p  pic.twitter.com/HDntotv8gr
+Mon Jun 22 05:34:49 PDT 2015 --  #VMware and partners talk business mobility #vmwmobility http://vmw.re/1JdRLcj  pic.twitter.com/xbyLJjZuo3
+Thu Jun 18 20:02:28 PDT 2015 --  Pebbles of Hope https://lnkd.in/ehVPSDp 
+Wed Jun 17 15:30:51 PDT 2015 --  #VMware #vCloud Air #Google+ Hangout event http://vmw.re/1BouyRP  pic.twitter.com/dQnvECETwH
+Wed Jun 17 15:30:42 PDT 2015 --  On the blog today: How government agencies can "work smarter" with IT automation. http://bit.ly/1Gbw3i6 ... http://vmw.re/1d2iie9 
+Wed Jun 17 15:22:26 PDT 2015 --  #VMware is extending support for #Apple and #iOS http://vmw.re/1BosRnt  pic.twitter.com/O7sWDNvRtb
+Wed Jun 17 07:13:35 PDT 2015 --  #Healthcare living services will be fueled by the movement of "quantified self" http://vmw.re/1Bn5A5h  pic.twitter.com/I0TvqQfq7q
+Wed Jun 17 07:12:42 PDT 2015 --  #VMware Identity Manager is here! #MobileCloudEra http://vmw.re/1Bn5tH5  pic.twitter.com/JKPVT8plY4
+Fri Jun 12 21:41:53 PDT 2015 --  The American Dream is Alive https://lnkd.in/bzbJj5D 
+Fri Jun 12 10:20:44 PDT 2015 --  VSAN vs Nutanix Head-to-Head Performance Testing -- Part 2 http://vmw.re/1MPbVaU 
+Thu Jun 11 19:39:22 PDT 2015 --  How Much Has VMware Progressed In Network Virtualization? http://onforb.es/1RH27Tg 
+Wed Jun 10 08:58:10 PDT 2015 --  VMWare Exec Climbs Kilimanjaro, Delivers Hybrid Cloud | CloudWedge http://www.cloudwedge.com/vmware-exec-climbs-kilimanjaro-delivers-hybrid-cloud-9783/ …
+Mon Jun 08 14:17:39 PDT 2015 --  image.jpg https://lnkd.in/bwyUStr 
+Sun Jun 07 18:39:12 PDT 2015 --  Good night from #space. Buona notte dallo spazio. pic.twitter.com/x5k2jNisLB
+Fri May 29 22:18:55 PDT 2015 --  We must use time wisely and forever realize that the time is always ripe to do right. – Nelson Mandela
+Fri May 29 12:15:51 PDT 2015 --  Without a doubt this is another great acquisition by EMC! Looking forward to working with some old friends again Sta…https://lnkd.in/bt_vEme 
+Thu May 28 05:35:25 PDT 2015 --  Let's help Premature babies not only survive but thrive! https://lnkd.in/ehVPSDp 
+Wed May 27 11:05:27 PDT 2015 --  VMware vCloud Air picks up Best Cloud Computing... http://vmw.re/1EsQMgd 
+Tue May 26 14:19:38 PDT 2015 --  "Pebbles of Hope" by @VMware_Renzo on @LinkedIn https://www.linkedin.com/pulse/pebbles-hope-renzo-rodriguez-mba-ms-cissp …
+Thu May 21 06:06:13 PDT 2015 --  If possible Please help me make a difference in the lives of families with premature babies Pebbles of Hope-YouCaring http://www.youcaring.com/pebbles-of-hope-www-pebblesofhope-org-357323#.VV3X1fzrgnc.twitter …
+Wed May 20 16:33:32 PDT 2015 --  On June 16th @VMware will unveil cutting-edge solutions for business mobility. Be there! http://vmw.re/1PXxaaP  pic.twitter.com/Hndm4JlRhx
+Tue May 19 16:29:58 PDT 2015 --  Is your network security more like eggshells, or diamonds? Full infographic here:... http://vmw.re/1EWdwpr  pic.twitter.com/7xIXAJyZTb
+Tue May 19 16:29:53 PDT 2015 --  The #vForumOnline2015 #CloudCred Task Contest on now at http://CloudCredibility.com  Winner... http://vmw.re/1EWdw8W  pic.twitter.com/QyIqrFHlIk
+Tue May 19 16:29:49 PDT 2015 --  Can't make it to one of our live vForums? Sign up now for #vForumOnline happening 5/21:... http://vmw.re/1EWdvSo  pic.twitter.com/6YrWRzTOCn
+Tue May 19 16:29:41 PDT 2015 --  Call for Papers - Public Voting http://vmw.re/1EWdxtB  pic.twitter.com/mB37cxK5qq
+Tue May 19 16:29:31 PDT 2015 --  Take a closer look at applications with VMware App Volumes and Workspace Environment Management:... http://vmw.re/1Ht8s2y 
+Tue May 19 16:29:26 PDT 2015 --  Download the Mid-Market Mobile Solution Adoption #Infographic to benchmark how your org compares to other... http://vmw.re/1Ht8rM1 
+Tue May 19 16:29:20 PDT 2015 --  Explain it like I'm four: Enterprise Mobility Management http://vmw.re/1F0syLS  http://vmw.re/1Ht8pnn 
+Tue May 19 16:29:13 PDT 2015 --  Call for Papers - Public Voting http://dlvr.it/9tV5R2  http://vmw.re/1Ht8p6R 
+Tue May 19 16:29:11 PDT 2015 --  #VMworld 2015 is coming up fast! Register before June 9th for an early-bird discount:... http://vmw.re/1EWdtd8  pic.twitter.com/Qz19hSTNhz
+Tue May 19 16:28:54 PDT 2015 --  Use our free #eBook to learn the cost implications of services & provide the highest #business value to your... http://vmw.re/1Ht8ojs 
+Tue May 19 16:28:46 PDT 2015 --  . @VMware's Yabing Li ranks 7th most powerful woman engineer in the world http://vmw.re/1Ht8pUE  pic.twitter.com/53spMdGJou
+Tue May 19 16:28:39 PDT 2015 --  Attend #VMworld 2015 to hear from leaders in tech! Save on passes w/ early-bird discount: http://vmw.re/1Ht8pUv  pic.twitter.com/trBAwMvi3J
+Tue May 19 16:28:32 PDT 2015 --  . @VMware among the top 10 #tech companies in Austin http://vmw.re/1Ht8mIo  pic.twitter.com/vSU4fZLGhT
+Tue May 19 16:28:27 PDT 2015 --  Join @sumit_dhawan this Thursday for a vForum Online Spring 2015 Keynote! http://vmw.re/1Ht8mrI  pic.twitter.com/wM5UGpNO8o
+Tue May 19 16:28:18 PDT 2015 --  #VMware Incorporates New Docker Security Guidelines by @VirtReview http://vmw.re/1Ht8lUP  pic.twitter.com/nUYYRGEYIS
+Tue May 19 05:21:15 PDT 2015 --  Never set limits, go after your dreams, don't be afraid to push the boundaries, & laugh a lot, it's good for you! -Paula Radcliffe
+Mon May 18 10:29:02 PDT 2015 --  Some people view asking for help as a weakness. If only they recognized a willingness to seek help as the strength that it is.
+Sat May 16 19:08:20 PDT 2015 --  Watch the video: first annual AirWatch Hackathon spurs creativity among employees http://vmw.re/1KdyHLb  pic.twitter.com/zPM8fkO3hU
+Fri May 15 15:12:38 PDT 2015 --  Our new post, by Mark Axmacher, shares advice on staying connected to the NICU after your baby is discharged. http://bit.ly/PebblesConnect 
+Wed May 13 11:25:24 PDT 2015 --  We are launching a mobile app, enabling access to our video library and the opportunity to ask questions to experts. http://bit.ly/app4pebb 
+Fri May 15 15:17:12 PDT 2015 --  Did you know that #prematurity is the leading cause of death for #newborns and children under 5? #PebblesThriveGuide pic.twitter.com/vPIrOhqkaM
+Sat May 16 07:33:51 PDT 2015 --  You can make excuses or you can make it happen.
+Sat May 16 06:18:35 PDT 2015 --  Tech Sales is THE heartbeat of a Sales Organization https://lnkd.in/bQ6XYN5 
+Fri May 15 08:56:24 PDT 2015 --  We're very honored and excited to be named the Best Enterprise Mobile Application in this year's @CODiEAwards!... http://vmw.re/1Hl5Zan 
+Fri May 15 08:56:12 PDT 2015 --  How @AirWatch has been strengthened by @VMware http://bit.ly/1KQQYe9  http://vmw.re/1Hl5X2s 
+Fri May 15 08:55:57 PDT 2015 --  We're very honored and excited to be named the Best Enterprise Mobile Application in this year's @CODiEAwards!... http://vmw.re/1L7halz 
+Fri May 15 08:55:44 PDT 2015 --  Free whitepaper: 5 Most Important Buying Criteria to Enable a Totally Mobile Workforce... http://vmw.re/1L7h90S  pic.twitter.com/fOleQyH1hg
+Fri May 15 08:55:29 PDT 2015 --  Register now for #AWConnect Atlanta to get Early Bird discounts! http://vmw.re/1FiimSi  http://vmw.re/1L7h8dr 
+Fri May 15 08:55:17 PDT 2015 --  Improve app performance and optimize delivery of @Citrix apps for 30% less.... http://vmw.re/1Hl5TzH  pic.twitter.com/688Ob73VDg
+Fri May 15 08:55:16 PDT 2015 --  . @VMwareNSX customers share their imperatives for desktop transformation security http://vmw.re/1bUkgN3  http://vmw.re/1L7h5yk 
+Fri May 15 08:54:54 PDT 2015 --  Are you ready for #VMworld? Get your passes before June 9th and save $300!... http://vmw.re/1Hl5RrA  pic.twitter.com/mxrZwQI2F3
+Fri May 15 08:54:46 PDT 2015 --  Free whitepaper by @MaribelLopez: How companies should look for solutions that unify endpoint management... http://vmw.re/1Hl5Rb7 
+Thu May 14 10:18:58 PDT 2015 --  Watch: App Volumes Technical Overview http://bit.ly/1A2U7ak  http://dy.si/K4eA 
+Thu May 14 10:18:47 PDT 2015 --  Improve @Citrix app performance, optimize delivery & monitoring. #BetterisBest... http://dy.si/REfC  pic.twitter.com/CrP45MKtCZ
+Thu May 14 10:18:39 PDT 2015 --  Brocade Content Pack Available Now. See details: http://vmw.re/1K89PEC  http://dy.si/hEAoW 
+Thu May 14 10:18:33 PDT 2015 --  Take a look at our pricing and available management suites: http://vmw.re/1AZ3naO ... http://dy.si/7ZLM  pic.twitter.com/EVEsGcgL2X
+Thu May 14 10:18:26 PDT 2015 --  Case Study: Banca Akros optimizes capacity & more: http://vmw.re/1L3Ujas  http://dy.si/cPqZ 
+Thu May 14 10:18:21 PDT 2015 --  Nice article from our very own Brian Katz http://dy.si/aR3rX 
+Thu May 14 10:18:15 PDT 2015 --  Desktop transformation is about to reach unbelievable new heights. Learn about exclusive Early Access:... http://dy.si/23LV 
+Thu May 14 10:18:13 PDT 2015 --  Installing the #vRealize Automation 6 Iaas server http://dy.si/Pj3mT  pic.twitter.com/GLExbRhsXk
+Thu May 14 10:17:56 PDT 2015 --  6 questions to ask before buying enterprise MDM products http://bit.ly/1RK3tO4  via @MatthewPascucci... http://dy.si/eeFkV 
+Thu May 14 10:17:47 PDT 2015 --  Do you know the 5 key features of the dynamic data center? #SDDC http://vmw.re/1EHn6xd ... http://dy.si/DRbTK  pic.twitter.com/xygZihYXTT
+Thu May 14 10:17:38 PDT 2015 --  Watch the video: @Veracode and AirWatch address the mobile application landscape http://vmw.re/1cAv5Vb  http://dy.si/SU3hM 
+Thu May 14 10:17:28 PDT 2015 --  Put yourself on the path to a promotion! Discover how virtualization can benefit both you and your department.... http://dy.si/joYzR 
+Thu May 14 10:17:20 PDT 2015 --  New #video on Tribal Knowledge: Cloud-Native Apps Partner Panel: Security, Containers and More... http://dy.si/P6hY 
+Thu May 14 10:17:13 PDT 2015 --  Check out this infographic and the business case for #cloud automation—automating in the cloud pays off!... http://dy.si/cfr4 
+Thu May 14 10:17:13 PDT 2015 --  Watch: Micro-Segmentation using @VMwareNSX and Horizon 6 http://bit.ly/1RKcB5b  http://dy.si/vREM 
+Tue May 12 10:00:04 PDT 2015 --  Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
+Tue May 12 08:02:05 PDT 2015 --  Find comprehensive #VCP5 #DCV Review tasks at http://CloudCredibility.com  You could win a... http://vmw.re/1G2Xi34  pic.twitter.com/tObSIFOgXD
+Tue May 12 08:01:42 PDT 2015 --  Webcast: ‘Desktop Transformation in 2015’ – secure, consistent, easy access workspaces with VMware Horizon® 6:... http://vmw.re/1G2Xe3d 
+Tue May 12 08:01:34 PDT 2015 --  It's Triple-Point Tuesday at http://CloudCredibility.com  Find new tasks worth bonus points today, plus 1000's of... http://vmw.re/1KZK1rS 
+Tue May 12 08:01:20 PDT 2015 --  Planning and Implementing a Horizon Virtual Desktop Solution for a Healthcare Provider http://vmw.re/1QFacao  http://vmw.re/1KZJXIJ 
+Tue May 12 08:01:13 PDT 2015 --  VMware NSX - Customer imperatives for desktop transformation security http://vmw.re/1IyEtox  http://vmw.re/1KZJVAG 
+Tue May 12 08:01:12 PDT 2015 --  It's time to consider cloud-based DR. Learn why, in our free Guide to DR in the Cloud eBook... http://vmw.re/1G2X2kB 
+Tue May 12 08:00:58 PDT 2015 --  Do you have an agile enterprise storage strategy? Learn more about software-defined... http://vmw.re/1G2X0Jn  pic.twitter.com/OjrLfHCrff
+Tue May 12 08:00:53 PDT 2015 --  Universitätsspital Basel designs patient communication and doctor collaboration with... http://vmw.re/1KZJUfX  pic.twitter.com/SI5Jxfa4XE
+Tue May 12 08:00:46 PDT 2015 --  3 Ways to Avoid App Bloat and Its Consequences http://bit.ly/1Pgo91u  via @infomgmt http://vmw.re/1KZJSox 
+Tue May 12 08:00:37 PDT 2015 --  Register for #VMworld 2015 to network with industry experts http://vmw.re/1G2WVFF  pic.twitter.com/tp7tbbfg4g
+Sun May 10 13:58:23 PDT 2015 --  VMware Says Deploying NSX, AirWatch Together Is Best Way To Secure Dat https://lnkd.in/bSjXwHq 
+Sun May 10 11:28:30 PDT 2015 --  Virtualization 2.0 For Dummies http://vmw.re/1zUrmwW 
+Fri May 08 15:54:14 PDT 2015 --  #CapsNYR Goalie Matchup powered by http://Alarm.com : @Holts170 and Henrik Lundqvist. Puck drop minutes away. pic.twitter.com/OTlODfey6A
+Fri May 08 11:06:12 PDT 2015 --  Watch Dave Matthews Band Debut New Song in Final Letterman Set http://rol.st/1IVIdRv  via @rollingstone
+Fri May 08 08:30:28 PDT 2015 --  To Be a Good Leader, First Be Human https://lnkd.in/bapY-hG 
+Fri May 08 08:25:37 PDT 2015 --  How equal do we want the world to be? You'd be surprised http://www.ted.com/talks/dan_ariely_how_equal_do_we_want_the_world_to_be_you_d_be_surprised …
+Thu May 07 19:21:45 PDT 2015 --  The Self-Service Revolution: A Double-Edged Sword http://vmw.re/1DVkDO6  pic.twitter.com/1uSx2ZjMU6
+Thu May 07 00:27:00 PDT 2015 --  A wise man speaks because he has something to say, a fool because he has to say something ~ Plato
+Wed May 06 13:37:49 PDT 2015 --  #VMware Innovation Series: Chih Chi Hu http://vmw.re/1EhHvrr  pic.twitter.com/hhIinI2PJy
+Tue May 05 03:18:07 PDT 2015 --  HBO didn't tell us about that Big Head profile -- but we wrote one anyway http://wrd.cm/1ESLj7p  pic.twitter.com/CpHSqLtjUb
+Mon May 04 15:20:38 PDT 2015 --  Explore the Hooli moonshot factory: http://www.hooli.xyz 
+Tue May 05 16:47:01 PDT 2015 --  #AirWatch supports #Samsung KNOX Bulk Enrollment http://vmw.re/1cjJ56e  pic.twitter.com/X9gb30UzHO
+Tue May 05 16:46:54 PDT 2015 --  EXCLUSIVE: #VMware reveals what the channel can expect from it in the near future http://vmw.re/1cjJ1nd  pic.twitter.com/42xDPNOi53
+Tue May 05 16:46:48 PDT 2015 --  VMware #NSX – Customer Imperatives for Desktop Transformation Security http://vmw.re/1cjJ0PW  pic.twitter.com/xlezNv0P8l
+Tue May 05 16:46:44 PDT 2015 --  #VMworld 2015 registration is officially open. Join us this summer in San Francisco! http://vmw.re/1cjJ0zq  pic.twitter.com/K1d5oHsoKx
+Tue May 05 16:46:35 PDT 2015 --  WATCH LIVE at #EMCWorld 2015: “Redefine Next” with VMware CEO Pat Gelsinger http://vmw.re/1cjIZvp  pic.twitter.com/juWH1df6d9
+Tue May 05 16:46:30 PDT 2015 --  At #EMCworld? Here's a schedule of @VMware key breakout sessions http://vmw.re/1cjIWzR  pic.twitter.com/ILJZAOuAy5
+Tue May 05 16:10:08 PDT 2015 --  . @VMware CEO Pat Gelsinger: "Our job together is to innovate like a start-up, but deliver like an enterprise." http://vmw.re/1c2WHSO 
+Mon May 04 13:23:48 PDT 2015 --  Manually Copying an App Volumes #AppStack http://vmw.re/1ESuKs0  pic.twitter.com/JOVnbusvoO
+Mon May 04 13:23:44 PDT 2015 --  Are Microsoft, #VMware and Red Hat better value than OpenStack distributions? http://vmw.re/1ESuMjQ  pic.twitter.com/uA07GBs6SW
+Mon May 04 13:23:32 PDT 2015 --  #VMware offers employees this amazing health benefit http://vmw.re/1ESuJo5  pic.twitter.com/ERqTJELfuI
+Mon May 04 13:23:28 PDT 2015 --  #VMware benefits ranked among the best in tech industry, according to employees http://vmw.re/1ESuIAC  pic.twitter.com/2P4ClJCkfT
+Sun May 03 07:42:47 PDT 2015 --  Leadership to me boils down to one main philosophy. I only expect from others what I expect and am willing to do myself.
+Sat May 02 11:28:36 PDT 2015 --  I'm listening to "Nina Simone Radio" on Pandora
+Sat May 02 09:34:33 PDT 2015 --  I'm listening to "Otis Redding Radio" on Pandora http://pdora.co/1zD9PJw 
+Sat May 02 08:46:03 PDT 2015 --  "No matter who you are...or how much money you’ve got, you should be able to access the world’s knowledge" —Obama: http://go.wh.gov/bS4gXu 
+Sat May 02 04:52:33 PDT 2015 --  VMware at #EMCWorld 2015 http://vmw.re/1boP3l8  pic.twitter.com/hw2m4m7fAi
+Fri May 01 06:21:21 PDT 2015 --  What we learned about Tesla's new home batteries - via @BGR http://read.bi/1dAy011  pic.twitter.com/6RqBZimw1v
+Fri May 01 06:00:57 PDT 2015 --  Happiness is found when you stop comparing yourself to other people. Strive to be a better version of yourself than your were yesterday.
+Thu Apr 30 14:13:53 PDT 2015 --  VMware #vRealize Operations 6 Claims Best of Interop Award 2015 http://vmw.re/1DFs4sC  pic.twitter.com/Cgn2MO0eLw
+Thu Apr 30 14:13:47 PDT 2015 --  Tracking VMware's expansion from humble beginnings http://vmw.re/1DFs6R4  pic.twitter.com/dwxzLvdUh6
+Wed Apr 29 14:31:48 PDT 2015 --  12 Reasons Why You Should Use The Log Insight Agent http://vmw.re/1EDXBAa  pic.twitter.com/qPrYAcr2Yd
+Wed Apr 29 14:31:43 PDT 2015 --  Is your enterprise video ready? http://vmw.re/1EDXDYW  pic.twitter.com/JbPkij52bK
+Wed Apr 29 14:31:38 PDT 2015 --  #VMware User Environment Manager Deployed in 60 Minutes or Less http://vmw.re/1EDXDIq  pic.twitter.com/XALxdxCqY7
+Wed Apr 29 11:34:52 PDT 2015 --  Hands-on: Microsoft’s HoloLens is flat-out magical http://ars.to/1CS5lvg 
+Wed Apr 29 11:23:36 PDT 2015 --  Transform your world with holograms. Microsoft HoloLens brings high-definition holograms to life in your world. http://www.microsoft.com/microsoft-hololens/en-us?video-url=vdeHHP …
+Tue Apr 28 15:26:12 PDT 2015 --  New telecom management capabilities in #AirWatch 8 help IT save money http://vmw.re/1Krl6x7  pic.twitter.com/JfPghKfKtS
+Tue Apr 28 10:38:05 PDT 2015 --  I'm listening to "Ray LaMontagne Radio" on Pandora http://pdora.co/1P3cNs5 
+Tue Apr 28 05:06:50 PDT 2015 --  Location Based Printing - A Cool Feature of #VMware Horizon 6 http://vmw.re/1KpycuK  pic.twitter.com/QVtaQOmbdm
+Tue Apr 28 05:06:42 PDT 2015 --  Explain It Like I’m Four: Enterprise Mobility Management (EMM) http://vmw.re/1Kpye60  pic.twitter.com/IwhBJmctc1
+Tue Apr 28 05:06:31 PDT 2015 --  VMWare's mobile division 'kicks butt' - allegedly http://vmw.re/1KpyaTK  pic.twitter.com/24BbpVC3Xk
+Sun Apr 26 05:58:54 PDT 2015 --  Now you can BOYL to #EVORAIL with the vSphere Loyalty Program - http://flip.it/rwytO 
+Sun Apr 26 09:05:20 PDT 2015 --  pic.twitter.com/QagNDWwSPT
+Sun Apr 26 05:51:58 PDT 2015 --  Wanting to be someone you're not is a waste of the person you are. -Kurt Cobain
+Sat Apr 25 19:36:45 PDT 2015 --  VMware Proves Again It Won't Be Killed By The Cloud https://lnkd.in/ePebfv6 
+Sat Apr 25 06:12:07 PDT 2015 --  "Introducing the #VMware EVO:RAIL vSphere Loyalty Program" http://ow.ly/M4B5G  via @DABCC cc/ @vmwevorail http://vmw.re/1I8vGKg 
+Sat Apr 25 06:11:55 PDT 2015 --  #loginsight vROPs In Context Enhancement - http://ideascale.com/t/UGjcZfJs  http://vmw.re/1I8vACq 
+Sat Apr 25 06:11:46 PDT 2015 --  #loginsight LogInsight reacting to ALERTS by invoking vCenter Orchestrator (vCO) workflows -... http://vmw.re/1I8vzy8 
+Sat Apr 25 06:11:41 PDT 2015 --  Find out how #VMware's is making developers first-class users of the data center... http://vmw.re/1DK7lnV  pic.twitter.com/A9pyapIcsq
+Sat Apr 25 06:11:33 PDT 2015 --  Deliver @Citrix apps to desktop & mobile faster & more efficiently than ever before. #BetterisBest... http://vmw.re/1DK7is8 
+Sat Apr 25 06:11:26 PDT 2015 --  How to Secure Healthcare Mobile App Communications #vmware http://vmw.re/1ISha7w  http://vmw.re/1DK7hV4 
+Sat Apr 25 06:11:18 PDT 2015 --  . @VMware releases open source projects to enable enterprise adoption of #NextGenApps... http://dy.si/wLy6  pic.twitter.com/PtUkdL6Vgn
+Sat Apr 25 06:11:08 PDT 2015 --  Friday tech-wow: pretty much just wow. http://bit.ly/1aZNgmc  http://vmw.re/1DK7gjY 
+Sat Apr 25 06:11:04 PDT 2015 --  Cisco Nexus Content Pack for Log Insight: http://vmw.re/1HA19WH  http://vmw.re/1DK7doa 
+Sat Apr 25 06:10:53 PDT 2015 --  Check out Top 5 Reasons for Cloud-Based DR and learn more about vCloud Air Disaster... http://vmw.re/1DK79F2  pic.twitter.com/KbU8Uu947k
+Fri Apr 24 19:45:48 PDT 2015 --  Focus on your dreams, let the rest fall in place
+Sat Apr 25 04:50:01 PDT 2015 --  Enjoy the good moments. Stay positive in the bad. Know that everything will be alright.
+Fri Apr 24 15:57:15 PDT 2015 --  Big week for AirWatch at #RSAC - 2 Cyber Defense Magazine Awards and 1 SC Magazine... http://vmw.re/1aZi0Uj  pic.twitter.com/1UIAcKpFnd
+Fri Apr 24 15:57:09 PDT 2015 --  Project Lightwave provides security when running #containers. Learn more here:... http://vmw.re/1aZhXYQ  pic.twitter.com/rBU4GfzAjF
+Fri Apr 24 15:57:00 PDT 2015 --  [VIDEO] Catch #VMware's @FrankRauchVMW in this "Channel Chiefs: The Security Conversation" roundtable with... http://vmw.re/1aZhZ2Q 
+Fri Apr 24 15:56:50 PDT 2015 --  VIDEO: Watch @kitcolbert explain the future of cloud-native apps. http://bit.ly/1Gsh750  http://vmw.re/1aZhWEg 
+Fri Apr 24 15:56:41 PDT 2015 --  Discover the best ways to succeed in a virutalized environment at #vForumOnline:... http://vmw.re/1aZhSUR  pic.twitter.com/R22mDK2vM5
+Fri Apr 24 15:56:33 PDT 2015 --  AirWatch demonstrates strong Q1 performance and record results with VMware http://vmw.re/1aZhTZ2  pic.twitter.com/0NrK9hgZU9
+Fri Apr 24 15:56:28 PDT 2015 --  Enterprise mobility news recap: April 20 – 24 http://vmw.re/1aZhTs7  pic.twitter.com/YlkEByVE0l
+Fri Apr 24 15:56:21 PDT 2015 --  Internet of Things: The Legal Issues CIOs Should Consider http://on.wsj.com/1DId3GH  #IoT http://vmw.re/1aZhQwb 
+Fri Apr 24 15:56:15 PDT 2015 --  Cool partner story via @cbronline: "Equinix gives Europe a ride with VMware @vCloud" http://ow.ly/M4AWs  http://vmw.re/1JmKMNN 
+Fri Apr 24 15:56:06 PDT 2015 --  Video: Scania able to spend more time in front of customers thanks to AirWatch http://bit.ly/1Qrp9O8  http://vmw.re/1aZhOEN 
+Fri Apr 24 15:56:00 PDT 2015 --  Want to meet @VMware #OpenStack experts? Come to the Meetup in Palo Alto 4/29... http://vmw.re/1aZhLbX  pic.twitter.com/n8WUOvtfmE
+Fri Apr 24 15:55:52 PDT 2015 --  Are you reaping the benefits of Network Virtualization? http://vmw.re/1JmKINV  pic.twitter.com/dEsZe7fRHR
+Fri Apr 24 15:55:46 PDT 2015 --  Introducing the #VMware EVO:RAIL vSphere Loyalty Program http://vmw.re/1aZhIgl  pic.twitter.com/WxdQAhv8nI
+Fri Apr 24 15:55:43 PDT 2015 --  What's Behind VMware's Better Together Support for Containerization? http://vmw.re/1aZhJRo  pic.twitter.com/jCMxg3aXAF
+Fri Apr 24 15:55:35 PDT 2015 --  What We Read This Week: A #VMware News Recap, April 24, 2015 http://vmw.re/1JmKHtu  pic.twitter.com/kVr7b8eLXI
+Fri Apr 24 08:53:24 PDT 2015 --  Be the Change you want to see in the Wold! #whomademyclothes @OpportunityMrkt pic.twitter.com/Gef5YvZmQq
+Thu Apr 23 11:45:21 PDT 2015 --  #vExpert tells us why @VMware's new open source projects are cloud-era IT solutions #vmwcna http://vmw.re/1DnWqRl  pic.twitter.com/Z2oM2e86Kd
+Wed Apr 22 11:52:46 PDT 2015 --  Intel Security teams with VMware, Ericsson; adds public cloud suite for McAfee http://zd.net/1OzF7lM  < McAfee integration with #NSX.
+Thu Apr 23 16:44:40 PDT 2015 --  MT @TanejaGroup Panel 4/30 12pm ET @VMware #VirtualVolumes & Impact on the #Datacenter #VVOL @VMwarevSphere... http://vmw.re/1KaBfXA 
+Thu Apr 23 16:44:19 PDT 2015 --  #loginsight Audit Quality Feature (Like Arcsight and Splunk) - http://ideascale.com/t/UGjcZgQC  http://vmw.re/1KaBcLr 
+Thu Apr 23 16:44:07 PDT 2015 --  Come watch the replay of #VMware's Cloud-Native Apps online event & more #vmwcna... http://vmw.re/1KaBbqU  pic.twitter.com/PT4giJKhsv
+Thu Apr 23 16:43:59 PDT 2015 --  ICYMI yesterday, check out this #infographic on our LEED-certified HQ in Palo Alto: http://ow.ly/M21ba ... http://vmw.re/1KaBaU3 
+Thu Apr 23 16:43:49 PDT 2015 --  Have you upgraded to Virtual SAN 6.0 yet? @PunchingClouds guides you step-by-step on doing so. Upgrade today:... http://vmw.re/1KaBa6i 
+Thu Apr 23 16:43:40 PDT 2015 --  Modernizing Healthcare IT through the Mobile Cloud http://vmw.re/1Ewjcwm  #HealthIT http://vmw.re/1KaB9zh 
+Thu Apr 23 16:43:26 PDT 2015 --  What were your highlights from HIMSS15? #VMwareHIT http://vmw.re/1KaB6Uf 
+Thu Apr 23 16:43:15 PDT 2015 --  Whitepaper for #AviationTech pros: AirWatch Recommendations for Electronic Flight Bags (EFB)... http://vmw.re/1KaB6n6 
+Thu Apr 23 16:43:07 PDT 2015 --  Is your MDM solution getting rusty? Switch from your legacy MDM to AirWatch EMM today:... http://vmw.re/1KaB5iU  pic.twitter.com/W4rbMo2XhB
+Thu Apr 23 16:42:55 PDT 2015 --  Improve @Citrix app performance, optimize delivery and monitor in real time.... http://vmw.re/1Fiiguu  pic.twitter.com/QKKkio9EQ4
+Thu Apr 23 16:42:45 PDT 2015 --  Run #SAPHANA as any other application on VMware vSphere. Meet us at #SAPPHIRENOW to... http://vmw.re/1FiidPi  pic.twitter.com/MtGqaIwLun
+Thu Apr 23 16:42:36 PDT 2015 --  Start Your 30-Day Free Trial | AirWatch by VMware http://vmw.re/1FiifGN  pic.twitter.com/x3DR2AmI4E
+Thu Apr 23 16:42:22 PDT 2015 --  "Thanks to Horizon 6.1, VDI finally has some inherent security benefits over physical desktops"... http://vmw.re/1Fiif9O 
+Thu Apr 23 16:42:07 PDT 2015 --  Calling all SMBs! Try vSphere 6 and run any application from a single cloud. Learn more: http://vmw.re/1yY28gG  http://vmw.re/1FiibXt 
+Thu Apr 23 16:42:03 PDT 2015 --  Video highlights from #AWConnect Barcelona: App Configuration for the Enterprise http://bit.ly/1PpWeZC  http://vmw.re/1KaAXjJ 
+Thu Apr 23 11:20:23 PDT 2015 --  pic.twitter.com/5435lkoMvO
+Thu Apr 23 06:00:38 PDT 2015 --  pic.twitter.com/bYC9D8yL23
+Thu Apr 23 04:23:50 PDT 2015 --  pic.twitter.com/HPXmtouTgd
+Wed Apr 22 07:45:40 PDT 2015 --  http://www.executivegov.com/2015/04/tony-scott-fitara-to-align-cio-roles-federal-it-spending/ …
+Wed Apr 22 06:35:48 PDT 2015 --  Amazing Leader whose short term investment will increase ROI! CEO cuts $1M salary to pay employees at least $70K | http://video.foxbusiness.com/v/4174980205001/ceo-cuts-1m-salary-to-pay-employees-at-least-70k/ …
+Wed Apr 22 05:57:07 PDT 2015 --  Happy #EarthDay! Here's a recent look at our home planet using data from 6 @NASANPP orbits: http://go.nasa.gov/1brwe1F  pic.twitter.com/QZJEJFClrF
+Wed Apr 22 05:57:15 PDT 2015 --  Remove Your Alarm Clock Forever With Neuro:On http://goo.gl/WKmf6L  #Wearables #IoT pic.twitter.com/Nflg35OGI4
+Tue Apr 21 16:10:37 PDT 2015 --  #VMware Rides Container Wave With Open Source Projects http://vmw.re/1zIzHy5  pic.twitter.com/Bofba6QrQE
+Tue Apr 21 16:06:15 PDT 2015 --  #VMware Launches Two Open Source Container Projects http://vmw.re/1zIy5V1  pic.twitter.com/UxaCeeJlqF
+Tue Apr 21 16:03:48 PDT 2015 --  #VMware Plots a Course for the Future of Security http://vmw.re/1zIxjan  pic.twitter.com/XtWzPIjFCi
+Tue Apr 21 12:49:16 PDT 2015 --  Why So Much Shade Thrown at Private Cloud? via @jamesmaguire http://bit.ly/1blVSVv  http://vmw.re/1E7Qyjd 
+Tue Apr 21 07:35:34 PDT 2015 --  New #vExpert opportunity with our partner @FlowGrab posted in the private blog. Go and sign up. See you there... http://vmw.re/1zGyK9f 
+Tue Apr 21 04:20:26 PDT 2015 --  Discover the cloud that does it all. Any app, any device. Learn about the architecture for a brave new model... http://vmw.re/1zFR6Ya 
+Tue Apr 21 04:10:18 PDT 2015 --  New open source tech from #VMware eases enterprise adoption of Cloud-Native Apps... http://vmw.re/1E5QNuU  pic.twitter.com/1y0k3FpRuW
+Tue Apr 21 03:20:17 PDT 2015 --  Get immediate operations value from #vmware vRealize Log Insight, see how http://vmw.re/1J3t7KO  #loginsight http://vmw.re/1E5JDqE 
+Tue Apr 21 03:08:49 PDT 2015 --  "New VMware open-source tools make Docker safe for the enterprise" http://ow.ly/LS2QC  by @mjasay via... http://vmw.re/1zFFlB0 
+Mon Apr 20 17:50:16 PDT 2015 --  We're at #RSAC this week - come visit us at Booth South Expo #S1315 to talk about the latest in mobile security http://vmw.re/1zEknlP 
+Mon Apr 20 15:35:30 PDT 2015 --  Consider a holistic approach for securing your desktops in the data center, @TonyPaikeday explains why:... http://vmw.re/1E3SzNk 
+Mon Apr 20 15:10:18 PDT 2015 --  "New VMware open-source tools make Docker safe for the enterprise" http://ow.ly/LS2QC  by @mjasay via... http://vmw.re/1zDIh0T 
+Mon Apr 20 15:01:32 PDT 2015 --  Get immediate operations value from #vmware vRealize Log Insight, see how http://vmw.re/1J3t7KO  #loginsight http://vmw.re/1E3LADW 
+Mon Apr 20 14:53:55 PDT 2015 --  Turn on all the enabling tech out there that's maybe hard to use. Now with Cloud Native, we can do it. -CoreOS... http://vmw.re/1E3KiJ2 
+Mon Apr 20 14:53:49 PDT 2015 --  Providing tech like Lightwave to give ecosystem ability to write app once & run it in lots of different... http://vmw.re/1E3KjNf 
+Mon Apr 20 14:53:39 PDT 2015 --  Panel gathering on today's #vmwcna news pic.twitter.com/w78r2CzIcT http://vmw.re/1zDEvVf  pic.twitter.com/EfpYwMsgvA
+Mon Apr 20 14:53:32 PDT 2015 --  It's a stable API. It's the most reliable and is a huge opp to deliver new classes of services (cloud native... http://vmw.re/1E3Kecr 
+Mon Apr 20 14:53:23 PDT 2015 --  Many customers today want to use existing & new CNAs - but they're a pain. #vmwcna http://vmw.re/1E3KeJx 
+Mon Apr 20 14:52:04 PDT 2015 --  Register for tomorrow's webinar on the VMware Collaboration Bundle, which combines #ESN, #ContentManagement &... http://vmw.re/1E3K2de 
+Mon Apr 20 14:51:55 PDT 2015 --  Latest #vExpert blogs shed light on #VMware open source Projects Photon & Lightwave... http://vmw.re/1zDE3X5  pic.twitter.com/rDiJknH4FJ
+Mon Apr 20 14:51:43 PDT 2015 --  How the VMware Collaboration Bundle enhances file sync and share in the enterprise http://bit.ly/1OzEnNq  #EFSS http://vmw.re/1zDE2T3 
+Mon Apr 20 14:51:12 PDT 2015 --  AirWatch and VMware ready to address security at RSA http://vmw.re/1zDDWuJ  pic.twitter.com/yQ9bot2Q3g
+Mon Apr 20 14:51:06 PDT 2015 --  #VMware is making the developer a first-class user of the datacenter #vmwcna http://vmw.re/1E3JS5m  pic.twitter.com/UM5vAyOgfo
+Mon Apr 20 14:51:00 PDT 2015 --  #VMware Introduces New Open Source Projects to Accelerate Enterprise Adoption of... http://vmw.re/1E3JOTt  pic.twitter.com/YATmFydAZB
+Mon Apr 20 14:50:52 PDT 2015 --  Hybrid Clouds, End-User Computing, SDN To Boost VMware's Q1 Earnings http://vmw.re/1E3JR1u  pic.twitter.com/EymciZLnBY
+Mon Apr 20 10:17:32 PDT 2015 --  VMware's @kitcolbert talking about the changing world of apps - running in containers, microservices @mesophere pic.twitter.com/OMjvrhwxsC
+Mon Apr 20 10:43:45 PDT 2015 --  “ #Docker is the artifact currency of the container age” discussion between @wattersjames and @kitcolbert #CloudNativeApps #VMware
+Sun Apr 19 16:35:28 PDT 2015 --  In 1st full season as starter, Tebow took 1-4 team to div title, won playoff game, had NFL's best QBR last 5 mins. DESERVES THIS SHOT.
+Sun Apr 19 16:29:40 PDT 2015 --  Tim Tebow was just signed by the one NFL coach who will give him a real chance to do what he does best. Thank you, Chip Kelly.
+Sun Apr 19 16:03:40 PDT 2015 --  pic.twitter.com/ugpt2qWPQ3
+Sat Apr 18 08:20:42 PDT 2015 --  Very thought provoking read! https://lnkd.in/eek3zqb 
+Fri Apr 17 17:24:15 PDT 2015 --  Download the 2014 Gartner #EMM Magic Quadrant to see which 5 vendors were recognized in the Leaders quadrant:... http://vmw.re/1CXSEg7 
+Fri Apr 17 17:24:07 PDT 2015 --  VCP5-DCV Exam Prep Task Series, Part II - coming Mon., Apr 20 to http://CloudCredibility.com . Details:... http://vmw.re/1DRsTDf 
+Fri Apr 17 17:23:55 PDT 2015 --  Come learn about #VMware's latest innovation for #cloud native apps w/ @kitcolbert... http://vmw.re/1CXSCVI  pic.twitter.com/KB1SzjPR0N
+Fri Apr 17 17:23:49 PDT 2015 --  Business Mobility is improving how the #healthcare industry operates... http://vmw.re/1CXSBkC  pic.twitter.com/vaSPD7Dqd7
+Fri Apr 17 17:23:17 PDT 2015 --  Watch the full sessions from #AWConnect Barcelona, now on AirWatch TV: http://vmw.re/1yAuRri  http://vmw.re/1DRsRLD 
+Fri Apr 17 17:23:07 PDT 2015 --  Friday tech-wow: New LED Lights Are Stopping Insects Before They Bite Us And Give Us Diseases... http://vmw.re/1DRsReI 
+Fri Apr 17 17:22:56 PDT 2015 --  " #VMware announces EVO:Rail partners for Asean" http://ow.ly/LLr2X  by @eileenscyu http://vmw.re/1CXSvJH 
+Fri Apr 17 17:22:44 PDT 2015 --  Coming Apr 20th it's the huge #VMware online event you've been waiting for!... http://vmw.re/1CXStl7  pic.twitter.com/BV2MupS992
+Fri Apr 17 17:22:36 PDT 2015 --  Enterprise mobility news recap: April 13 – 17 http://vmw.re/1CXSsNX  pic.twitter.com/xWptoJ1tF8
+Fri Apr 17 17:22:24 PDT 2015 --  "VMware, AirWatch Solutions Through Collaboration Bundle" http://bit.ly/1Dgl05O  via @Thevarguy @MCusanelliSB http://vmw.re/1DRsMYo 
+Fri Apr 17 17:21:59 PDT 2015 --  Register for Monday's #vmwcna event, then WIN at http://CloudCredibility.com  New related... http://vmw.re/1DRsOzD  pic.twitter.com/stYy1WXsA8
+Fri Apr 17 17:21:40 PDT 2015 --  On Apr 20th learn how #VMware is partnering with @Pivotal to support #NextGenApps... http://vmw.re/1CXSjKo  pic.twitter.com/fi18NFpqJS
+Fri Apr 17 17:21:19 PDT 2015 --  What We Read This Week: A #VMware News Recap, April 17, 2015 http://vmw.re/1CXSiWK  pic.twitter.com/uzcWo1PMRj
+Fri Apr 17 17:19:54 PDT 2015 --  #VMware fortifies hybrid cloud security for mobile http://vmw.re/1DRsDUX  pic.twitter.com/Zb1ciPx58W
+Fri Apr 17 17:07:38 PDT 2015 --  The Heartfelt Reason This Grandfather Is An Uber Driver http://abcnews.go.com/US/grandfather-cancer-takes-uber-driving-pay-off-home/story?id=30389188 …
+Fri Apr 17 11:01:00 PDT 2015 --  From 1977 to today, the world of Star Wars has remained almost eternally popular: http://onforb.es/1zpgOjy  pic.twitter.com/MpkE1YLIph
+Thu Apr 02 13:04:03 PDT 2015 --  When brands support equality, it's a win all around. Find out why: http://goo.gl/YFyg85  pic.twitter.com/FqaBYThSg4
+Thu Apr 02 11:28:34 PDT 2015 --  New #FedRAMP rules aim to help agencies meet #GovIT TIC requirements @fedscoop @gregotto @MrFedRAMP http://fedscoop.com/fedramp-tic-overlay …
+Sat Apr 04 11:21:16 PDT 2015 --  DC is the number 3 city for highest salaries in tech industry...behind only Silicon Valley and Seattle... http://www.forbes.com/pictures/fgik45gikf/3-washington-dc/ …
+Fri Apr 17 06:55:28 PDT 2015 --  FedRAMP eyes TIC overlay | http://WJLA.com  https://lnkd.in/ewuguF2 
+Thu Apr 16 10:15:22 PDT 2015 --  Check out the "Got @FedRAMP" ice sculpture stamp from the @vCloud @CarpathiaHost @Carahsoft event last night! pic.twitter.com/Nyj54VJdg4
+Wed Apr 15 08:00:06 PDT 2015 --  A truly hybrid approach can help drive public sector efficiencies. Find out more about the #HybridCloud here: http://vmw.re/1aV3gpY 
+Thu Apr 16 14:25:06 PDT 2015 --  #VMware To Offer Standard Business Associate Agreement for VMware Horizon Air http://vmw.re/1DN6qqZ 
+Thu Apr 16 14:25:05 PDT 2015 --  Check out our upcoming webcast: Managing Storage Policies w/ #Vmware Virtual SAN: http://bit.ly/1DN6qY5  #vmwarevsan pic.twitter.com/30vQ6xZSVp
+Thu Apr 16 14:28:37 PDT 2015 --  New vSphere, SRM, Storage, and NSX Courses http://naro.ws/1ENBgRg 
+Thu Apr 16 14:30:05 PDT 2015 --  "VMware says deploying NSX, AirWatch together is best way to secure data centers" http://bit.ly/1b7MpRk  via @CRN
+Thu Apr 16 16:11:59 PDT 2015 --  #VMware Blends Data Center Management With VDI and Mobile http://vmw.re/1CTVanD  pic.twitter.com/oCHqQaCulY
+Thu Apr 16 16:11:49 PDT 2015 --  #vCloud Air Update from Bill Fathers [VIDEO] http://vmw.re/1DNmPvN  pic.twitter.com/KxZgKFHylb
+Thu Apr 16 06:50:06 PDT 2015 --  Never be afraid to be yourself.
+Thu Apr 16 03:47:15 PDT 2015 --  Cisco UCS Solution with VMware Virtual SAN™ (VSAN) https://lnkd.in/ec-Cnj3 
+Wed Apr 15 20:36:43 PDT 2015 --  20130879 VMware050 DiscoverVMware - Social_504px_C.jpg http://vmw.re/1aMItoR 
+Wed Apr 15 16:12:10 PDT 2015 --  "Thanks to all our partners here this evening. We couldn't be here without you." Carl Eschenbach, President of @VMware #vcgslaunchparty
+Wed Apr 15 16:14:44 PDT 2015 --  This is the culmination of one journey and the beginning of another. - @CarpathiaHost #vCGSLaunchParty
+Wed Apr 15 16:32:05 PDT 2015 --  All my @VMware people - sound off. Who's at #vCGSLaunchParty with me to celebrate this amazing milestone?
+Wed Apr 15 15:29:37 PDT 2015 --  We're excited for the #vCGSLaunchParty! pic.twitter.com/VDgIa83YJ0
+Wed Apr 15 17:13:59 PDT 2015 --  @virtualjad with Carl at the #vCGSLaunchParty - the combined power in those two heads is staggering. @VMware #vcgs pic.twitter.com/k3puGow5IZ
+Wed Apr 15 15:32:55 PDT 2015 --  #VMware helps CIOs tunnel their way to more secure mobile apps http://vmw.re/1CPv6tM  pic.twitter.com/9Mzx79kNV4
+Wed Apr 15 15:32:40 PDT 2015 --  Transforming Hybrid Cloud Security for Mobile Users [VIDEO] http://vmw.re/1CPv59m  pic.twitter.com/gtY2toxlaN
+Wed Apr 15 09:44:45 PDT 2015 --  Love #VMware? Sign up for a special launch event Apr 20th, w/ CEO Pat Gelsinger #vmwcna http://vmw.re/1DIdwgC  pic.twitter.com/vAdAEcBKdH
+Wed Apr 15 05:42:15 PDT 2015 --  Wireless.png https://lnkd.in/b6bCRWP 
+Wed Apr 08 07:23:13 PDT 2015 --  New EVO:RAIL Challenge Hands-on Lab and CloudCred! http://blogs.vmware.com/hol/2015/04/new-evorail-challenge-hands-lab-cloudcred.html …
+Tue Apr 14 18:52:43 PDT 2015 --  One year later, VMware's #Airwatch acquisition continues to transform mobility http://vmw.re/1FSn7AW  pic.twitter.com/0oTGGPYq5V
+Tue Apr 14 18:52:41 PDT 2015 --  #Ravello launches Inception: #VMware vSphere with ESXi on AWS or Google Cloud http://vmw.re/1DG0JLs  pic.twitter.com/bblxXeQZYl
+Tue Apr 14 18:52:00 PDT 2015 --  #VMware Healthcare Solutions Growing in Popularity http://vmw.re/1DG0FeP  pic.twitter.com/vRJIQn4FGr
+Tue Apr 14 18:51:55 PDT 2015 --  #VMware opens new facility in Bangalore, will hire 500 people in India this year http://vmw.re/1FSn2gz  pic.twitter.com/WSFxqphiFh
+Tue Apr 14 18:51:47 PDT 2015 --  CIOs Redefining Role to Fuel Integration, Innovation http://vmw.re/1DG0C2v  pic.twitter.com/FODNNC5fhD
+Tue Apr 14 15:17:57 PDT 2015 --  America's Best Employers http://onforb.es/1OximAH 
+Mon Apr 13 19:55:29 PDT 2015 --  One week from today, 100 new VCP-DCV Exam Review Tasks will roll out at... http://vmw.re/1DCExBQ  pic.twitter.com/oMmPWLzK8a
+Mon Apr 13 19:55:21 PDT 2015 --  Register for next week's webinar on the new VMware Collaboration Bundle: http://bit.ly/1CBQgNb  http://vmw.re/1DCEx4X 
+Mon Apr 13 19:55:11 PDT 2015 --  Webinar coming up Tuesday, 4/21: "A Closer Look at the New #VMware Collaboration Bundle" http://ow.ly/Lybo0  http://vmw.re/1DCEwhr 
+Mon Apr 13 19:54:57 PDT 2015 --  In 1 week #VMware will reveal what the future holds for next-gen apps. Register to be... http://vmw.re/1FPcKhc  pic.twitter.com/MgRaEamppJ
+Mon Apr 13 19:54:49 PDT 2015 --  VMware Horizon 6 with View: Performance Testing http://vmw.re/1DCErKu  pic.twitter.com/07PysMg45n
+Mon Apr 13 19:54:39 PDT 2015 --  VMware Horizon 6 with View: Performance Testing http://dlvr.it/9NH5Ms  http://vmw.re/1DCEp5t 
+Mon Apr 13 19:54:30 PDT 2015 --  Do you have adequate disaster recovery plans in place? See how the SDDC fortidies disaster recovery... http://vmw.re/1FPcGOA 
+Mon Apr 13 19:54:17 PDT 2015 --  Register for April 20 Webcast Launch at http://CloudCredibility.com  Next-Generation Applications: Microservices,... http://vmw.re/1DCEnKY 
+Mon Apr 13 19:54:12 PDT 2015 --  Graham Construction reaches new heights with mobility http://vmw.re/1DCEmGK  pic.twitter.com/A4OSRQtjkI
+Mon Apr 13 19:54:05 PDT 2015 --  Awesome! : Achieved Level 3 in #CloudCred https://www.cloudcredibility.com/profile/widget/10254 …" width="300" height="300" scrolling="no"... http://vmw.re/1FPcD5k 
+Mon Apr 13 19:53:53 PDT 2015 --  Register & attend - April 20 Webinar Launch. http://CloudCredibility.com  Task 2245 - for... http://vmw.re/1FPcFdf  pic.twitter.com/yP0PQY8GDm
+Mon Apr 13 19:53:41 PDT 2015 --  2015 Best of Interop Finalists: 27 Groundbreaking Products http://vmw.re/1DCEi9Y  pic.twitter.com/mdJj8bH1T8
+Mon Apr 13 19:53:31 PDT 2015 --  VMware is Modernizing Healthcare IT Through the Mobile #Cloud #HIMSS15 http://vmw.re/1DCEeqV  pic.twitter.com/LnqYM233t6
+Mon Apr 13 19:53:26 PDT 2015 --  #VMware to Offer Standard Business Associate Agreement (BAA) to Enable Healthcare... http://vmw.re/1FPcAGE  pic.twitter.com/6Qu0f7iWAQ
+Mon Apr 13 19:51:40 PDT 2015 --  Architects of What's Next - VMware Sales Organization - Dare to Disrupt http://vmw.re/1JEJwTC 
+Mon Apr 13 18:38:06 PDT 2015 --  This is the most successful Indiegogo campaign of all time http://cnnmon.ie/1O7sKx4  @jillianeugenios reports pic.twitter.com/naVSUQuvXO
+Sun Apr 12 12:33:43 PDT 2015 --  Build Development and Testing Environments on VMware vCloud Air http://vmw.re/1yinHI7 
+Sun Apr 12 08:46:30 PDT 2015 --  New #VMware Collaboration Bundle Integrates Content, Social Networking and Video Services http://vmw.re/1DzOVdE  pic.twitter.com/bCre3iOTFN
+Fri Apr 10 15:51:18 PDT 2015 --  VMware Horizon 6 Storage Considerations White Paper Now Available http://dlvr.it/9L7V45  http://vmw.re/1I0vMkT 
+Fri Apr 10 15:51:09 PDT 2015 --  " #VMware network virtualization software heralds prospects for MSPs" http://ow.ly/Lse1o  by @esthershein http://vmw.re/1Gy8jKv 
+Fri Apr 10 15:50:59 PDT 2015 --  Case Study: @EdisonNews Revolutionises Business Thanks to Mobile Technology Managed by AirWatch... http://vmw.re/1Gy8ghG 
+Fri Apr 10 15:50:50 PDT 2015 --  Mark your calendars ASAP. A major launch is happening on 4/20 led by @kitcolbert. Sign... http://vmw.re/1I0vKJU  pic.twitter.com/IZxTSOaUr8
+Fri Apr 10 15:50:41 PDT 2015 --  "Guest post: How to make boring topics interesting with #video" http://ow.ly/LsdMF  via the @AirWatch Blog http://vmw.re/1Gy8eXm 
+Fri Apr 10 15:50:26 PDT 2015 --  Friday tech-wow: 3D-Printed Weather Stations Could Save Lives In Developing Countries http://bit.ly/1z3TCXL  http://vmw.re/1I0vJpe 
+Fri Apr 10 15:50:08 PDT 2015 --  New #AirWatch Mobile Game Changer videos show organizations are transforming industries http://vmw.re/1I0vGtv  pic.twitter.com/IaLSaOae2A
+Fri Apr 10 15:49:57 PDT 2015 --  . @VMware Rated One of America's Best Employers by @Forbes http://vmw.re/1I0vElu  pic.twitter.com/Ywhv3qtdlZ
+Fri Apr 10 15:49:38 PDT 2015 --  First Blog Post from New #VMware CIO Bask Iyer: "Why VMware?" http://vmw.re/1Gy881M  pic.twitter.com/pAU8eOOVnE
+Wed Apr 08 18:24:17 PDT 2015 --  MT @vmware Register to join Kit Colbert & industry-leading partners for cloud native apps webcast w demos &... http://vmw.re/1a7rGvD 
+Wed Apr 08 18:23:54 PDT 2015 --  . @moderncounsel: " #VMware''s acquisition of AirWatch keeps info safe on mobile devices" http://bit.ly/1Fmz1Ak ... http://vmw.re/1a7rBIi 
+Wed Apr 08 18:23:38 PDT 2015 --  Curious about next generation applications? Register for the April 20th webcast to... http://vmw.re/1a7ryw4  pic.twitter.com/ijgYUHEzGz
+Wed Apr 08 18:23:29 PDT 2015 --  New VMware Collaboration Bundle Integrates Content Mgmt, Social Networking and Video... http://vmw.re/1a7rxbx  pic.twitter.com/oBboTEpKCe
+Wed Apr 08 18:23:20 PDT 2015 --  Deep Linking from email to the Socialcast mobile app http://vmw.re/1a7rtZx  pic.twitter.com/Io4s71HpgR
+Wed Apr 08 18:23:07 PDT 2015 --  Interesting article in Modern Counsel featuring VMware SVP & General Counsel Dawn... http://vmw.re/1a7ruMU  pic.twitter.com/lf4O39iw4A
+Wed Apr 08 18:22:53 PDT 2015 --  . @actbrilliant gives her take on the just-unveiled #VMware Collaboration Bundle: http://ow.ly/LmnxW  http://vmw.re/1a7rpc0 
+Wed Apr 08 18:22:42 PDT 2015 --  VCP5-DCV Exam Prep Task Series, Part II - coming Mon., Apr 20 to http://CloudCredibility.com . Details:... http://vmw.re/1a7rqwM 
+Wed Apr 08 18:22:25 PDT 2015 --  Free whitepaper: The Evolution of Contextual Unified Management http://vmw.re/1a6KX0e  http://vmw.re/1a7rmNi 
+Wed Apr 08 18:22:18 PDT 2015 --  Don't get left behind! Join us on 4/20 to learn about the future of microservices-based... http://vmw.re/1a7rlZT  pic.twitter.com/NLbkw4Tqn2
+Wed Apr 08 18:22:08 PDT 2015 --  "Why 2015 will be the year that the cloud comes of age" http://ow.ly/LmlBa  by @ritika_puri via @thenextweb http://vmw.re/1a7rigI 
+Wed Apr 08 18:21:59 PDT 2015 --  " #VMware launches collaboration bundle, combines Socialcast, AirWatch wares" http://ow.ly/LmlMH  by @ldignan http://vmw.re/1a7rkoE 
+Wed Apr 08 18:21:47 PDT 2015 --  New EVO:RAIL Challenge Lab now at http://CloudCredibility.com  Fix mis-configs, deploy & clone vm, scale out, all w/... http://vmw.re/1a7regQ 
+Wed Apr 08 18:21:32 PDT 2015 --  Digitalrep scans grocery store data to determine where products go http://vmw.re/1a7rfBp  pic.twitter.com/aGCragKwTu
+Wed Apr 08 18:21:28 PDT 2015 --  Today's podcast previewed the Cloud-Native Apps webcast coming 4/20... http://vmw.re/1a7rcFS  pic.twitter.com/byLUtZFAPV
+Wed Apr 08 10:58:31 PDT 2015 --  Brilliant! https://lnkd.in/bUsyGyQ 
+Sat Apr 04 13:00:07 PDT 2015 --  Does IT service design need to change to take advantage of #DevOps, Agile and cloud capabilities? Yes—here's why. http://vmw.re/1bX9JS3 
+Mon Apr 06 17:00:08 PDT 2015 --  Bravo! Well Done Starbucks! https://lnkd.in/b-Xg2Bc 
+Mon Apr 06 16:59:24 PDT 2015 --  Starbucks to give workers a full ride for college http://cnnmon.ie/1F86KTd  via @CNNMoney
+Mon Apr 06 14:42:06 PDT 2015 --  DevOps in the traditional enterprise – a leap ahed in release pipeline management. http://dlvr.it/9GxxTH  http://vmw.re/1HJ8IHj 
+Mon Apr 06 14:41:49 PDT 2015 --  DevOps in the traditional enterprise – a leap ahed in release pipeline management. http://vmw.re/1HJ8Ear  pic.twitter.com/QPTpYoHE60
+Mon Apr 06 14:41:36 PDT 2015 --  Interesting perspsective in this TED Talk: Your brain + the cloud = super humans http://ow.ly/Lg1vd  by... http://vmw.re/1HJ8FLB 
+Mon Apr 06 14:41:25 PDT 2015 --  How everyday needs will inspire your own End-User Computing strategies http://bit.ly/1F77pnM  via @mspmentor http://vmw.re/1F7V5np 
+Mon Apr 06 14:41:09 PDT 2015 --  Check out a few of #VCP5 Exam Prep Series, Part II: http://CloudCredibility.com  today. Thx @uber_tech_geek... http://vmw.re/1HJ8yj1 
+Mon Apr 06 14:41:02 PDT 2015 --  April 2015 Certification Website Changes http://vmw.re/1F7V033 
+Mon Apr 06 14:40:44 PDT 2015 --  VMware Fusion 7 Overview Watch here: http://bit.ly/1GhoOuf  http://vmw.re/1HJ8tvJ 
+Mon Apr 06 14:40:33 PDT 2015 --  AirWatch 8 breaks down the silos between mobile and desktop, presents vision for unified endpoint management... http://vmw.re/1HJ8sIa 
+Mon Apr 06 14:40:12 PDT 2015 --  How do you become #CIO at "the hospital Steve Jobs would have built"? Great story http://ow.ly/La5uj  http://vmw.re/1HJ8pMw 
+Mon Apr 06 14:40:00 PDT 2015 --  Download our free whitepaper on mobility in #HigherEd to learn how universities are leveraging mobility... http://vmw.re/1HJ8lMW 
+Mon Apr 06 14:39:52 PDT 2015 --  Columbia Sportswear hard boils security with help from VMware #NSX http://bit.ly/1JfY3EZ  http://vmw.re/1F7UL85 
+Mon Apr 06 14:39:40 PDT 2015 --  New blog post on Tribal Knowledge: Explain It Like I’m Four: Micro-Segmentation http://ow.ly/LfI7y  http://vmw.re/1HJ8iAA 
+Mon Apr 06 14:36:39 PDT 2015 --  Refresh: Top 20 Horizon with View KB articles http://vmw.re/1IkeXVa  http://vmw.re/1F7Ue6a 
+Sun Apr 05 19:37:09 PDT 2015 --  #VMware SDDC: One CLOUD. Any APPLICATION. Any DEVICE. http://vmw.re/1C8HFR5  pic.twitter.com/WzCn8FBhH8
+Sun Apr 05 19:37:00 PDT 2015 --  Telco 2015 - NFV and the Path to the Telco Cloud #MWC15 http://vmw.re/1C8HBAx  pic.twitter.com/KLZlg0SQNa
+Thu Apr 02 17:33:39 PDT 2015 --  #VMware SDDC: One CLOUD. Any APPLICATION. Any DEVICE. http://vmw.re/1FnKuC2  pic.twitter.com/uuYEWlwFHc
+Thu Apr 02 17:33:26 PDT 2015 --  Telco 2015 - NFV and the Path to the Telco Cloud #MWC15 http://vmw.re/1MHW9T2  pic.twitter.com/rOT61uWhSi
+Wed Apr 01 18:54:08 PDT 2015 --  Watch the @Bloomberg Innovation panel, featuring @AlanDabbiere, Porsche and Bastille Networks... http://vmw.re/1MCE6gV 
+Wed Apr 01 18:53:58 PDT 2015 --  The impact of virtualization on Capacity Mgmt - Part 4 http://vmw.re/19G7ktp  http://vmw.re/1Cz4GQh 
+Wed Apr 01 18:53:42 PDT 2015 --  Check out recent Tech Cloud Tasks - http://CloudCredibility.com  Hybrid cloud management, #vCloud Air DR, #vRealize... http://vmw.re/1Cz4FvR 
+Wed Apr 01 18:53:32 PDT 2015 --  . @Spoonen makes the list of Top 100 Individuals & Brands in the #IoT Landscape: http://bit.ly/19GzLHO  http://vmw.re/1MCDXu7 
+Wed Apr 01 18:53:21 PDT 2015 --  . @ChuckHollis provides details on how you can double your storage performance with #VSAN 6:... http://vmw.re/1Cz4DE6 
+Wed Apr 01 18:53:12 PDT 2015 --  Check out "Learning AirWatch", an eBook written by an AirWatch customer for AirWatch customers... http://vmw.re/1Cz4AIy 
+Wed Apr 01 18:53:04 PDT 2015 --  #VMware's @FrankRauchVMW made it to round 3 of CRN's #ChannelMadness. Vote for him here! http://ow.ly/L64YH  http://vmw.re/1MCDQ1J 
+Wed Apr 01 18:52:43 PDT 2015 --  Great Blog: Overcoming Design Challenges with an Enterprise-wide Syslog Solution: http://vmw.re/1ak6bJd  http://vmw.re/1Cz4vof 
+Wed Apr 01 18:52:31 PDT 2015 --  Virtualize like a ninja with #VMware #NSX TAM Services http://vmw.re/1CPTlNe  http://vmw.re/1Cz4twu 
+Wed Apr 01 18:52:11 PDT 2015 --  Micro-Segmentation using VMware NSX™ and Horizon® 6 http://vmw.re/1MCDCHT  pic.twitter.com/ImYuQFlaJs
+Wed Apr 01 18:52:03 PDT 2015 --  "Implementing a Hybrid Cloud Strategy" http://ow.ly/L6azT  by @DuncanYB via #VMware's Office of the CTO blog http://vmw.re/1MCDBnc 
+Wed Apr 01 18:51:45 PDT 2015 --  A cloud Q&A with Simone Brunozzi http://vmw.re/1Cz4lgA  pic.twitter.com/oe784VWFVQ
+Wed Apr 01 18:51:33 PDT 2015 --  Palo Alto Networks, #VMware Expand Strategic Partnership http://vmw.re/1MCDsjG  pic.twitter.com/nGjC7eBmLb
+Wed Apr 01 18:51:29 PDT 2015 --  #AirWatch 8 presents a vision for unified endpoint management http://vmw.re/1Cz4iBi  pic.twitter.com/yojbdXBuu1
+Wed Apr 01 18:51:17 PDT 2015 --  New #VMware Tool Eases Migrations From Windows http://vmw.re/1Cz4fFD  pic.twitter.com/OOR43dYYGl
+Mon Mar 30 16:38:54 PDT 2015 --  New blog post! #vROps Manager Content Pack for #LogInsight - w/sample config file! http://www.vaficionado.com/2015/03/vrealize-operations-manager-content-pack-for-log-insight/ … @vmwarecloudops @vmwarecloudmgmt
+Sun Mar 29 17:45:14 PDT 2015 --  Right and wrong ways to implement cloud-based desktops http://vmw.re/1CnEdoM  pic.twitter.com/mNuJUbftsi
+Sun Mar 29 17:44:49 PDT 2015 --  How to support HIPAA compliance and secure patient data on mobile devices http://vmw.re/1CzoNzb  http://vmw.re/1CnEbNO 
+Sun Mar 29 17:44:42 PDT 2015 --  How colleges shape #BYOD policies to manage bandwidth, improve security and support learning... http://vmw.re/1CnEbx7 
+Sun Mar 29 17:44:32 PDT 2015 --  What is the VMware Partner Network? Find out how you could benefit: http://vmw.re/1Dgz8SX  http://vmw.re/1MldssS 
+Sun Mar 29 17:44:26 PDT 2015 --  Watch our recorded webinar on secure enterprise messaging with AirWatch Chat http://vmw.re/1xqbxwd  (AirWatch... http://vmw.re/1MldpNC 
+Sun Mar 29 17:44:16 PDT 2015 --  Discover the perfect storage to complement your virtualized infrastructure —Download... http://vmw.re/1CnE9W6  pic.twitter.com/bNJp2BjPXg
+Sun Mar 29 17:43:58 PDT 2015 --  #VMWare General Manager End-User Computing @spoonen discusses e-mail solutions for government officials.... http://vmw.re/1CnE3xP 
+Sat Mar 28 07:39:36 PDT 2015 --  "The world will not be destroyed by those who do evil, but by those who watch them without doing anything." - Albert Einstein
+Fri Mar 27 13:11:39 PDT 2015 --  Sweet 16 of #CUBEmadness: Alan Nance vs. Sanjay Poonen http://vmw.re/1Choh7y  pic.twitter.com/wKbwRVFyFv
+Fri Mar 27 13:11:22 PDT 2015 --  Watch this video to learn why it's always better to use a checklist #EVO:RAIL http://vmw.re/1ChoiYZ  pic.twitter.com/FNthYy5B26
+Fri Mar 27 11:54:14 PDT 2015 --  Federal CIO's 3 tips for moving to the cloud http://fedtimes.ly/1C8c0SP 
+Thu Mar 26 20:42:08 PDT 2015 --  VMware #Horizon 6.1 comes with big upgrades says @GabeKnuth from @TechTarget http://vmw.re/1FYrLOG  pic.twitter.com/jTBimyHuYG
+Thu Mar 26 20:42:07 PDT 2015 --  Learn why @VMware was a natural shoe in for @BrownShoe http://vmw.re/1Cfxg9h  pic.twitter.com/zlqT0QwZM1
+Thu Mar 26 18:44:08 PDT 2015 --  pic.twitter.com/jwLNKfEcMb
+Wed Mar 25 17:17:08 PDT 2015 --  How Does Your Organization's IT Maturity Compare Against Competitors? Find out now. http://vmw.re/1FVZ3Oz  pic.twitter.com/MfmxGUoBeC
+Wed Mar 25 17:16:59 PDT 2015 --  MT @alanlepo: MyPOV: Very impressive VMware EVP @spoonen stays for entire analyst day & provides input to each... http://vmw.re/1FVZ3y2 
+Wed Mar 25 17:16:51 PDT 2015 --  #VMworld 2015 - Call for Papers is now open http://vmw.re/1FVZ1WV  pic.twitter.com/xwsVS2gMLw
+Wed Mar 25 17:16:22 PDT 2015 --  " #VMware Horizon 6.1 comes with big upgrades, tiny name change" http://ow.ly/KNr4S  via @gabeknuth http://vmw.re/1CbKSlS 
+Wed Mar 25 17:15:51 PDT 2015 --  Want to learn how financial orgs can securely adopt #mobility? Read the case study to see how @GroupeBPCE has... http://vmw.re/1CbKNPc 
+Wed Mar 25 17:15:39 PDT 2015 --  " #VMware vCloud Air Expands in Europe with GA of Service in Frankfurt, Germany" http://ow.ly/KNq9K  via... http://vmw.re/1FVZ0Cm 
+Wed Mar 25 17:15:31 PDT 2015 --  Gain insight of Virtual SAN from an architect's perspective. VIDEO: http://vmw.re/1E05rVR  http://vmw.re/1FVYYKO 
+Wed Mar 25 17:15:06 PDT 2015 --  Going to EMC World 2015? Take 50% off on your VCP exams: http://vmw.re/1LZaryb  #EMCWORLD http://vmw.re/1FVYX9y 
+Wed Mar 25 17:14:48 PDT 2015 --  "Security a major reason for SDN adoption" http://ow.ly/KNwB0  by @NorthernTalbot via @FierceEntComm http://vmw.re/1FVYXGE 
+Wed Mar 25 17:14:34 PDT 2015 --  ICYMI: @Spoonen discusses email security for government professionals on Bloomberg West http://vmw.re/1E0Cs4a  http://vmw.re/1FVYXq0 
+Wed Mar 25 17:14:25 PDT 2015 --  Find out how VMware vCloud Air protects orgs from downtime & data loss when disaster... http://vmw.re/1FVYUuq  pic.twitter.com/iQsXrcqEC7
+Wed Mar 25 17:14:05 PDT 2015 --  MT @alanlepo: The @VMware @AirWatch biz is skyrocketing due to the need to manage the growing number/variety... http://vmw.re/1FVYVyy 
+Tue Mar 24 21:21:02 PDT 2015 --  "Kindness is the language which the deaf can hear and the blind can see." Mark Twain
+Tue Mar 24 18:02:59 PDT 2015 --  Try vSphere with Operations Management free with a hosted evaluation or download: http://vmw.re/1CMuZ7m  http://vmw.re/1BpKHA1 
+Tue Mar 24 18:02:37 PDT 2015 --  GI Bill Reimbursement Program Instructions- VMWare Certification Credentials http://vmw.re/1FU1GAi 
+Tue Mar 24 18:02:13 PDT 2015 --  Download the 2014 @Gartner_Inc Magic Quadrant for #EMM: http://vmw.re/1DUy5rf  http://vmw.re/1BpKEUJ 
+Tue Mar 24 18:01:50 PDT 2015 --  VMWare Certification GI Reimbursement Program http://vmw.re/1BpKEnI 
+Tue Mar 24 18:01:37 PDT 2015 --  Indepth look at #VMware's unveiling of next wave innovation for applications & desktop virtualization in... http://vmw.re/1BpKBbt 
+Tue Mar 24 18:01:26 PDT 2015 --  This short video explains what makes #VSAN 6 the right way to do storage: http://vmw.re/1N5cLAM  http://vmw.re/1BpKBIG 
+Tue Mar 24 18:01:18 PDT 2015 --  Introduction to VMware vRealize Business http://vmw.re/1FU1AIV  pic.twitter.com/9j0ILthI4K
+Tue Mar 24 18:00:48 PDT 2015 --  Read more about updates for users and IT admins in AirWatch 8: http://vmw.re/1CnjJOj  http://vmw.re/1FU1u44 
+Tue Mar 24 18:00:07 PDT 2015 --  A Day in the Life of Dr. Jim Roland http://vmw.re/1BpKuN5  pic.twitter.com/5An7vF78m3
+Tue Mar 24 17:59:54 PDT 2015 --  #VMworld 2015 Call For Papers is now officially open. See http://www.vmworld.com/index.jspa  for more information and how... http://vmw.re/1FU1qRT 
+Tue Mar 24 17:59:30 PDT 2015 --  Federal #CIO Tony Scott outlines his digital priorities http://vmw.re/1BpKrRs  pic.twitter.com/NxCiHU7a1X
+Tue Mar 24 16:50:11 PDT 2015 --  Don't let life change your goals, because achieving your goals can change your life.
+Mon Mar 23 21:30:13 PDT 2015 --  Sometimes it is not enough to do our best; we must do what is required. - Winston Churchill
+Sat Mar 21 06:38:36 PDT 2015 --  Technical Demo: What’s New with vCloud Air Disaster Recovery http://vmw.re/1MNcmD5 
+Fri Mar 20 14:50:05 PDT 2015 --  Smart play by both companies. https://lnkd.in/bDuijwt 
+Fri Mar 20 08:46:27 PDT 2015 --  Give without remembering and always receive without forgetting.
+Fri Mar 20 08:51:02 PDT 2015 --  No matter how far you go in the wrong direction, there's always a chance to turn your life around :]
+Fri Mar 20 06:49:10 PDT 2015 --  #vRealize Operations Management Packs: What's New http://vmw.re/1C4ZW6b  pic.twitter.com/fiD7aTRwYd
+Fri Mar 20 06:48:56 PDT 2015 --  Another Mobile World Congress Down! #MWC15 http://vmw.re/1C4ZS6f  pic.twitter.com/4Wz3FF95e3
+Fri Mar 20 06:48:49 PDT 2015 --  #CeBIT 2015 - the Internet of Things and security take centre stage http://vmw.re/1APaXEw  pic.twitter.com/ne6yGuvBtm
+Thu Mar 19 17:29:48 PDT 2015 --  vCloud Air Strengthens Compliance Portfolio http://blogs.vmware.com/vcloud/2015/03/vcloud-air-strengthens-compliance-portfolio.html …
+Thu Mar 19 17:28:23 PDT 2015 --  VMware vCloud Air Strengthens its Compliance Portfolio https://lnkd.in/bEtr3Hg 
+Thu Mar 19 17:26:49 PDT 2015 --  NICE: @NVIDIA CEO Jen-Hsun praises @VMwareHorizon 3D Graphics http://edge.media-server.com/m/p/a5fohem4  (Min 35) + nice Siemens NX Demo https://www.youtube.com/watch?v=e7TaPRW93Qs …
+Thu Mar 19 16:50:04 PDT 2015 --  Don't make excuses for why you can't get it done. Focus on all the reasons why you must make it happen.
+Wed Mar 18 21:59:06 PDT 2015 --  Are You Ready to Achieve Scale with Your Enterprise Applications? See how we can help http://vmw.re/19AwgTH  http://vmw.re/1Gs8CDe 
+Wed Mar 18 21:58:42 PDT 2015 --  Spring is in the air and #VMware's Brian Gunnell writes about a springtime promise - for #healthcare IT:... http://vmw.re/1Gs8vaH 
+Wed Mar 18 21:58:30 PDT 2015 --  In Part 1 of this blog series, Jonathan McDonald discusses how to properly architect & deploy vCenter 6.0... http://vmw.re/1H4iuGJ 
+Wed Mar 18 21:57:36 PDT 2015 --  New post on Tribal Knowledge by VMware EVP and GM of End-User Computing Sanjay Poonen -... http://vmw.re/1Gs8jIB  pic.twitter.com/JOlI4hj5jf
+Wed Mar 18 21:57:30 PDT 2015 --  Unleash Business Innovation with Business Mobility - Sanjay Poonen and Noah Wasmer http://vmw.re/1Gs8lA2  pic.twitter.com/SCqt1UPjz2
+Wed Mar 18 21:57:12 PDT 2015 --  Learning with @VMware Hands-on Labs http://vmw.re/1bglKBK  http://vmw.re/1Gs8eoh 
+Wed Mar 18 21:57:04 PDT 2015 --  Apple Watch presents opportunities for interoperability and IoT connectivity @Airwatch http://vmw.re/1xzoC14  http://vmw.re/1Gs8dAL 
+Wed Mar 18 21:53:44 PDT 2015 --  Looking for #VMUG involvement in your area? Find a local group here: http://vmw.re/1BX9LCS  http://vmw.re/1Gs7D5Y 
+Wed Mar 18 21:53:23 PDT 2015 --  New post on Tribal Knowledge by VMware EVP and GM of End-User Computing @spoonen http:\/\/vmw.re\/18J8l3o http://vmw.re/1Gs7Bv1 
+Wed Mar 18 21:52:50 PDT 2015 --  A Hybrid Cloud Conversation with Bill Fathers http://vmw.re/1Gs7sHK  pic.twitter.com/MC8YncVSGR
+Wed Mar 18 21:52:33 PDT 2015 --  What's New in #vRealize Operations 6: Part 2 http://vmw.re/1H4hzpC  pic.twitter.com/NY1ey20bSR
+Wed Mar 18 05:24:32 PDT 2015 --  Congrats! #VMworld 2015 pass winners from http://CloudCredibility.com  Find +2000 Cloud Resources at #CloudCred -... http://vmw.re/1GnWEdV 
+Wed Mar 18 05:24:22 PDT 2015 --  Support for NFS/iSCSI & VSAN in vRealize Operations Management pack for Storage Devices 6.0.1... http://vmw.re/1GnWAuH 
+Wed Mar 18 05:24:13 PDT 2015 --  Alistair Wildman: @AirWatch by VMware provides the solutions its clients need. Interview for @GlobbTV...... http://vmw.re/1H1ux7I 
+Wed Mar 18 05:24:07 PDT 2015 --  5 important trends from #MWC15, including @google's Android for Work: read in #Czech @CIOCZ....... http://vmw.re/1GnWy5Z 
+Wed Mar 18 05:23:24 PDT 2015 --  Use our free eBook to learn the cost implications of services, which will enable you to... http://vmw.re/1GnWpiZ  pic.twitter.com/QUamJkcBGT
+Tue Mar 17 17:07:54 PDT 2015 --  This wireless smart guitar lets you become a real 'Guitar Hero' http://tnw.me/zH2Okti  pic.twitter.com/wRDtIha7Gp
+Tue Mar 17 17:09:42 PDT 2015 --  VMware Announces General Availability of #vCloud Air in Germany http://vmw.re/1GZGLOf  pic.twitter.com/cc1AxA27fD
+Tue Mar 17 11:35:08 PDT 2015 --  Great achievement is usually born of great sacrifice, and is never the result of selfishness.
+Mon Mar 16 07:18:19 PDT 2015 --  Can You Have 2 Email Accounts in Government? Sanjay Poonen says @VMware @Airwatch can help http://vmw.re/1GUIowx  pic.twitter.com/TH1IOliXTE
+Mon Mar 16 07:17:42 PDT 2015 --  #loginsight Support for IPv6 - http://ideascale.com/t/UGjcZctj  http://vmw.re/1GUIgNp 
+Mon Mar 16 07:17:13 PDT 2015 --  In-depth: NVIDIA GRID vGPU with VMware Horizon 6.1 http://vmw.re/1GdmQYk  pic.twitter.com/fijI5yAELQ
+Mon Mar 16 07:17:06 PDT 2015 --  On 3/17, #Horizon6 gets even better. Get a first-hand look with @googleforwork and sumit_dhawan. Register... http://vmw.re/1GUId4j 
+Mon Mar 16 07:16:58 PDT 2015 --  In-depth: NVIDIA GRID vGPU with VMware Horizon 6.1 http://dlvr.it/8zl26r  http://vmw.re/1GUI9RX 
+Mon Mar 16 07:16:40 PDT 2015 --  Key enhancements within VMware Horizon 6 include http://vmw.re/1FpGRwq  http://vmw.re/1GdmJfC 
+Mon Mar 16 07:16:32 PDT 2015 --  Watch: @spoonen discusses email security for #government professionals on @BloombergWest http://vmw.re/1FrNYow  http://vmw.re/1GUI80l 
+Mon Mar 16 07:16:19 PDT 2015 --  Gating Rules in vRealize Code Stream http://vmw.re/1GUI4Od  pic.twitter.com/fHl7uBoeMy
+Mon Mar 16 07:16:15 PDT 2015 --  Capacity Management in SDDC – Part 2 http://vmw.re/1GUI4hg  pic.twitter.com/xnUjnlpQ3q
+Mon Mar 16 07:16:06 PDT 2015 --  Why Service Owners Are Integral to IT-as-a-Service Delivery http://vmw.re/1GUI1ls 
+Mon Mar 16 07:15:58 PDT 2015 --  VMware Unveils Next Wave of Innovation in #Horizon 6 http://vmw.re/1GUI3d4  pic.twitter.com/hbVfuAX9rH
+Sat Mar 14 17:38:23 PDT 2015 --  pic.twitter.com/nrvH8N59qS
+Sat Mar 14 13:14:40 PDT 2015 --  "Only a life lived for others is a life worthwhile." - Albert Einstein Happy Birthday Albert Einstein and Happy Pi Day!
+Fri Mar 13 23:29:53 PDT 2015 --  Sprint CEO on Changing the Company: 'I Told Them to Launch in Four Days' https://lnkd.in/bAsEBEt 
+Fri Mar 13 07:13:55 PDT 2015 --  Meet the cyber warrior 'princess' paid to hack @googlechrome http://cnn.it/19gm6rh  pic.twitter.com/h0WBkEohfe
+Fri Mar 13 07:25:04 PDT 2015 --  AirWatch Connect at Mobile World Congress – It’s a wrap! http://dlvr.it/8xtLmy 
+Thu Mar 12 16:05:02 PDT 2015 --  Natural talent only determines where you start. It's dedication and discipline in your life that makes you great.
+Thu Mar 12 21:28:56 PDT 2015 --  To build may have to be the slow and laborious task of years. To destroy can be the thoughtless act of a single day. – Winston Churchill
+Thu Mar 12 21:30:05 PDT 2015 --  Laugh your heart out, dance in the rain, cherish the moment, live, laugh, love, forgive & forget, life's 2 short 2 be, living w/ regrets.
+Thu Mar 12 19:55:47 PDT 2015 --  7 Habits of Remarkably Likeable Bosses https://lnkd.in/bHGDA7g 
+Thu Mar 12 19:54:54 PDT 2015 --  7 Habits of Remarkably Likeable Bosses http://www.inc.com/peter-economy/7-habits-of-remarkably-likeable-bosses.html …
+Thu Mar 12 19:38:17 PDT 2015 --  https://www.facebook.com/video.php?v=406208302880974 …
+Thu Mar 12 18:48:47 PDT 2015 --  Download these wallpapers: http://f-st.co/EJpDpNr  pic.twitter.com/HXCYgagQMj
+Thu Mar 12 18:02:37 PDT 2015 --  I'm listening to "Nina Simone Radio" on Pandora http://pdora.co/1F5O58P 
+Thu Mar 12 16:55:08 PDT 2015 --  vTech Talks: vCloud Air Networking Connectivity Whiteboard http://vmw.re/1EEgeFl  pic.twitter.com/q0c6bDIdyt
+Thu Mar 12 16:54:59 PDT 2015 --  Join VMware at GPU Technology Conference 2015: Delivering High Performance Workstations... http://vmw.re/1GxsULp  pic.twitter.com/aYZKySL8ey
+Thu Mar 12 16:54:54 PDT 2015 --  See How VMware is Keeping your workforce productive, even when disaster strikes http://vmw.re/1EEgfJ9  pic.twitter.com/FkfzZSuj1x
+Thu Mar 12 16:54:24 PDT 2015 --  VMware President & COO Carl Eschenbach shares benefits you can gain from VMware training & certification.... http://vmw.re/1EEgbsT 
+Thu Mar 12 16:53:51 PDT 2015 --  Great Blog: Log Insight cluster with Kemp load balancer: http://bit.ly/1FUFEvp  � @mbroeken http://vmw.re/1GxsKDL 
+Thu Mar 12 16:53:43 PDT 2015 --  Trying to transform your IT? Time to see if the #CMO can help. #CIO http://ow.ly/K6h4g  http://vmw.re/1EEg7cF 
+Thu Mar 12 16:52:25 PDT 2015 --  The waiting is over! Download #vSphere & #vSOM 6, #vCloud Suite 6, SRM 6, and #VSAN 6 now. http://vmw.re/1GxsxAu  pic.twitter.com/Zx5oQSJwOQ
+Wed Mar 11 17:01:33 PDT 2015 --  The strength of the team is each individual member. The strength of each member is the team.
+Wed Mar 11 16:14:57 PDT 2015 --  pic.twitter.com/yI0yLjXlSH
+Wed Mar 11 16:14:53 PDT 2015 --  Attend & Register for the VMware Public Sector Partner Summit on April https://lnkd.in/bJrFEZZ 
+Wed Mar 11 14:21:46 PDT 2015 --  Apple Watch presents opportunities for interoperability and IoT connectivity http://vmw.re/1GsXwxi  pic.twitter.com/pPC3oSafb5
+Wed Mar 11 06:47:07 PDT 2015 --  New blog: All Flash VSAN - One versus multiple disk groups - http://vmwa.re/1pr 
+Tue Mar 10 10:27:24 PDT 2015 --  Protecting #VMware #vCenter Server with vSphere Data Protection #VDP 6.0 http://blogs.vmware.com/vsphere/2015/03/protecting-vcenter-with-vdp-60.html …
+Wed Mar 11 05:12:28 PDT 2015 --  Q&A with Paul Strong: Part 2 http://vmw.re/1Gr7orq  pic.twitter.com/vPAK3nLDHX
+Wed Mar 11 05:12:22 PDT 2015 --  Customizable Dashboards, Views and Reports in #vRealize Operations 6 http://vmw.re/1Gr7q2D  pic.twitter.com/0waGzgWWDK
+Wed Mar 11 05:12:11 PDT 2015 --  Webinar: How to Avoid Drowning in your Big Data Lake http://vmw.re/1Gr7kba  pic.twitter.com/HYsv0FDKbU
+Wed Mar 11 05:12:07 PDT 2015 --  Need some comic relief today? This one's got disasters, superheros and mystery. Read... http://vmw.re/1EzubnQ  pic.twitter.com/orsC0gGDcU
+Wed Mar 11 05:11:52 PDT 2015 --  Create a Pipeline in vRealize Code Stream http://vmw.re/1EzuaAg  pic.twitter.com/L1y5vxGMoQ
+Tue Mar 10 17:03:33 PDT 2015 --  pic.twitter.com/wCt2yVPbxX
+Tue Mar 10 11:04:02 PDT 2015 --  VMware ranked in the Top 100 Best Companies to Work For by @FortuneMagazine http://vmw.re/1GoaHzK  pic.twitter.com/VMZF8vdZps
+Tue Mar 10 10:20:03 PDT 2015 --  Don't cry over the past, it's gone. Don't stress about the future, it hasn't arrived. Live in the present and make it count.
+Tue Mar 10 10:07:30 PDT 2015 --  Arnold Schwarzenegger Motivation - 6 rules of success speech - with subt...: http://youtu.be/EyhOmBPtGNM  via @YouTube
+Tue Mar 10 06:57:32 PDT 2015 --  Mumford & Sons Get Louder on 'Believe': Hear The New Single http://www.billboard.com/articles/news/6495022/mumford-sons-believe-new-single … via @billboard
+Mon Mar 09 15:07:19 PDT 2015 --  Highlights from Mobile World Congress, 2015 (Part 2) on Storify http://vmw.re/1GkROxq  pic.twitter.com/vAq68iZpNj
+Fri Feb 27 13:13:33 PST 2015 --  May your choices reflect your hopes, not your fears. - Nelson Mandela
+Sun Mar 08 01:35:39 PST 2015 --  Ever scratched your head what kind of certs are supported on #vRA or #vcac? Scratch no more but read http://kb.vmware.com/kb/2106583 
+Sat Mar 07 06:28:53 PST 2015 --  #StrongerTogether pic.twitter.com/3vTVQWAyVR
+Sat Mar 07 04:18:52 PST 2015 --  This is Miami! http://www.usatoday.com/story/travel/destinations/2015/03/06/miami-downtown-building-restaurant-boom/24136609/ … pic.twitter.com/sv0qKFF6uM
+Fri Mar 06 19:19:07 PST 2015 --  Being a person is a matter of birth. Being an adult is a matter of age. But being a loving, caring friend is a matter of choice.
+Fri Mar 06 19:21:00 PST 2015 --  There’s a difference between feedback & coaching; both are required to help an employee make important changes: http://onforb.es/17QH8LW 
+Fri Mar 06 19:21:41 PST 2015 --  Big day for new tech, #Apple replaces @ATT on the @DowJones - it's about time! :) via @WSJ http://www.wsj.com/articles/apple-added-to-dow-jones-industrial-average-1425650402 …
+Fri Mar 06 18:56:17 PST 2015 --  Google's MVNO which will switch between Sprint, T-Mobile and Wi-Fi networks is a potential game changer for the wire…https://lnkd.in/b7bTRST 
+Fri Mar 06 14:45:46 PST 2015 --  Q&A with Paul Strong: Part 1 http://vmw.re/1ExlOaK  pic.twitter.com/mlAzgJO5aQ
+Fri Mar 06 14:45:40 PST 2015 --  #VMware Workspace Portal puts desktop, app access in one interface http://vmw.re/1ExlMj4  pic.twitter.com/jmNgbc27bB
+Fri Mar 06 06:19:06 PST 2015 --  The mind is everything. What you think you become. ~ Buddha #RT #uplifting #quotes
+Fri Mar 06 04:10:34 PST 2015 --  Attend & Register for the VMware Public Sector Partner Summit on April https://lnkd.in/bJrFEZZ 
+Thu Mar 05 14:09:42 PST 2015 --  pic.twitter.com/JYDbcDYiPB
+Thu Mar 05 08:38:10 PST 2015 --  Today marks a very proud moment for our community. @VMware is on @FortuneMagazine's #100BestCos list! http://vmw.re/1NkLLhN  #DiscoverVMware
+Thu Mar 05 10:35:08 PST 2015 --  Come #DiscoverVMware and join us as we celebrate our community's #100BestCos milestone. http://vmw.re/18mafXl 
+Thu Mar 05 12:18:34 PST 2015 --  Very exciting! VMware ranked #65 of 100 Best Companies to Work For. I'm not surprised one bit, good work #VMware! http://for.tn/1vTmHsR 
+Thu Mar 05 12:25:23 PST 2015 --  Get an in-depth look at new features in Android for Work with our upcoming webinar on 3/19:... http://vmw.re/1EqZFef 
+Thu Mar 05 12:24:47 PST 2015 --  Sanjay Poonen highlights VMware's plans to drive business innovation http://vmw.re/1EqZzTZ  pic.twitter.com/TuvZlC10i2
+Thu Mar 05 12:24:41 PST 2015 --  Highlights from Mobile World Congress, 2015 http://vmw.re/1G2YJv6  pic.twitter.com/qvlYBIPdgL
+Thu Mar 05 12:24:34 PST 2015 --  5 essential digital marketing tips from Jeff Spicer, VP of Digital Marketing @VMware http://vmw.re/1EqZz6g  pic.twitter.com/CHMtSeH93T
+Thu Mar 05 12:24:28 PST 2015 --  Cisco, #VMware unveil CSP products to tap growing market http://vmw.re/1EqZyPG  pic.twitter.com/sDIXaAWaux
+Thu Mar 05 12:24:23 PST 2015 --  #VMware targets Microsoft and AWS with OneCloud http://vmw.re/1G2YDnb  pic.twitter.com/enDmUY9uft
+Thu Mar 05 12:23:59 PST 2015 --  VMware ranked in the Top 100 Best Companies to Work For by @FortuneMagazine http://vmw.re/1G2YwYZ  pic.twitter.com/2WpZJzPA9J
+Thu Mar 05 12:23:50 PST 2015 --  Carl Eschenbach on the Value of #VMware Training http://vmw.re/1EqZvDI  pic.twitter.com/N6OwiqA9ft
+Thu Mar 05 12:15:07 PST 2015 --  Want to test the newest version of Horizon 6, without any installation? Try our Hands on Lab. http://vmw.re/1AMhPBe 
+Thu Mar 05 12:14:25 PST 2015 --  Take the VMware #DRchallenge and you could win a pass to #VMworld 2015! http://vmw.re/1G2SpE7 
+Wed Mar 04 23:32:48 PST 2015 --  Why hybrid cloud is a perfect fit for the public sector http://vmw.re/1wI1HFW 
+Tue Mar 03 16:06:35 PST 2015 --  When you walk up to opportunities door, don't knock... Kick it in, smile and introduce yourself. -Dwayne Johnson
+Tue Mar 03 05:30:52 PST 2015 --  VMware takes on mobile networks with vCloud for #NFV http://vmw.re/1EdSiH2  pic.twitter.com/wyPNhHVo0c
+Sun Mar 01 18:41:29 PST 2015 --  One important key to success is self-confidence. An important key to self-confidence is preparation. - Arthur Ashe
+Sun Mar 01 16:57:34 PST 2015 --  pic.twitter.com/U45fVKHgqI
+Sun Mar 01 11:40:25 PST 2015 --  pic.twitter.com/lrJyuQpTkg
+Sat Feb 28 11:50:07 PST 2015 --  Stop worrying about what can go wrong, and get excited about what can go right.
+Sat Feb 28 07:28:33 PST 2015 --  VMware vSphere 6.0: What’s New? #VMW28Days http://vmw.re/1BNfXzl  pic.twitter.com/xfKoq4XktW
+Sat Feb 28 07:28:25 PST 2015 --  vSphere 6 Web Client: Yes, Let’s go there #VMW28Days http://vmw.re/1AUrfxY  pic.twitter.com/knQD40Q6Vx
+Sat Feb 28 07:28:20 PST 2015 --  Dawning of VMware #vSphere 6 builds anticipation http://vmw.re/1AUrdWQ  pic.twitter.com/QuCPeFUNPV
+Sat Feb 28 07:28:14 PST 2015 --  5 Ways VMware Says #vCloud Air Is Different (And Better) Than Competing Clouds http://vmw.re/1AUreKr  pic.twitter.com/yTY1lXY9Tl
+Sat Feb 28 07:28:08 PST 2015 --  How to pass VMware Certified Associate – Data Center Virtualization in 7 days #VMW28Days http://vmw.re/1AUrcCn  pic.twitter.com/7R4cKypUbl
+Sat Feb 28 07:28:08 PST 2015 --  What does the next generation of virtualization look like? Find out now #VMW28Days http://vmw.re/1AUrcCl  pic.twitter.com/IsDEMeFevu
+Sat Feb 28 03:59:19 PST 2015 --  Life is change. Growth is optional. Choose wisely. -Unknown
+Sat Feb 28 03:29:26 PST 2015 --  Don't let the silly little dramas of each day get you down. For you are here to do great things.
+Fri Feb 27 15:14:29 PST 2015 --  Humility is not thinking less of yourself, but thinking of yourself less.
+Fri Feb 27 12:46:12 PST 2015 --  LLAP pic.twitter.com/QdhJ7o5tNg
+Sun Feb 22 23:36:45 PST 2015 --  A life is like a garden. Perfect moments can be had, but not preserved, except in memory. LLAP
+Fri Feb 27 12:22:44 PST 2015 --  LLAP pic.twitter.com/iyQ9DwjC7s
+Fri Feb 27 10:28:02 PST 2015 --  Long-time #vExpert @vmrick tells us what's new with vSphere 6 Fault Tolerance #VMW28Days http://vmw.re/1ARSyJt  pic.twitter.com/HKCK43hs7B
+Fri Feb 27 10:27:52 PST 2015 --  A Software-Defined Data Center helps deliver scalable, agile IT infrastructure #VMW28Days http://vmw.re/1BI7sW7  pic.twitter.com/KECd0m3ilL
+Fri Feb 27 10:27:46 PST 2015 --  Discover more about the new release of VMware vSphere 6 from this #vExpert #VMW28Days http://vmw.re/1BI7ux9  pic.twitter.com/zq2ljEq11q
+Fri Feb 27 10:27:38 PST 2015 --  Find out what 3 major improvements have been made to the vMotion feature #VMW28Days http://vmw.re/1ARSskV  pic.twitter.com/irjSYetujx
+Fri Feb 27 10:27:34 PST 2015 --  VMware's 'One Cloud, Any Application, Any Device' framework is transforming IT #VMW28Days http://vmw.re/1ARSs4m  pic.twitter.com/3metWodW9p
+Fri Feb 27 10:27:20 PST 2015 --  What's all the buzz about vCloud Air? Join VMware experts for a full rundown #VMW28Days http://vmw.re/1BI7ihr  pic.twitter.com/Xn1uORYGGN
+Fri Feb 27 09:21:00 PST 2015 --  pic.twitter.com/YBADRKGFMi
+Thu Feb 26 10:47:28 PST 2015 --  pic.twitter.com/1G7kmCc1Jb
+Thu Feb 26 09:26:53 PST 2015 --  Task-Manage With Help from Your Phone http://hbr.org/tip/2015/02/26/task-manage-with-help-from-your-phone … @HarvardBiz
+Thu Feb 26 08:12:43 PST 2015 --  CloudCred™ ' Cloud Computing Training & Recognition Platform http://vmw.re/1BAJZpZ  pic.twitter.com/G3MR6V7Sjx
+Thu Feb 26 08:12:38 PST 2015 --  Introducing #AirWatch 8, the most significant update since the company's acquisition http://vmw.re/1BAJVGv  pic.twitter.com/2sH2ePm0lX
+Thu Feb 26 08:12:31 PST 2015 --  The Payment Industry Enters Technology Revolution Akin to the 1990’s Internet http://vmw.re/1BAJUm0  pic.twitter.com/8MqD8WCjcr
+Thu Feb 26 08:12:18 PST 2015 --  Learn about virtualization and cloud computing from a #vExpert #VMW28Days http://vmw.re/1BAJT1A  pic.twitter.com/Oe3hMxuoW5
+Thu Feb 26 08:12:11 PST 2015 --  A Software-Defined Data Center allows for scale, reduces cost, and increases efficiency http://vmw.re/1BAJRGY  pic.twitter.com/YquRK8PHDK
+Thu Feb 26 08:12:07 PST 2015 --  VMware vCloud Air: the secure public cloud platform for the Software-Defined Data Center http://vmw.re/1BAJRql  pic.twitter.com/8RzMRsg8f2
+Wed Feb 25 22:03:23 PST 2015 --  Always be a first rate version of yourself and not a second rate version of someone else. – Judy Garland
+Wed Feb 25 10:36:56 PST 2015 --  What’s All the Buzz About Software-Defined Storage? http://vmw.re/1AL0NH8 
+Wed Feb 25 10:36:49 PST 2015 --  Collaboration Between AppDev & Infrastructure for ITaaS http://vmw.re/1BuC4u4 
+Wed Feb 25 10:36:17 PST 2015 --  Answering Your Questions about the Network Virtualization Certifications http://vmw.re/1BuBTPD  pic.twitter.com/S57g1tcntp
+Wed Feb 25 10:35:56 PST 2015 --  #vSphere 6 brings a lot of improvements and new maximum configurations for Fault Tolerance http://vmw.re/1AL0En9  pic.twitter.com/CPeHzGbnO9
+Wed Feb 25 10:35:51 PST 2015 --  Learn from a #vExpert about the enhancements introduced in vSphere 6 #VMW28Days http://vmw.re/1BuBMU3  pic.twitter.com/92lAGHNOWE
+Wed Feb 25 10:35:40 PST 2015 --  #VMware Names Juniper’s Bask Iyer as New CIO http://vmw.re/1BuBJHO  pic.twitter.com/1O207y6qoN
+Wed Feb 25 10:35:34 PST 2015 --  #VMware Sets the Stage for Server Virtualization in 2015 http://vmw.re/1BuBFI8  pic.twitter.com/ptbw8xkEuU
+Mon Feb 23 15:41:35 PST 2015 --  Your beliefs don't make you a better person, your behavior does. #walkthetalk
+Mon Feb 23 05:00:48 PST 2015 --  When planning for a year, plant corn. When planning for a decade, plant trees. When planning for life, educate people. -Chinese Proverbs
+Sun Feb 22 22:30:04 PST 2015 --  Nothing you wear is more important than your smile. -Connie Stevens
+Sun Feb 22 10:00:41 PST 2015 --  If you don't like something, change it. If you can't change it, change your attitude. -Dr. Maya Angelou
+Sun Feb 22 08:04:59 PST 2015 --  More than 1,000 Muslims form human shield around Oslo synagogue. http://on.mash.to/1CYXjit  pic.twitter.com/QSM2gWHefk
+Sun Feb 22 08:15:57 PST 2015 --  Perfection is not attainable, but if we chase perfection we can catch excellence. - Vince Lombardi
+Sat Feb 21 08:45:25 PST 2015 --  #vCenter Server 6 exists in 2 different platforms #VMW28Days http://vmw.re/1AvaglC  pic.twitter.com/mfMmEFpbaH
+Sat Feb 21 08:45:08 PST 2015 --  VMware proves again that hypervisor is not a commodity #VMW28Days http://vmw.re/1Avaedz  pic.twitter.com/1cIf6rnK7v
+Sat Feb 21 08:45:06 PST 2015 --  Learn from a #vExpert about the exciting new features in vSphere 6 #VMW28Days http://vmw.re/1FHbYVz  pic.twitter.com/UBRj3JASvD
+Sat Feb 21 08:44:59 PST 2015 --  VMware NSX: Bringing the benefits of virtualization to your data center network #VMW28Days http://vmw.re/1FHbVcv  pic.twitter.com/naBE9nRCae
+Sat Feb 21 08:44:53 PST 2015 --  WEBCAST: Get the lowdown on VMware NSX, in this technical overview #VMW28Days http://vmw.re/1Avab1k  pic.twitter.com/x2KIuyjhWJ
+Sat Feb 21 07:31:33 PST 2015 --  Character is how you treat those who can do nothing for you. #greatreminder
+Fri Feb 20 14:36:23 PST 2015 --  pic.twitter.com/0Fv4UKoPLE
+Fri Feb 20 10:23:37 PST 2015 --  What's all the buzz about Software-Defined Storage? Register for this webcast to learn... http://vmw.re/1FDontK  pic.twitter.com/eZCoY55VUG
+Fri Feb 20 09:53:52 PST 2015 --  VMware tops tech vendor survey about customer experiences https://lnkd.in/b7uBSqc 
+Fri Feb 20 06:01:35 PST 2015 --  Eventually all things fall into place. Until then, laugh at the confusion, live for the moments, and know everything happens for a reason.
+Fri Feb 20 05:27:12 PST 2015 --  VMware #NSX and Micro-Segmentation: It’s Time to Virtualize the Network #VMW28Days http://vmw.re/1FCeRXO  pic.twitter.com/rl9JarVFEK
+Fri Feb 20 05:27:06 PST 2015 --  What’s All The Buzz About Software-Defined Storage? #VMW28Days http://vmw.re/1FCeRak  pic.twitter.com/N8DOXXX4qY
+Fri Feb 20 05:26:58 PST 2015 --  vMotion is even better in #vSphere 6.0 #VMW28Days http://vmw.re/1FCeOLt  pic.twitter.com/Ssu56JW8Et
+Fri Feb 20 05:26:38 PST 2015 --  Welcome to the final round of the war: #VMware vs Oracle http://vmw.re/1FCeLiV  pic.twitter.com/al3tUd9tNe
+Fri Feb 20 05:25:41 PST 2015 --  Discover VMware NSX—the network virtualization and security platform for #SDDC. #VMW28Days http://vmw.re/1FCewUR  pic.twitter.com/qmxxGS0weI
+Fri Feb 20 05:25:36 PST 2015 --  Want to improve your security? Find out how network virtualization can help #VMW28Days http://vmw.re/1FCeuMZ  pic.twitter.com/eDnfUQyop3
+Fri Feb 20 05:25:26 PST 2015 --  Exploring VMware #EVO:RAIL partners and use cases http://vmw.re/1FCetIX  pic.twitter.com/w41ieiwv97
+Wed Feb 18 20:02:03 PST 2015 --  Weakness of attitude becomes weakness of character. - Albert Einstein
+Wed Feb 18 10:35:26 PST 2015 --  #vSphere 6 help on Experts Exchange #VMW28Days http://vmw.re/1zOBJuM  pic.twitter.com/5cr8PANhir
+Wed Feb 18 10:35:07 PST 2015 --  Is Your Security Eggshells Or Diamonds? #NSX #VMW28Days http://vmw.re/1FtIvhX  pic.twitter.com/rEIXGmsQ8P
+Wed Feb 18 10:34:53 PST 2015 --  RT @ValaAfshar: Top 10 strategic technology trends for 2015 - Gartner #CIO #CMO... http://vmw.re/1FtIs5L  pic.twitter.com/AgSpSzb8bd
+Mon Feb 16 17:39:58 PST 2015 --  2977695.jpg https://lnkd.in/btvbdGD 
+Mon Feb 16 12:15:28 PST 2015 --  Celebrate Presidents Day with These New Labs! http://ift.tt/1zIFvWJ  #Virtualization #VMware
+Mon Feb 16 12:15:27 PST 2015 --  New Courses on vSphere 6, NSX, vRealize, and More http://ift.tt/1zIFstS  #Virtualization #VMware
+Mon Feb 16 07:00:15 PST 2015 --  Introduction to VMware vCloud Air http://vmw.re/17GMfyN 
+Fri Feb 13 08:48:54 PST 2015 --  VMware announces vSphere V6 and associated virtualization technologies http://vmw.re/1vIrxcp  pic.twitter.com/ebZEgn8UBU
+Fri Feb 13 08:48:29 PST 2015 --  See how #VSAN is using a new strategy for enterprise storage #VMW28Days http://vmw.re/1vIrsWm  pic.twitter.com/mq905OpZi6
+Fri Feb 13 08:48:22 PST 2015 --  New support for VM storage reservations guarantees minimum service levels #vSphere http://vmw.re/1724opP  pic.twitter.com/ZzKu9NLZkj
+Fri Feb 13 08:48:14 PST 2015 --  Learn about new #vSphere6 fault tolerance #VMW28Days http://vmw.re/1vIrqh9  pic.twitter.com/4JEpdJdSIg
+Fri Feb 13 08:47:46 PST 2015 --  . @VMware's Virtual SAN shares the bronze medal #VMW28Days http://vmw.re/1724e1x  pic.twitter.com/o4sHNBBrQq
+Fri Feb 13 08:47:31 PST 2015 --  Explore VMware Virtual SAN 6 with the Experts #VMW28Days http://vmw.re/1vIrmxV  pic.twitter.com/fmCEBowuF0
+Thu Feb 12 20:40:38 PST 2015 --  pic.twitter.com/TORBvuXZiw
+Thu Feb 12 08:24:48 PST 2015 --  VVOLs are finally ready to take over your datacenter #VMW28Days http://vmw.re/16Y8gbg  pic.twitter.com/BQrFfzxEWA
+Thu Feb 12 08:24:42 PST 2015 --  Pros and cons of VMware EVO:RAIL use cases http://vmw.re/16Y8dw9  pic.twitter.com/u6QyPKrvWi
+Thu Feb 12 08:24:32 PST 2015 --  VVOLs What are they? http://vmw.re/1vGLTTr  pic.twitter.com/VqyZY6Ppdu
+Thu Feb 12 08:24:06 PST 2015 --  . @VMware came to win this week http://vmw.re/1vGLQak  pic.twitter.com/6Av8gigKxA
+Thu Feb 12 06:07:53 PST 2015 --  Take Virtualization to the Next Level with vSphere with Operations Management https://lnkd.in/bP96hak 
+Wed Feb 11 06:25:25 PST 2015 --  Thank your past for all the lessons, and move on.
+Wed Feb 11 05:30:29 PST 2015 --  “ @InspowerBooks: Success is not permanent & failure is not fatal. -Mike Ditka”
+Wed Feb 11 05:30:03 PST 2015 --  Are you a disaster recovery expert? Take the vCloud Air DR Challenge, starting 2/12,... http://vmw.re/1vEpAh9  pic.twitter.com/HM7YFQsu2g
+Wed Feb 11 05:28:39 PST 2015 --  #vSphere 6 Long Distance vMotion http://vmw.re/1vEpvKn  pic.twitter.com/pSlC4eJS95
+Wed Feb 11 05:28:28 PST 2015 --  vSphere 6 Storage – The Future of Storage at Scale 3#VMW28Days http://vmw.re/1vEpsyh  pic.twitter.com/KGed4auaKV
+Mon Feb 09 16:30:12 PST 2015 --  The dictionary is the only place where success comes before work. - Mark Twain
+Sat Feb 07 08:32:23 PST 2015 --  VMware vCloud gets FedRAMP approval https://lnkd.in/b3QsHbB 
+Fri Feb 06 10:43:41 PST 2015 --  VMware NSX: A Cloud Pitch To Sell SDN http://vmw.re/1ukjjX2  pic.twitter.com/LIy3Gu8kgS
+Fri Feb 06 09:05:04 PST 2015 --  Hilarious! https://lnkd.in/bneeRXK 
+Thu Feb 05 07:04:15 PST 2015 --  A prediction from my #VMwarePEX keynote: 10 years from now, all data centers will be software driven. Agree or disagree? #VMwarePEX
+Thu Feb 05 10:48:04 PST 2015 --  Incredible. Full #openstack upgrade with #nsx without loosing a ping. Really worth checking out if youre a stacker https://www.youtube.com/watch?v=cYh8hH_Jobw&feature=youtu.be …
+Thu Feb 05 14:04:13 PST 2015 --  Today is full of huge news! @VMware's Tony Scott is the next U.S. CIO!! http://1.usa.gov/18Sj7F5  #GovIT
+Thu Feb 05 14:35:28 PST 2015 --  How VMware Plans to Conquer the Cloud Market http://bit.ly/1DDHHT7 
+Thu Feb 05 07:25:47 PST 2015 --  We've just announced 26 new cities in North America for the #AWConnect Local tour! http://vmw.re/1vuu5e8 
+Thu Feb 05 23:50:26 PST 2015 --  The brick walls aren't there to keep us out, the brick walls are there to give us a chance to show how badly we want something. -R Pausch
+Thu Feb 05 13:46:33 PST 2015 --  Last day of PEX 2015. Amazing Event! I enjoyed meeting and networking with all our Partners this week. https://lnkd.in/bGxGMCD 
+Thu Feb 05 12:40:55 PST 2015 --  VMware’s Just Getting Started | The Intersection https://lnkd.in/bEpPzeH 
+Thu Feb 05 12:40:25 PST 2015 --  VMware Announces VMware vCloud® Government Service™ with FedRAMP Provisional Authority to Operate - YouTube https://lnkd.in/bWESTNa 
+Thu Feb 05 05:08:03 PST 2015 --  #Breaking news: "VMware vCloud Government Service Meets FedRAMP Requirements" http://ow.ly/Ixuch  cc/ @vCloud
+Thu Feb 05 11:50:20 PST 2015 --  #vmwgovsummit speaker spotlight: @virtualjad, @scangaj, @JimDeWitt, @vaficionado, @VMware_Ahmed - Killer SDE track! http://vmw.re/1BY5RFU 
+Thu Feb 05 10:39:08 PST 2015 --  Today, VMware announced that VMware vCloud® Government Service™ provided by Carpathia has achieved the Provisional A…https://lnkd.in/bc3rx4E 
+Wed Feb 04 21:58:36 PST 2015 --  Knowing is not enough; we must apply. Willing is not enough; we must do.
+Wed Feb 04 20:50:14 PST 2015 --  VMware’s Government Cloud Gets FedRAMP Certification http://bit.ly/1zNY7cO 
+Wed Feb 04 09:09:16 PST 2015 --  vCloudAir flexible options, future proof options for customers @VMware @JoeBaguley CTO panel #pex2015 pic.twitter.com/TGMZyPyZOO
+Tue Feb 03 16:45:43 PST 2015 --  9 Things You'll Love About vSphere 6.0 http://vmw.re/1Kpy8tB  pic.twitter.com/2bFC1jiYMM
+Tue Feb 03 10:20:11 PST 2015 --  It's the smallest decisions that can change your life forever.
+Tue Feb 03 10:02:35 PST 2015 --  Strategy is only as good as the people who execute. Our values make us different.... http://vmw.re/1Kouuju  pic.twitter.com/zpTkcYiGIh
+Tue Feb 03 09:49:13 PST 2015 --  Strategy is only as good as the people who execute. Our values make us different. #VMwarePEX pic.twitter.com/6zBVUQSA3m
+Tue Feb 03 09:55:28 PST 2015 --  At keynote #PEX2015 via @rspruijt: #VMware @spoonen 5min elevator pitch "work at speed of life from Desktop to Tesla" pic.twitter.com/e6ZzWhpwgH
+Tue Feb 03 09:23:32 PST 2015 --  #VMware Moves to Grab More of Data-Center Spending http://vmw.re/1Komvmv  pic.twitter.com/6BF9CYhVeg
+Tue Feb 03 09:23:24 PST 2015 --  VMware releases 90+ new vExpert articles as part of the #vmw28days launch event http://vmw.re/1u2zQP8  pic.twitter.com/tlOCuPCFEZ
+Tue Feb 03 09:23:14 PST 2015 --  #VMware says it's not concerned about being late to the cloud http://vmw.re/1KomtLA  pic.twitter.com/bM7YcrTrgT
+Tue Feb 03 09:23:05 PST 2015 --  VMware’s CEO Pivots to ‘Cloud First’ to Remake Software Maker http://vmw.re/1KomvDh  pic.twitter.com/XB1zWALr03
+Tue Feb 03 08:52:25 PST 2015 --  @PatGelsinger @VMware 712 customer meetings 2014 creates vision of what is possible in brave new world pic.twitter.com/D9yvu0RLTt
+Tue Feb 03 08:55:21 PST 2015 --  One cloud, any app, any device @VMware pic.twitter.com/loyXO7I55Y
+Mon Feb 02 15:58:32 PST 2015 --  #VMware brings its OpenStack distribution to market http://vmw.re/1tY5zAY  pic.twitter.com/GkOdvQJaBG
+Mon Feb 02 15:58:25 PST 2015 --  #VMware Launches New Generation of Enterprise Storage -- Virtual SAN 6 and vSphere... http://vmw.re/1KlDzJQ  pic.twitter.com/BJjbbhHzsj
+Mon Feb 02 15:58:15 PST 2015 --  Introducing VMware #vSphere 6 - The Foundation for Hybrid Cloud http://vmw.re/1KlDxlr  pic.twitter.com/jJqUFWaEDx
+Mon Feb 02 07:05:12 PST 2015 --  In the end it's not the years in your life that count. It's the life in your years.
+Fri Jan 30 14:16:50 PST 2015 --  "Tesla's long-delayed Model X SUV is testing in California" > now we are talking! #FamilyMan http://www.engadget.com/2015/01/30/tesla-model-x-footage/?ncid=rss_truncated …
+Fri Jan 30 11:23:44 PST 2015 --  The Mission Case for Hybrid Cloud in Government: vCloud Government Service provided by Carpathia http://vmw.re/1BDEfZ7 
+Fri Jan 30 06:49:38 PST 2015 --  A man is the sum of his actions, of what he has done, of what he can do, Nothing else. -Mahatma Gandhi http://goo.gl/WV47eE  #action
+Fri Jan 30 06:50:15 PST 2015 --  Love life, live with no regrets, smile, laugh, be HAPPY.
+Thu Jan 29 19:33:56 PST 2015 --  Humility is not thinking less of yourself, but thinking of yourself less.
+Thu Jan 29 19:29:57 PST 2015 --  Thought Of The Day http://onforb.es/1uooZO5 
+Wed Jan 28 15:47:13 PST 2015 --  FedRAMP releases draft for higher security cloud computing authorization ... http://www.snsanalytics.com/RZsKy9 
+Thu Jan 29 17:14:44 PST 2015 --  VMware WWKO 2015! pic.twitter.com/0BfiuAb8ao
+Thu Jan 29 07:02:40 PST 2015 --  VMware, Google team on enterprise cloud product https://lnkd.in/eH4N8hf 
+Wed Jan 28 16:28:58 PST 2015 --  MT @bbutlernww: VMware reported some solid NSX/SDN growth-400 paying cstmrs & $200M annual rev. run rate. It... http://vmw.re/1zdUZoV 
+Wed Jan 28 16:27:34 PST 2015 --  Half Of Enterprises Worldwide Hit By DDoS Attacks, Report Says http://vmw.re/1zdULhm  pic.twitter.com/NAO3CNtqU7
+Tue Jan 27 14:48:55 PST 2015 --  @VMware rocked it today in New Orleans East! THANK YOU all for coming out. pic.twitter.com/MMxgkfRVQ7
+Tue Jan 27 09:13:45 PST 2015 --  This was NOT posed! #vmware @HabitatNOLA pic.twitter.com/eOzaaiWqEZ
+Tue Jan 27 09:50:17 PST 2015 --  @NiranEC posing with his prize - a 200 lb chunk of concrete from the foundation of one of #vmware @HabitatNOLA houses pic.twitter.com/EWHhMgb7W3
+Tue Jan 27 12:31:13 PST 2015 --  RT @skstaley: 400 #VMware employees #volunteer, kick off 2015 Build-a-Thon w/ @HabitatNOLA. 10 houses in 10 days! pic.twitter.com/6TPjc4mgsw
+Tue Jan 27 12:51:20 PST 2015 --  The community came out to encourage #VMware and the @HabitatNOLA project this afternoon. #uplifting pic.twitter.com/ViQgJd9eOc
+Tue Jan 27 13:28:23 PST 2015 --  Great day building houses in #neworleans w/ @VMware @vmwarenews @HabitatNOLA pic.twitter.com/DTF7F9LARA
+Tue Jan 27 20:30:33 PST 2015 --  Drive mission-based outcomes for government and education in Washington, DC https://lnkd.in/ekdkv4p 
+Tue Jan 27 17:09:29 PST 2015 --  @VMware has always thrown a good party. Our reputation as one of the most fun companies in IT is well deserved. pic.twitter.com/ZBXYp4UmmI
+Tue Jan 27 16:27:40 PST 2015 --  pic.twitter.com/e7Gtn4Xdbl
+Tue Jan 27 12:42:45 PST 2015 --  The power of #VMware - this morning this was nothing but dirt. Now it's a foundation for a @HabitatNOLA home. pic.twitter.com/1YjKL6xfUB
+Tue Jan 27 13:22:30 PST 2015 --  Wrapping up for the day. #vmware @HabitatNOLA http://instagram.com/p/yXyBhIIamn/ 
+Tue Jan 27 11:57:45 PST 2015 --  New blog post: vRealize Operations Management pack for vRealize Automation http://www.vaficionado.com/2015/01/vrealize-operations-inventory-tree-for-vrealize-automation/ … #vROps #vra #vmware #integration
+Tue Jan 27 09:59:29 PST 2015 --  Working to rebuild America with #VMware @HabitatNOLA @virtualjad @VMware_Renzo @NiranEC pic.twitter.com/3s1Vjx5ngc
+Tue Jan 27 09:29:43 PST 2015 --  @VMware_Renzo digging a foundation for @HabitatNOLA #vmware pic.twitter.com/dm4Zmdv00E
+Tue Jan 27 07:47:18 PST 2015 --  VMware Events http://vmw.re/1CbhaQ4 
+Tue Jan 27 07:26:45 PST 2015 --  InfoWorld's 2015 Technology of the Year Award winners http://vmw.re/1tkV3Ug  pic.twitter.com/FLXEtXrk6W
+Mon Jan 26 04:32:22 PST 2015 --  VMware Enables Rapid Development at SAIC http://vmw.re/1tfRcHV 
+Sat Jan 24 12:31:24 PST 2015 --  State of the Union Puts Cybersecurity on National Agenda – Blog Post - RSA Conference http://shar.es/1bE9GK 
+Sat Jan 24 12:01:07 PST 2015 --  Review: Blackhat shows mainstream audiences cybercriminals aren’t just sitting in the basement: http://ow.ly/HL5Hn  by @ZDFYRashid #RSAC
+Sat Jan 24 12:02:01 PST 2015 --  #Success equals goals; all else is commentary.
+Fri Jan 23 18:00:36 PST 2015 --  #VMware Offers 'One-Button' Disaster Recovery In Cloud http://vmw.re/15yq3VP  pic.twitter.com/7EFQbJ0K50
+Fri Jan 23 14:09:48 PST 2015 --  Learn how VMware vCloud® Air™ Disaster Recovery provides a simple and secure asynchronous replication and failover f…http://vmw.re/1BSdWkq 
+Fri Jan 23 10:54:31 PST 2015 --  Could Multiple Virtual Environments Be the Next Frontier for #BYOD? http://vmw.re/1yDo79U  pic.twitter.com/hr49Hd6fwy
+Fri Jan 23 04:17:17 PST 2015 --  Be a good listener. Your ears will never get you in trouble. -Frank Tyger
+Fri Jan 23 04:19:02 PST 2015 --  Before you react, think. Before you quit, try.
+Fri Jan 23 04:39:06 PST 2015 --  Adobe issues emergency fix for Flash zero-day http://wp.me/p120rT-1asn 
+Fri Jan 23 04:30:06 PST 2015 --  Anything's possible if you've got enough nerve. - J.K. Rowling
+Fri Jan 23 04:19:49 PST 2015 --  The Business Benefits of Cloud #CRM http://vmw.re/15wUdZJ  pic.twitter.com/zvb7pBjsV5
+Thu Jan 22 16:47:08 PST 2015 --  6 Biggest Business Security Risks and How You Can Fight Back http://vmw.re/15w8NAp  pic.twitter.com/ldhtg9WwYo
+Thu Jan 22 05:58:30 PST 2015 --  A ship is safe in harbor, but that's not what ships are for.
+Thu Jan 22 05:19:25 PST 2015 --  Dr. StrangeCloud - Or, How I Learned to Stop Worrying and Love the (Hybrid) Cloud! http://vmw.re/15vqHTW  pic.twitter.com/OJCwCpTea9
+Wed Jan 21 13:53:40 PST 2015 --  Be kind, for everyone you meet is fighting a hard battle.
+Wed Jan 21 12:30:29 PST 2015 --  #CyberSecurity Threats will Continue to Grow, Experts Say - @FedTechInsider http://vmw.re/15ui1NR  pic.twitter.com/cXsXe5hzCm
+Wed Jan 21 12:21:26 PST 2015 --  What is VMware #vSGA? http://vmw.re/1ysHUc2  pic.twitter.com/25qtWY9hcb
+Wed Jan 21 12:21:01 PST 2015 --  VMware Rolls Out #vCloud Air Enhancements http://vmw.re/15uh9IQ  pic.twitter.com/GrZCvQubEw
+Tue Jan 20 05:14:51 PST 2015 --  New VMware vCloud Air Innovations Address Customer Business Imperatives for Agility, Continuity and Security http://ift.tt/1yF0wYk  #VMware
+Tue Jan 20 08:28:44 PST 2015 --  vCloud Air Edge: A New Incubation Program for Early-Stage Cloud Startups http://ift.tt/1xRrBjZ  #VMware
+Tue Jan 20 08:28:45 PST 2015 --  Introducing Service Enhancements for vCloud Air Disaster Recovery http://ift.tt/1BzoBjN  #VMware
+Tue Jan 20 06:17:50 PST 2015 --  News Releases | United States https://lnkd.in/euD6P3e 
+Mon Jan 19 18:33:50 PST 2015 --  MLK Day 2015.JPG https://lnkd.in/eibnpyp 
+Fri Jan 16 19:30:09 PST 2015 --  If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives. - Vince Lombardi
+Thu Jan 08 12:10:18 PST 2015 --  VMware Virtual SAN Technical Resources | United States http://vmw.re/1xVIv4u 
+Wed Jan 07 14:29:38 PST 2015 --  VMware President Carl Eschenbach Says the Software-Defined Data Center Is the Future — BizTech http://tech.mg/eTRjLo 
+Wed Jan 07 14:27:43 PST 2015 --  Know your WHY. https://lnkd.in/eF8B4yx 
+Wed Jan 07 14:26:24 PST 2015 --  How great leaders inspire action. You must know your why. http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en …
+Sat Jan 03 07:20:30 PST 2015 --  The CEO Who Color-Codes Every Minute https://lnkd.in/bJsttuG 
+Fri Jan 02 01:17:51 PST 2015 --  12 Books Every Leader Should Read https://lnkd.in/bYNd2wg 
+Mon Dec 29 11:02:45 PST 2014 --  Virtual SAN Troubleshooting: Multicast http://vmw.re/1D2UsXP 
+Mon Dec 15 12:20:43 PST 2014 --  Disaster recovery just got easier. Check out our Top 5 reasons for Cloud-Based DR - http://vmw.re/1suhUqD  pic.twitter.com/pG3T5b6GOh
+Tue Dec 23 13:11:40 PST 2014 --  pic.twitter.com/7h0ukbGQ6Y
+Wed Dec 17 20:51:45 PST 2014 --  There are two great rules of life: never tell everything at once. - Ken Venturi
+Wed Dec 17 08:19:17 PST 2014 --  Be happy. Be who you wanna be. If others don't like it, then let them be. Happiness is a choice. Life isn't about pleasing everybody.
+Wed Dec 17 08:21:24 PST 2014 --  Vessel, a YouTube challenger, launched an early version of its online-video service Wednesday. http://on.wsj.com/1IZIMcA 
+Wed Dec 17 07:01:00 PST 2014 --  VMware-Based Private Cloud Helps Apollo Education Group, Inc. Provide Access to Online Learning https://lnkd.in/byB5gdQ 
+Tue Dec 16 10:58:29 PST 2014 --  #bigdata #Christmas #KnowYourData pic.twitter.com/mtQHJkm91A
+Wed Dec 17 05:24:28 PST 2014 --  How the enterprise can embrace hybrid cloud http://vmw.re/1uWNpun 
+Tue Dec 16 06:31:24 PST 2014 --  Character is how you treat those who can do nothing for you. #greatreminder
+Tue Dec 16 05:30:11 PST 2014 --  One day, you'll be just a memory for some people. Do your best to be a good one.
+Tue Dec 16 05:30:40 PST 2014 --  #Hybridcloud helps enterprises move workloads seamlessly and securely: http://bit.ly/1xoLbKj  via @ITPro
+Tue Dec 16 05:38:25 PST 2014 --  Accept what is, let go of what was and have faith in what could be.
+Mon Dec 15 06:11:38 PST 2014 --  The NSX Content Pack for Log Insight is Now Available!: http://blogs.vmware.com/management/2014/12/nsx-content-pack-log-insight-now-available.html … @vRealizeOps @vmwarensx @VMware @vmwarecloudmgmt
+Mon Dec 15 16:01:58 PST 2014 --  A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.
+Mon Dec 15 21:53:03 PST 2014 --  Not quite "Star Trek" but getting there: Skype Translator previews for for real-time language translation http://cnet.co/1zqoNyh 
+Sat Apr 19 03:43:08 PDT 2014 --  So this photo of Kermit and Piggy meeting Luke Skywalker and Yoda on the set of #StarWars is the best thing ever: pic.twitter.com/7isr8q4U37
+Mon Dec 15 19:10:38 PST 2014 --  VMware vCloud® Air™ Disaster Recovery http://vmw.re/1srZ97b 
+Mon Dec 15 19:07:19 PST 2014 --  VMware NSX: What we learned in 2014; what to look for in 2015 http://vmw.re/12X4pt7 
+Mon Dec 15 19:04:05 PST 2014 --  VMware vCloud Blog https://lnkd.in/b7Apgem 
+Mon Dec 15 19:03:05 PST 2014 --  LIVE Twitter Chat: DevOps in vCloud Air #vCloudAirChat http://vmw.re/13qEAT6 
+Mon Dec 15 18:59:00 PST 2014 --  How the enterprise can embrace hybrid cloud http://vmw.re/1BNh0es 
+Mon Dec 15 07:30:22 PST 2014 --  There is no #science to understanding the secrets of life other than living with self awareness
+Sun Dec 14 18:20:06 PST 2014 --  People of accomplishment rarely sat back & let things happen to them. They went out & happened to things. Leonardo Da Vinci
+Sun Dec 14 16:00:33 PST 2014 --  Learn how VMware vCloud® Air™ Disaster Recovery provides a simple and secure asynchronous replication and failover f…http://vmw.re/1Dxji6d 
+Sat Dec 13 18:06:17 PST 2014 --  The Simple and Affordable Solution to Disaster Recovery http://vmw.re/1wNZ1WI 
+Sat Dec 13 17:51:59 PST 2014 --  Something to ponder. Enjoy your day everyone. pic.twitter.com/IIYVFBilWV
+Sat Dec 13 17:50:05 PST 2014 --  Extend beyond your current data center with ease with #vCloudAir: http://vmw.re/1w4JaRZ 
+Sat Dec 13 11:47:21 PST 2014 --  Don't compare your progress with that of others. We all need our own time to travel our own distance.
+Sat Dec 13 06:04:15 PST 2014 --  Losers quit when they're tired. Winners quit when they've won. -Unknown
+Sat Dec 13 05:31:41 PST 2014 --  The Security Benefits of Network Virtualization https://lnkd.in/exz34wa 
+Sat Dec 13 05:30:50 PST 2014 --  Would More Time Help Your Staff? Consider “Desktop as a Service.” https://lnkd.in/eHwJSkK 
+Sat Dec 13 05:28:41 PST 2014 --  What Bosses Gain by Being Vulnerable https://lnkd.in/eSheGN5 
+Sat Dec 13 05:27:13 PST 2014 --  App Volumes AppStack Creation http://vmw.re/1qFT4sn 
+Sat Dec 13 01:06:44 PST 2014 --  VMware Streamlines Enterprise Container Deployment and Cluster Management From Data Center to Cloud http://on.mktw.net/1Gxkrqt 
+Fri Dec 12 15:20:34 PST 2014 --  Post-IPO, startups New Relic and Hortonworks are back in the $1 billion club http://on.wsj.com/13hvZ54  by @telisdemos & @ShiraOvide
+Fri Dec 12 12:05:33 PST 2014 --  . @GeorgeMasonU President @CabreraAngel shares the impact international students make on schools and communities: http://bit.ly/12J9ogy 
+Fri Dec 12 15:19:50 PST 2014 --  When good leadership is in place in a company, it can be felt throughout the entire organization. http://youtu.be/5v0XGGiXxVU?a 
+Fri Dec 12 11:19:00 PST 2014 --  I look forward to this event every year: Hundreds Of Meteors Will Light Up The Night Sky Tonight | IFLScience http://www.iflscience.com/space/check-out-sights-and-sounds-geminid-meteor-shower …
+Fri Dec 12 10:23:34 PST 2014 --  RT VMware #vRA 6.2 Install & Config Live! Dec 22nd 2PM ET, hosted by @virtualjad. FAQ and RSVP - http://bit.ly/1BDOS08  #vCAC
+Fri Dec 12 06:52:05 PST 2014 --  Why I love Sales Engineering https://lnkd.in/burnDQX 

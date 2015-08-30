@@ -1,0 +1,476 @@
+Thu Aug 27 09:03:23 PDT 2015 --  #BT focused companies win in the age of the customer. Overcome #ITgravity! http://forr.com/1I7Drgk  pic.twitter.com/CpDzJinz5D
+Fri Aug 28 09:24:51 PDT 2015 --  Need help using Arrays and Records in #Azure Stream Analytics? Read Working with Complex Data Types blog post http://blogs.msdn.com/b/streamanalytics/archive/2015/08/27/working-with-complex-data-types-in-azure-stream-analytics.aspx …
+Thu Aug 27 09:10:04 PDT 2015 --  Deeper integration between Office documents and @Outlook for #iOS is here: http://ow.ly/RsA8n 
+Fri Aug 28 05:10:48 PDT 2015 --  ScottGu's Blog - Announcing Great New #SQL #Database Capabilities in #Azure http://buff.ly/1KQsUHa 
+Thu Aug 27 23:45:07 PDT 2015 --  IoT And The Rise Of Subscription Marketing http://buff.ly/1Jm7jpQ 
+Thu Aug 27 11:51:03 PDT 2015 --  What’s new for business analytics in Excel 2016 - Office Blogs http://buff.ly/1KnoSKo 
+Thu Aug 27 10:24:37 PDT 2015 --  Interesting reading about how to embrace complex change http://buff.ly/1KncY3h 
+Thu Aug 27 05:36:25 PDT 2015 --  Social is dead: What 146 startup pitches showed me about the next wave of tech companies http://uk.businessinsider.com/lessons-from-146-startup-pitches-in-a-row-2015-8 … via @BIUK_Tech
+Wed Aug 26 23:44:04 PDT 2015 --  How To Motivate Your Team at Work http://goo.gl/v1zvfT 
+Wed Aug 26 03:30:05 PDT 2015 --  Are You Sure Your Startup Is Solving a Problem? http://alleywat.ch/1iNOqCC  via @alleywatch #startup
+Tue Aug 25 13:10:45 PDT 2015 --  Azure Government Achieves Significant Compliance Milestones http://ow.ly/3y8HSK 
+Tue Aug 25 09:02:55 PDT 2015 --  Microsoft and Mesosphere partner to bring Mesos’ container orchestration to Windows Server - and Cloud http://ow.ly/3y8HQg 
+Tue Aug 25 01:53:34 PDT 2015 --  The big list of #HTML5 games competitions: http://www.gamepix.com/blog/the-big-list-of-html5-games-competitions/ … #GameJam #HTML5games #JS #GameDev #IndieDev pic.twitter.com/aJrfsQ2igU
+Mon Aug 24 23:20:20 PDT 2015 --  New Azure IT Workload: Web-based, line of business application http://ow.ly/3y8HKX 
+Mon Aug 24 17:34:08 PDT 2015 --  Mail Addin For Outlook Using Office 365 APIs (ADAL.js, AngularJS, WebApi, Azure AD) http://buff.ly/1PNMuYU 
+Mon Aug 24 14:42:54 PDT 2015 --  Staying "Cloud Connected" is just one of 10 reasons in this informative video on #Office2016. Watch to learn more! https://twitter.com/Office365_Tech/status/635527379612508160 …
+Mon Aug 24 14:43:23 PDT 2015 --  What's new in @Office Developers Tools for @VisualStudio 2013 – August 2015 Update http://spr.ly/6015BHDbH  pic.twitter.com/2MONT8o3Lw
+Mon Aug 24 06:25:06 PDT 2015 --  Open Source Software from Microsoft for Academics http://buff.ly/1fvP60l 
+Sun Aug 23 09:30:00 PDT 2015 --  Interested in #API Management? Explore #Azure Mobile Services to build an enterprise-grade mobile experience: http://spr.ly/6014BGUMM  #MSMVA
+Sun Aug 23 08:37:10 PDT 2015 --  Azure AD Connect allows you to quickly onboard to Azure AD and Office 365 http://buff.ly/1LpaC5k 
+Fri Aug 21 08:01:58 PDT 2015 --  If you didn't notice - we've added a few new APIs and Community submissions to our GitHub. Check them out @ http://github.com/logicappsio 
+Sun Aug 23 05:37:03 PDT 2015 --  2D #GameDev #HTML5 curriculum w/ #MSMVA http://spr.ly/6017BGUzf  /c @gamepix @valexpix @ewawra
+Sat Aug 22 13:59:35 PDT 2015 --  #Azure #ServiceBus next generation client released! 3.0 http://nuget.org/packages/WindowsAzure.ServiceBus/ …
+Fri Mar 27 10:34:02 PDT 2015 --  Today with @ilbarcamper @CodemotionIT there is @GITItaly 2!! #standup #coders #Girls #nuvolarosa @microsoftitalia pic.twitter.com/Y9pi9rc2tk
+Sun Aug 23 03:01:52 PDT 2015 --  The http://technicoblog.com  Daily is out! http://paper.li/technicoblog?edition_id=f806c100-497d-11e5-ab63-0cc47a0d1605 … Stories via @mariofontana
+Sat Aug 22 07:16:51 PDT 2015 --  Really simple & effective model #SocialLeadership pic.twitter.com/XCj6zk8cHG via @Timothy_Hughes
+Sun Aug 23 02:25:04 PDT 2015 --  Make your own custom shapes in PowerPoint https://goo.gl/hTal04 
+Sun Aug 23 02:23:05 PDT 2015 --  You need to understand how to business of outsourcing works - 50 Tips to Outsource Succesfully http://ow.ly/RePFm  pic.twitter.com/6oNZGhhWYM
+Fri Aug 21 22:31:01 PDT 2015 --  #Excel, #PowerBI, & #PowerView: Learn to shape your #data for your #FinancePro needs. http://spr.ly/6012BGUKk  #MSMVA pic.twitter.com/56PZD8Dz7w
+Tue Aug 04 02:30:37 PDT 2015 --  . @Microsoft Launches Its First Free Online R Course on @edXOnline using @DataCamp #rstats http://blog.datacamp.com/microsoft-launches-first-free-online-r-course-edx/ … pic.twitter.com/3O8P2u61mt
+Sat Aug 22 14:46:38 PDT 2015 --  Yep, it's #OpenSource. Preview the Windows Bridge for #iOS on @GitHub http://msft.it/6012BGsE2  Share with an #iOSdev! pic.twitter.com/wt877MsckD
+Sat Aug 22 11:51:01 PDT 2015 --  Vital reading for all startup!!16 Startup Metrics http://buff.ly/1U6FkzH  via @a16z
+Fri Aug 21 08:15:33 PDT 2015 --  Connecting and Extending Office with Microsoft Office Developer Tools for Visual Studio http://buff.ly/1LnKFDl  #office365dev
+Sat Aug 22 09:32:45 PDT 2015 --  Row-Level Security for SQL Database is Generally Available http://buff.ly/1LlWlUb 
+Sat Aug 22 07:12:27 PDT 2015 --  Cloud Foundry on Azure Preview 2 Now Available http://buff.ly/1NrlaRP 
+Sat Aug 22 01:58:23 PDT 2015 --  RT @keijo_j_k: The #Organization in the Digital Age #workplace http://bit.ly/1hEhf73  Thanks! pic.twitter.com/Z4CazNaVgT
+Wed Aug 19 11:00:00 PDT 2015 --  #Azure released a package to trace the stack for dependency calls collected by Visual Studio Application Insights: http://msft.it/6013BGaFU 
+Fri Aug 21 08:30:01 PDT 2015 --  See how the #IoT monitors retail traffic in-store to determine which days & time are busiest: http://msft.it/6015BH6fx  pic.twitter.com/noZCTZDj08
+Wed Aug 19 09:02:00 PDT 2015 --  Episode 7 is live with @RichDizz Getting Started with Python and Office 365 dev http://off365.ms/uGnavZ  #Office365Dev pic.twitter.com/MUVeZSZllJ
+Fri Aug 21 02:41:34 PDT 2015 --  "Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen." #Quotes pic.twitter.com/mmaHh6EcEj
+Fri Aug 21 03:52:23 PDT 2015 --  Backup of Windows 10 machines using Azure Backup http://buff.ly/1MCNqRj 
+Fri Aug 21 01:35:41 PDT 2015 --  Meet AzureCon a virtual event on September 29 http://buff.ly/1E8fgSY 
+Thu Aug 20 13:01:21 PDT 2015 --  Deeper integration between Office documents and Outlook for iOS: Today, we are excited to announce ... http://bit.ly/1JmlEpD  #Office365
+Wed Aug 19 03:51:10 PDT 2015 --  Demo: Removing limitations for your org with single-sign on investment in #Azure AD. #Office365 https://youtu.be/T-bQikyEvFk?t=51s …
+Thu Aug 20 03:35:24 PDT 2015 --  Get started with Office 365 for Business http://buff.ly/1J1BKni 
+Thu Aug 20 01:57:12 PDT 2015 --  Here are the five most over-hyped technologies of 2015 according to Gartner http://buff.ly/1PzJbo7 
+Wed Aug 19 11:51:03 PDT 2015 --  How to use Windows Server 2016 Containers Preview http://buff.ly/1ECRIjy  @scottgu @docker
+Wed Aug 19 11:19:03 PDT 2015 --  Entrepreneurs Need To Be Experts On Social Change - AlleyWatch http://buff.ly/1J2oPPJ 
+Wed Aug 19 09:55:57 PDT 2015 --  Introducing the Technical Preview of Docker Engine for Windows Server 2016 http://buff.ly/1J4d9hN 
+Wed Aug 19 07:16:59 PDT 2015 --  Office 365 Admin app continues to get quick updates and gets even better http://buff.ly/1hmEnHD 
+Wed Aug 19 04:30:03 PDT 2015 --  How Mature is your #DigitalWorkplace Programme? #GartnerDWS https://flic.kr/p/vmtjL4 
+Tue Aug 18 15:35:00 PDT 2015 --  Exciting @Microsoft news – @Azure Gov is the first major #govcloud granted a @FedRAMP JAB P-ATO http://msft.it/6019BGx1T 
+Wed Aug 19 02:14:57 PDT 2015 --  AzCopy new release: Append Blob,File Storage Asynchronous Copying,File Storage Share SAS,data exporting to CSV & more http://buff.ly/1MxeTSW 
+Tue Aug 18 13:13:44 PDT 2015 --  Connect with #Microsoft at #LinuxCon! In person at expo booth or online w/ engineering via http://aka.ms/msftconnect  pic.twitter.com/cea1CSm2P5
+Tue Aug 18 13:51:43 PDT 2015 --  Digital Vortex will displace avg of 4 in 10 incumbents by industry next 5 yrs http://bit.ly/1flkaQw  @JosephMBradley pic.twitter.com/kc3d5BRcPH
+Tue Aug 18 12:16:02 PDT 2015 --  Do yourself a favor, learn some quick tips for creating a productive work culture: http://off365.ms/Iwg1si  #worktips pic.twitter.com/FF8t3E9WbR
+Fri Aug 14 08:30:04 PDT 2015 --  #MachineLearning predicts weather more accurately than traditional forecasting models. Read: http://msft.it/6019BGp6N  pic.twitter.com/rQG7qBTXbT
+Fri Aug 14 07:22:06 PDT 2015 --  How Startups Can Beat Seasonality http://alleywat.ch/1gGyjbN  #StartupAdvice
+Wed Aug 12 08:47:21 PDT 2015 --  Watch this episode: How changes are rolled out to Office 365 and what you can do to prepare http://ow.ly/32AlkX 
+Fri Aug 14 01:55:46 PDT 2015 --  Managing multiple Azure SQL Databases just got easier with Elastic Database Jobs http://buff.ly/1TubRVf 
+Fri Aug 14 00:54:32 PDT 2015 --  Preview real-time co-authoring on OneDrive - Office Blogs https://blogs.office.com/2015/08/13/preview-real-time-co-authoring-on-onedrive/#.Vc2ekr888zI.twitter …
+Thu Aug 13 11:43:01 PDT 2015 --  Announcment: Geospatial support now available in #Azure #DocumentDB! http://msft.it/6010BGr6O  pic.twitter.com/67XGeg86Td
+Mon Aug 10 10:50:46 PDT 2015 --  A handy list if you're a Windows dev A Complete List of Windows Development Tools @ Scott Ge http://scottge.net/2015/07/17/a-complete-list-of-windows-development-tools/ … #wpdev
+Thu Aug 13 05:55:18 PDT 2015 --  Azure HDInsight now available in the Azure Preview Portal http://buff.ly/1TubKZO 
+Thu Aug 13 02:38:53 PDT 2015 --  New features coming to Outlook on the web http://buff.ly/1glTQqe 
+Mon Jul 20 14:54:40 PDT 2015 --  Deliver immediate ROI with Enterprise Hadoop. Download the white paper http://bit.ly/1IfJxkc  pic.twitter.com/ulgjJzMk3f
+Mon Aug 10 10:44:03 PDT 2015 --  The excellent Lean Enterprise book summarized into an infographic by @barryoreilly & @jemolesky http://www.thoughtworks.com/insights/blog/how-business-leaders-create-lean-enterprise …
+Tue Aug 11 07:39:33 PDT 2015 --  #Microsoft, #Docker intensify their #container collaboration: http://ubm.io/1Ell5He  via @InformationWeek pic.twitter.com/HUD0Qpx4l1
+Tue Aug 11 09:11:34 PDT 2015 --  Debugging 101 in #VisualStudio with Andrew Hall http://dlvr.it/Bpvf09 
+Tue Aug 11 10:38:07 PDT 2015 --  Office 365 news roundup http://buff.ly/1T4K7Gp 
+Tue Aug 11 09:13:00 PDT 2015 --  [NEW]: Need to recertify your MCSE: Communication, Messaging or Sharepoint? Do it through MVA http://spr.ly/6019BGDHW  pic.twitter.com/j74ryIHiNg
+Tue Aug 11 01:36:51 PDT 2015 --  The big list of #relaxing #HTML5 #games to play under the #beach umbrella: http://www.gamepix.com/blog/the-big-list-of-relaxing-html5-games-to-play-under-the-beach-umbrella/ … #html5games #summer pic.twitter.com/JuPEbyAF3O
+Mon Aug 10 00:05:15 PDT 2015 --  #Windows10 Demo #3 for Office 365 Admin: Mobile Device Management for Office 365 http://ow.ly/QzmBm 
+Mon Aug 10 11:23:09 PDT 2015 --  Last Week on Channel 9: August 3rd - August 9th, 2015 http://buff.ly/1IxUIl8  pic.twitter.com/uk9Ec2yXSf
+Mon Aug 10 11:34:54 PDT 2015 --  Azure Mobile Services: A Great Back End for AngularJS http://buff.ly/1EfEskY 
+Mon Aug 10 00:06:44 PDT 2015 --  #MachineLearning out of the box in Office 365. Demo of #Equivio integration and eDiscovery https://youtu.be/FhmCYyCgeG4?t=5m56s …
+Sun Aug 09 01:24:02 PDT 2015 --  Office 365 news roundup - Office Blogs https://blogs.office.com/2015/08/07/office-365-news-roundup-10/#.VccOCZc46Ls.twitter …
+Sat Aug 08 09:30:00 PDT 2015 --  #Webinar: Harness predictive customer Churn Models with #CortanaAnalytics Suite. http://msft.it/6018B1vTQ  Aug. 18th, 10AM PDT. #DataScience
+Sat Aug 08 09:39:03 PDT 2015 --  CodeChat 034 - Dan Marshall Made Awesome Maker.js | CodeChat http://dlvr.it/BnN2Nf 
+Sat Aug 08 09:33:53 PDT 2015 --  Azure and Scalr come together to offer top-notch Cloud Management on Azure http://buff.ly/1Teat3A 
+Sat Aug 08 07:48:56 PDT 2015 --  Announcing early preview of UWP Bridge for iOS on #GitHub: http://buff.ly/1UsyYfQ  http://buff.ly/1UsyWEN 
+Fri Aug 07 05:15:09 PDT 2015 --  The Best Windows 10 Features You Probably Haven’t Heard About http://buff.ly/1MABzmJ 
+Fri Aug 07 02:31:00 PDT 2015 --  Windows Bridge for iOS (aka Project Islandwood) now available as open-source on #GitHub: http://msft.it/6019B1U4f  #oss pic.twitter.com/jMykZrSUGg
+Fri Aug 07 03:45:12 PDT 2015 --  New Azure Blob & File Service Features and Client Side Encryption http://blogs.msdn.com/b/windowsazurestorage/archive/2015/08/04/microsoft-azure-storage-release-append-blob-new-azure-file-service-features-and-client-side-encryption-general-availability.aspx …
+Fri Aug 07 03:44:06 PDT 2015 --  New Azure Blob & File Service Features and Client Side Encryption
+Thu Aug 06 11:09:17 PDT 2015 --  It's always a worth reading: Office 365 Developer Kick Off http://buff.ly/1eQcUvu 
+Wed Aug 05 07:39:50 PDT 2015 --  Azure Site Recovery GA: Move VMware, AWS, Hyper-V and Physical Servers to Azure http://buff.ly/1OEs5En 
+Wed Aug 05 04:03:52 PDT 2015 --  Office 365 Channels are live on IFTTT http://buff.ly/1Dnb7dy 
+Tue Aug 04 01:34:07 PDT 2015 --  Nasce IoT in a Box:il kit #IoT per attivare un'applicazione Internet of Things in pochi click: http://bit.ly/1KNmsGi  pic.twitter.com/DeJnqOJZov
+Tue Aug 04 09:30:44 PDT 2015 --  8 Microsoft technologies that will change the way you work http://buff.ly/1OEswyE 
+Tue Aug 04 01:15:51 PDT 2015 --  Enhancing Azure VMs Protection with ESET File Security Extension http://buff.ly/1OErYca 
+Mon Aug 03 10:41:38 PDT 2015 --  Episode 056 on building products on top of SharePoint Online with Doug Ware http://buff.ly/1OEs57k 
+Mon Aug 03 10:15:39 PDT 2015 --  New NuGet 3.1 with Support for Universal Windows Platform http://buff.ly/1IvMnQp 
+Mon Aug 03 04:11:23 PDT 2015 --  Openness in practice: What Visual Studio 2015 says about the new Microsoft http://buff.ly/1OEqONO 
+Fri Jul 31 17:49:08 PDT 2015 --  8 Groups of People Who Will Never Start a Business http://tinyurl.com/o7e4rba  #startups
+Fri Jul 31 13:00:00 PDT 2015 --  Friday Freebie: Introducing #Windows10 for IT Pros, by @MicrosoftPress. Download: http://msft.it/6013BEhIV  #eBook pic.twitter.com/uOzhejM8WZ
+Fri Jul 31 01:30:03 PDT 2015 --  Doesn't matter who wins, it's important the ppl u are with in that moment #imaginecup @idontgiveanapp #wchampionship pic.twitter.com/WHXgmjMBhv
+Fri Jul 31 08:51:48 PDT 2015 --  Azure Web app scenarios http://buff.ly/1De1vS1 
+Fri Jul 31 00:15:31 PDT 2015 --  July update for Web apps and App Service environments in the Azure preview portal http://buff.ly/1Itrels 
+Thu Jul 30 23:59:12 PDT 2015 --  Dev Center open for Windows 10 app submissions, adds new features http://buff.ly/1fNavml 
+Thu Jul 30 20:18:11 PDT 2015 --  "we now have more than 14 million devices running Windows 10" Windows 10 – The First 24 Hours http://blogs.windows.com/bloggingwindows/2015/07/30/windows-10-the-first-24-hours/#.VbrovPUHFwM.twitter …
+Thu Jul 30 20:19:08 PDT 2015 --  This series A deck will help you learn how to make sense to investors: http://shrd.by/sGHOVj  #startups
+Thu Jul 30 20:22:00 PDT 2015 --  From MCSA to MCSD, navigate your certification journey with this FREE certification road map: http://spr.ly/6018BEo3E  pic.twitter.com/6LZuPZcEko
+Wed Jul 29 04:53:16 PDT 2015 --  We celebrate #Windows10 with @icedreams, a revolutionary Italian ice-cream startup embracing sustainability and tech pic.twitter.com/IZ60Zhgb7S
+Wed Jul 29 09:10:58 PDT 2015 --  #UpgradeYourWorld with great talent and passion for technology at #ImagineCup2015 pic.twitter.com/wPwvriQ28B
+Wed Jul 29 17:32:38 PDT 2015 --  Windows open on #Windows10, the #NYC launch party, welcome W10 !!! #UpgradeYourWorld pic.twitter.com/7JMjH4hWzU
+Sun Jul 26 17:11:25 PDT 2015 --  Interesting reading... How to choose the dev team http://www.alleywatch.com/2015/07/choose-development-team-works-business/ … @AlleyWatch
+Sun Jul 26 10:51:00 PDT 2015 --  How hackathons improve productivity http://buff.ly/1gbV1sL 
+Sat Jul 25 01:05:20 PDT 2015 --  Measuring programmer productivity is impossible. The most effective programming is thinking, but nobody looks busy when they're thinking.
+Sat Jul 25 03:04:00 PDT 2015 --  These were the 20 biggest funding rounds in European tech in the first half of 2015 http://buff.ly/1LExjST 
+Fri Jul 24 11:59:00 PDT 2015 --  Introducing Jupyter Notebooks in @Azure ML Studio http://spr.ly/6013BEZAx  pic.twitter.com/xXqu4CLGVe
+Sat Jul 25 03:12:26 PDT 2015 --  Thanks @BaratiNavid happy to hear from you. Enjoy Bizspark :-)
+Sat Jul 25 00:11:38 PDT 2015 --  @mariofontana Guys at Microsoft #BizSpark and innovation center are really awesome. Best email support in Italy. You should Be proud of them
+Sat Jul 25 00:38:45 PDT 2015 --  Security in Windows 10 http://buff.ly/1JjZ41d 
+Fri Jul 24 23:45:17 PDT 2015 --  Power BI is now generally available http://ow.ly/Q3JXe 
+Wed Jul 22 10:03:11 PDT 2015 --  Introducing Send—designed for in-and-out email! http://ow.ly/PX0Os 
+Fri Jul 24 15:46:46 PDT 2015 --  What did you miss on the #Office365 Network this week? See the best of: http://aka.ms/office365network/weeklyroundup/july24 …
+Fri Jul 24 15:45:30 PDT 2015 --  Power BI is now generally available http://ow.ly/Q3JVb 
+Fri Jul 24 15:35:20 PDT 2015 --  Now available in the US: Surface 3 (4G LTE) http://blogs.microsoft.com/firehose/2015/07/24/now-available-in-the-us-surface-3-4g-lte/ …
+Fri Jul 24 10:19:23 PDT 2015 --  The 2015 Top Ten Programming Languages http://buff.ly/1CYCry4 
+Fri Jul 24 10:16:54 PDT 2015 --  Enhancing Azure VMs Security with ESET http://buff.ly/1KiBe7w 
+Fri Jul 24 04:48:00 PDT 2015 --  Free #gamedev eBook with tips on how to make your code cleaner and faster: http://msft.it/6018BEXFM  #learning pic.twitter.com/YCXqfBOdjD
+Fri Jul 24 02:20:57 PDT 2015 --  Introduction to Azure Machine Learning http://buff.ly/1HNbWe5 
+Fri Jul 24 01:33:14 PDT 2015 --  Anche @Gamepix parteciperà a @ScaleIT, il primo evento italiano per #scaleup http://it.startupbusiness.it/news/scaleit-il-primo-evento-italiano-per-le-scaleup/80672/ … via @startupbusiness
+Fri Jul 24 00:25:07 PDT 2015 --  Your top 10 questions about Office 2016 for Mac answered - Office Blogs https://blogs.office.com/2015/07/22/your-top-10-questions-about-office-2016-for-mac-answered/#.VbHoMBbKvMg.twitter …
+Fri Jul 24 00:10:16 PDT 2015 --  A Developer's Guide to Windows 10 http://buff.ly/1JiqbK8 
+Thu Jul 23 00:18:43 PDT 2015 --  Azure Site Recovery GA: Move VMware, AWS, Hyper-V and Physical Servers to Azure http://buff.ly/1MG7cbn 
+Wed Jul 22 04:18:38 PDT 2015 --  Azure Marketplace announces new features and functionality http://buff.ly/1LrgRVT 
+Wed Jul 22 01:20:51 PDT 2015 --  Focusing on engineering at a startup is important, but marketing during development is key. A service I'm launching: http://shrd.by/dwtaMe 
+Tue Jul 21 20:11:31 PDT 2015 --  Check out my interview on Software Defined Networking with @TIA_Now: http://youtu.be/NVGeYDvoHQ8 
+Tue Jul 21 23:30:17 PDT 2015 --  Released Today: Visual Studio 2015, http://ASP.NET  4.6, http://ASP.NET  5 & EF 7 Previews http://buff.ly/1KiDknO 
+Tue Jul 21 13:05:20 PDT 2015 --  Announcing the latest improvements for the F12 developer tools in Windows 10 http://buff.ly/1OkLmun 
+Tue Jul 21 11:36:01 PDT 2015 --  Introducing @Microsoft @Office365 Channels — Mail, Calendar, Contacts, & OneDrive for Business http://ift.tt/Office365  pic.twitter.com/zYJsnpu6FD
+Mon Jul 20 14:54:31 PDT 2015 --  Developing Universal Windows Platform apps?  Here's guidance to install @VisualStudio 2015 RTM & #Windows10 SDK: http://spr.ly/6010BDfo8  #UWP
+Sun Jul 19 13:30:00 PDT 2015 --  Join Soma & the rest of the @VisualStudio team tomorrow for #VisualStudio2015's final release event! Stream it live: http://msft.it/6016BD8Pr 
+Mon Jul 20 01:50:25 PDT 2015 --  Interesting article about Azure RemoteApp to deliver Win32 legacy apps from the cloud to any device & any location http://ow.ly/P7Vcy 
+Sun Jul 19 04:53:39 PDT 2015 --  Windows 10: An Introduction to Building Windows Apps for Windows 10 Devices http://buff.ly/1DmWGAo 
+Sun Jul 19 02:36:23 PDT 2015 --  The http://asp.net  Daily is out! http://paper.li/WiFonzus/1435483928?edition_id=9d6cfba0-2df9-11e5-b07c-0cc47a0d1609 … Stories via @daltinkurt @DandLjobs @mariofontana
+Sun Jul 19 02:56:56 PDT 2015 --  Navigating the IT/OT convergence http://buff.ly/1OdJ6oP 
+Sat Jul 18 02:09:20 PDT 2015 --  "The job is not to code, the job is to think." http://hanselminutes.com/484/systems-thinking-less-coding-more-thinking-with-kishau-rogers …
+Sat Jul 18 12:58:12 PDT 2015 --  New Azure Billing APIs Available http://buff.ly/1KcTLiS 
+Sat Jul 18 09:36:24 PDT 2015 --  interactive analytics on Big Data with the release of Spark for Azure HDInsight http://buff.ly/1Ia6cfZ 
+Wed Jul 01 10:30:01 PDT 2015 --  Quickly learn to extend your on-prem Active Directory to the #cloud using #Azure AD Connect: http://cic.ms/Piuh5L  pic.twitter.com/KvH1aJSTbl
+Thu Jul 16 05:57:44 PDT 2015 --  Microsoft partner Easydom is bringing smart homes to the masses http://blogs.microsoft.com/blog/2015/07/14/microsoft-partner-easydom-is-bringing-smart-homes-to-the-masses/ …
+Sat Jul 18 05:52:42 PDT 2015 --  Data Points: An Overview of Microsoft Azure DocumentDB http://buff.ly/1GsmeMB 
+Sat Jul 18 05:49:20 PDT 2015 --  "These 12 startups died in Q2. Here’s why and how" http://venturebeat.com/2015/07/17/these-12-startups-died-in-q2-heres-why-and-how/ …
+Sat Jul 18 05:33:12 PDT 2015 --  Microsoft Placed In Leaders Category In Gartner’s Server Virtualization Magic Quadrant: http://microsoft-news.com/microsoft-placed-in-leaders-category-in-gartners-server-virtualization-magic-quadrant/ …
+Sat Jul 18 05:27:23 PDT 2015 --  A new way to keep up with all the Office 365 Dev news, tips and tricks https://blogs.office.com/2015/07/17/a-new-way-to-keep-up-with-all-the-office-365-dev-news-tips-and-tricks/#.VapGGhMOqYE.twitter …
+Fri Jul 17 11:58:06 PDT 2015 --  GE's Jeff Immelt: 'Every Company Has to be a Software and Analytics Company' http://j.mp/1CMpHe3 
+Fri Jul 17 15:29:00 PDT 2015 --  #PowerBI Waterfall: a typical chart for sales forecasting and risk management pic.twitter.com/0v7rG9vYoy
+Fri Jul 10 12:40:52 PDT 2015 --  Info utili per tutti i #dev che non conoscono il programma App Consult. Ce lo racconta @qmatteoq su #techereos https://channel9.msdn.com/Shows/TecHeroes/TecHeroes-App-Consult …
+Fri Jul 17 13:55:00 PDT 2015 --  Say hello to Visual Studio @Code (with @NodeJS): http://msft.it/6015BD8XL 
+Wed Jul 15 06:46:42 PDT 2015 --  8 things you need to know about raising #venturecapital: http://wp.me/p1g4T-ko  #startups via @alexiskold
+Fri Jul 17 01:29:06 PDT 2015 --  @IsmbOnweb porta #innovazione anche a #scuola #Torino con @microsoftitalia KODU #OneDayInBoella2015 15anniversario pic.twitter.com/t7Uarekqx7
+Thu Jul 16 10:15:18 PDT 2015 --  News from WPC—invested in Partner growth. New APIs available! http://buff.ly/1gCVfsP  #office365dev
+Wed Jul 15 05:41:33 PDT 2015 --  #15years of #Innovation #OneDayInBoella2015 with our great partner @microsoftitalia @IsmbOnweb @MobileSol_ISMB pic.twitter.com/Zm77HqFnYv
+Wed Jul 15 00:10:57 PDT 2015 --  Il nostri staff direzionale @IsmbOnweb #OneDayInBoella2015 pic.twitter.com/1HmNBrnb67
+Tue Jul 14 00:25:12 PDT 2015 --  An early look at Cortana integration with Office 365 http://ow.ly/PjJwl 
+Mon Jul 13 10:28:20 PDT 2015 --  @AnnaDiSilverio CEO of @AvanadeItaly Partner of the Year for @microsoftitalia, with @satyanadella congrats !! #wpc15 pic.twitter.com/eYK9jzu0Pk
+Mon Jul 13 10:19:39 PDT 2015 --  Interesting read - Accelerators are the new business school http://tsta.rs/1HXZtaD  via @TechCrunch
+Mon Jul 13 09:50:42 PDT 2015 --  1.4 million #SQLDatabase in #Azure. Impressive! @msPartner #msPartner #WPC15 pic.twitter.com/aLdjHdc5k3
+Mon Jul 13 10:25:55 PDT 2015 --  News from WPC—invested in Partner growth - Office Blogs https://blogs.office.com/2015/07/13/news-from-wpc-invested-in-partner-growth/#.VaP0nvX9n50.twitter …
+Mon Jul 13 05:05:26 PDT 2015 --  2min VIDEO about creating hosted Web Apps with project Westminster http://ow.ly/PjNfh 
+Sun Jul 12 23:45:19 PDT 2015 --  Running Cocos2d-x Games on Windows IoT Core http://ow.ly/PjJr5 
+Sun Jul 12 23:44:47 PDT 2015 --  The next evolution of machine learning: Machine teaching - Next at Microsoft http://buff.ly/1NZqrxn 
+Sat Jul 11 11:33:00 PDT 2015 --  Want to dev #PowerShell projects inside #VisualStudio? Experts explain what you need to know: http://spr.ly/6011B80XP  pic.twitter.com/lqCBULmsPX
+Sat Jul 11 10:19:04 PDT 2015 --  Power BI generally available on July 24.  http://ow.ly/PtOsn 
+Sat Jul 11 08:45:48 PDT 2015 --  3 Principles to Being a Great Startup Leader, Not a Manager http://www.alleywatch.com/2015/01/3-principles-to-being-a-great-startup-leader-not-a-manager/ … via @alleywatch
+Sat Jul 11 07:46:57 PDT 2015 --  A Complete List of Microsoft SDKs for Download http://buff.ly/1gsVsid 
+Sat Jul 11 04:06:39 PDT 2015 --  Linux RDMA on Microsoft Azure http://azure.microsoft.com/blog/2015/07/09/azure-linux-rdma-hpc-available/ …
+Sat Jul 11 04:05:11 PDT 2015 --  Public Preview of Azure Data Catalog http://blogs.technet.com/b/machinelearning/archive/2015/07/09/announcing-the-public-preview-of-azure-data-catalog.aspx …
+Sat Jul 11 04:03:38 PDT 2015 --  More integration between Azure and Tableau https://www.tableau.com/about/blog/2015/7/visualizing-data-cloud-microsoft-azure-tableau-online-40832 …
+Fri Jul 10 13:46:07 PDT 2015 --  Announcing Windows 10 Mobile Insider Preview Build 10166 http://blogs.windows.com/bloggingwindows/2015/07/10/announcing-windows-10-mobile-insider-preview-build-10166/#.VaAvDAguQRw.twitter …
+Fri Jul 10 13:43:55 PDT 2015 --  The next evolution of machine learning: Machine teaching http://blogs.microsoft.com/next/2015/07/10/the-next-evolution-of-machine-learning-machine-teaching/ …
+Fri Jul 10 13:20:25 PDT 2015 --  Se volete sapere come AppConsult possa aiutarvi con le vostre app, guardate l'ultima puntata di #techheroes https://channel9.msdn.com/Shows/TecHeroes/TecHeroes-App-Consult … #wpdev
+Fri Jul 10 13:21:00 PDT 2015 --  VIDEO: Public preview of @Azure Data Catalog available July 13 http://spr.ly/6011B8IaF  pic.twitter.com/eB3V47vNnE
+Fri Jul 10 08:10:01 PDT 2015 --  Public preview of #ApacheSpark for #Azure #HDInsight today & @PowerBI GA on 7/24: http://msft.it/6016B8xUw  pic.twitter.com/8mriMiN1SW
+Fri Jul 10 05:02:32 PDT 2015 --  Linux, Java and container support coming for Microsoft's Azure microservice platform http://ow.ly/OBVbe 
+Fri Jul 10 00:10:33 PDT 2015 --  Project Westminster for building Hosted Web Apps http://ow.ly/PjIH5  integrated in the WIN10 SDK http://ow.ly/PjIH6 
+Thu Jul 09 10:26:04 PDT 2015 --  SharePoint 2013: SharePoint apps (add-ins): Minify JavaScript in Visual Studio 2015 http://buff.ly/1NOW1gS 
+Thu Jul 09 05:20:19 PDT 2015 --  Running Cocos2d-x Games on Windows IoT Core http://ow.ly/PjJmR 
+Thu Jul 09 02:45:16 PDT 2015 --  Office 365 Open Source plugins for Moodle: getting better all the time http://ow.ly/PjJk2 
+Thu Jul 09 01:45:36 PDT 2015 --  ONLY for #geeks :-) PowerShell for Office 365 http://ow.ly/P7UXi 
+Thu Jul 09 00:20:19 PDT 2015 --  Open edX + Microsoft Office 365: Better Together http://ow.ly/PjJgB 
+Wed Jul 08 23:55:09 PDT 2015 --  2min VIDEO about creating hosted Web Apps with project Westminster http://ow.ly/PjN9E 
+Wed Jul 08 04:06:00 PDT 2015 --  GitHub sample showing how to use ADAL for JS to make HTTP and CORS requests to the O365 APIs http://off365.ms/Svkgd6 . #Office365Dev
+Wed Jul 08 11:10:34 PDT 2015 --  Project Westminster for building Hosted Web Apps http://ow.ly/PjIF0  integrated in the WIN10 SDK http://ow.ly/PjIF1 
+Wed Jul 08 10:38:17 PDT 2015 --  New FREE to download Microsoft eBooks Including: Azure, SQL Server,Windows 10,Office 365 and more... http://buff.ly/1G7twFg 
+Wed Jul 08 10:06:19 PDT 2015 --  "L'ecosistema startup in Israele è per noi fonte di grandissima ispirazione" @RMagnifico @LVentureGroup #StartTLVIT15 pic.twitter.com/I4DWp1bdbJ
+Tue Jul 07 13:25:01 PDT 2015 --  Your web apps are ready to be Windows apps. Project Westminster is your bridge: http://spr.ly/6016B85lY  #UWPBridges pic.twitter.com/8huktC9alb
+Tue Jul 07 09:39:26 PDT 2015 --  #DocumentDB now supports Order By & string range queries! More about this new improvement: http://msft.it/6011B8eyX  pic.twitter.com/I3X3XNNkap
+Tue Jul 07 03:16:00 PDT 2015 --  Automatizzare il deploy di un #Azure-hosted APT repository: te lo spieghiamo con questo tutorial semplicissimo! http://spr.ly/6011B8Xsx 
+Tue Jul 07 09:22:17 PDT 2015 --  Sta per iniziare ad @Expo2015Milano Auditorium @Pad_Ita2015 Convegno sull'agricoltura di precisione #innovazione pic.twitter.com/vXDUhoYWFC
+Tue Jul 07 08:33:37 PDT 2015 --  L’innovazione nel #fooD tonight @Expo2015Milano #MACHforfood digitalization for the Italian culinary excellence #Expo2015 @microsoftitalia
+Tue Jul 07 09:25:30 PDT 2015 --  How the Internet of Things is disrupting the C-suite - http://ent.ms/X8w3sP  by @scott_nelson19 #IoT pic.twitter.com/47FDb0p9tg
+Tue Jul 07 09:26:17 PDT 2015 --  What it's like to be a tech startup developer featuring @TheTechDude and @codefoster https://channel9.msdn.com/Shows/codechat/030 … via @ch9 pic.twitter.com/utkPtawomb
+Tue Jul 07 09:30:00 PDT 2015 --  Easily solve integration scenarios w/ just a few clicks. Get started w/ #LogicApp templates: http://msft.it/6012B8Jiu  pic.twitter.com/qGpO8Xuw9P
+Tue Jul 07 09:28:59 PDT 2015 --  "What we need now is a radically new conception of agriculture, one in which the food actually tastes good." http://t.ted.com/DTAmh1D 
+Tue Jul 07 01:55:17 PDT 2015 --  Using the Microsoft Azure Storage Explorer Tools http://ow.ly/OBU1s 
+Mon Jul 06 06:00:01 PDT 2015 --  Il 20/7 preparati a festeggiare: arriva la final release di #VisualStudio! http://spr.ly/6016B8VSO  pic.twitter.com/ANzrD5sJxs
+Mon Jul 06 11:43:40 PDT 2015 --  Visual Studio Code - July Update (0.5.0) http://buff.ly/1HI5IiN 
+Mon Jul 06 02:01:17 PDT 2015 --  Azure Data Factory Updates: Copy data from MySQL, DB2, Sybase, PostgreSQL and Teradata http://ow.ly/OBUQz 
+Sun Jul 05 01:23:46 PDT 2015 --  Our Story in the latest years well told by @VanityFairIt @lavorincorsa: http://www.vanityfair.it/mybusiness/donne-nel-mondo/15/7/francesca-fedeli-fight-the-stroke … @pazienti @empatica pic.twitter.com/3FZwS3SiBr
+Sun Jul 05 14:00:05 PDT 2015 --  Managing Agile Open-Source Software Projects with Visual Studio Online (Developer Reference) http://service.rss2twi.com/ads/amazon?id=2964 …
+Sat Jul 04 02:04:00 PDT 2015 --  Starting in #Socialselling -- Identify What and Who to listen to! pic.twitter.com/vGqWgbNFFN
+Sat Jul 04 10:07:51 PDT 2015 --  Upstart - Why It’s Hard to Talk About Tech http://buff.ly/1Tcmto4 
+Sat Jul 04 10:04:16 PDT 2015 --  Microservice Trade-Offs http://buff.ly/1NE6POw 
+Sat Jul 04 09:57:19 PDT 2015 --  "Inside Azure Search: Chaos Engineering" http://azure.microsoft.com/blog/2015/07/01/inside-azure-search-chaos-engineering/ … #cloud
+Wed May 13 11:22:08 PDT 2015 --  Video of my Ignite talk Microsoft Azure and Its Competitors: The Big Picture is at http://bit.ly/1A0oLRE  Comments welcome.
+Tue May 12 03:20:34 PDT 2015 --  This is How To Tell If You Are Ready To Hire an In House Developer http://alleywat.ch/1KjPSqa  via @alleywatch
+Mon May 11 02:25:13 PDT 2015 --  Project Oxford: REST API and SDK to leverage Natural Data Understanding http://ow.ly/MA2il 
+Thu May 07 03:38:51 PDT 2015 --  I'll be talking Swarm Compose Machine during #AzureDockerDay come see us, come hack with us http://aka.ms/AzureDockerDayMI … pic.twitter.com/8VYfTgumrH
+Fri May 08 03:24:26 PDT 2015 --  MSDN Guest Post: Provati con mano gli HoloLens http://ow.ly/MGFrX  by @GamePix @ewawra @ValexPix
+Fri May 08 02:20:19 PDT 2015 --  Cocos2d has released the latest version of Cocos2d-x engine – version v3.6 http://ow.ly/MA219  /c @GamePix @ewawra
+Thu May 07 09:15:27 PDT 2015 --  This is How To Tell If You Are Ready To Hire an In House Developer http://alleywat.ch/1KjPSqa  via @alleywatch
+Tue May 05 05:20:51 PDT 2015 --  Let's grab the fresh new Core Library and play with the PnP Provisioning Engine! http://bit.ly/1K7j7gG  #OfficeDev365 #SharePoint
+Thu May 07 08:54:28 PDT 2015 --  new Azure DNS service http://ow.ly/MEBzu 
+Tue May 05 22:44:26 PDT 2015 --  New #Azure Networking Capabilities for a Consistent, Connected and Hybrid Cloud http://azure.microsoft.com/blog/2015/05/05/new-networking-capabilities-for-a-consistent-connected-and-hybrid-cloud/ …
+Wed May 06 08:19:45 PDT 2015 --  Great news for ITPros about #SharePoint 2016 at #MSIgnite! Well done and thank you @williambaer!
+Thu May 07 08:46:08 PDT 2015 --  Nuova puntata di #TecHeroes con Erica e Lorenzo che raccontano le novità e l'atmosfera magica alla conferenza Build http://ow.ly/MEzsc 
+Thu May 07 08:30:41 PDT 2015 --  Tocca a @_ericabarone che ci parla di come il cloud puó supportare i sistemi #IoT #Azure @microsoftitalia @IsmbOnweb pic.twitter.com/AoI5sKKwe0
+Thu May 07 00:25:10 PDT 2015 --  In honor of last week's PI Day, Raspberry Pi 2 for .NET Developers :-) http://ow.ly/MA2JU 
+Wed May 06 13:30:01 PDT 2015 --  Learn about the new #Azure CDN Premium Service & get an intro to all the new features: http://cic.ms/1nHLdY  pic.twitter.com/pHZBlp6VUl
+Wed May 06 01:24:20 PDT 2015 --  Tutti parlano di #Docker ..e Deis, Kubernetes, Swarm e Mesos? #AzureDockerDay: spieghiamo e "hackiamo" :) http://aka.ms/AzureDockerDayMI … pls RT :)
+Tue May 05 11:14:43 PDT 2015 --  Published PowerShell scripts for full automation of a multi-data-center/region SQL AlwaysOn Setup in Azure VMs http://blog.mszcool.com/index.php/2015/05/azure-vms-sql-server-alwayson-setup-across-multiple-data-centers-fully-automated-classic-service-management …
+Wed May 06 08:20:32 PDT 2015 --  New and improved open source tools for Office 365 developers http://ow.ly/MA1PD 
+Wed May 06 06:39:04 PDT 2015 --  EXCLUSIVE #handson Microsoft #HoloLens: GamePix tested the device of the future at #BUILD2015 http://www.gamepix.com/blog/exclusive-hands-on-microsoft-hololens-gamepix-tested-the-device-of-the-future-at-build-2015/ … pic.twitter.com/UMuhRk4NlH
+Wed May 06 06:42:09 PDT 2015 --  @GamePix invidiaaa :) non vedo l'ora di provarlo! @Microsoft @bldwin @mariofontana @microsoftitalia @MicrosoftDev @HoloLensDevs
+Wed May 06 06:25:20 PDT 2015 --  DOWNLOAD FREE Visual Studio Code for Mac OS X, Linux and Windows here http://ow.ly/MkrVA 
+Wed May 06 03:15:17 PDT 2015 --  Interesting article about 10 Keys to startup traction that investors look for http://alleywat.ch/11Cf05Q  via @alleywatch
+Mon May 04 02:27:00 PDT 2015 --  Filo.Il dispositivo #bluetooth più geniale del mercato @TrackFilo #tecnologia http://buff.ly/1DMaof1  pic.twitter.com/sczxFXFtKF
+Wed May 06 02:18:11 PDT 2015 --  Gli eroi che stanno cambiando il @ComunediLecce ..http://www.digitalchampions.it/archives/blog/al-comune-di-lecce-il-tavolo-di-interscambio-con-quei-30-che-vogliono-cambiare-la-pa-anche-con-gli-open-data/ … thanks @Paolo_Perrone @ADelliNoci #hackPA
+Wed May 06 02:19:26 PDT 2015 --  (also)for #BizSpark IT Camp users rea: simplifying virtual machine troubleshooting using Azure Log Collector http://ow.ly/MA2UC 
+Wed May 06 02:08:49 PDT 2015 --  HOW OLD DO I LOOK? #HowOldRobot http://how-old.net/ 
+Wed May 06 02:04:10 PDT 2015 --  Useful list of Open Source references to use with Microsoft #Azure http://ow.ly/MA0P9  @BizSpark
+Wed May 06 01:08:40 PDT 2015 --  LED pieno di #startup pronte per BizSpark IT Camp Torino @I3P_Torino @microsoftitalia @IsmbOnweb #digitalipercrescere pic.twitter.com/asQGhPVI7H
+Tue May 05 13:52:08 PDT 2015 --  Grande @mariofontana! Il paladino e il padre tecnologico delle startup in @bizspark in Italia! http://www.wired.it/economia/start-up/2015/05/05/big-data-per-api-analisi-low-cost-startup-microsoft/ …
+Tue May 05 02:51:33 PDT 2015 --  17/18 Giugno Server Infrastructure Days 2015.Qui l'iscrizione: http://aka.ms/sid_msimpresatwitter … @msdev_ita @msimpresa @windowserverit #wssid2015
+Mon May 04 23:25:10 PDT 2015 --  DOWNLOAD FREE Visual Studio Code for Mac OS X, Linux and Windows here http://ow.ly/MkrVA 
+Mon May 04 07:53:36 PDT 2015 --  Download Win10 for Raspberry Pi 2 here: https://connect.microsoft.com/windowsembeddedIoT …
+Mon May 04 03:36:11 PDT 2015 --  Visual Studio for Game Development: New Partnerships with Unity, Unreal Engine and Cocos2d http://ow.ly/MtsKY 
+Sun May 03 15:22:16 PDT 2015 --  What it's like to build holographic apps for Microsoft HoloLens http://mashable.com/2015/05/01/how-to-develop-for-microsoft-hololens/#:eyJzIjoidCIsImkiOiJfcmNhM2ltODRva2RvdTlkOCJ9 …
+Thu Apr 30 15:10:32 PDT 2015 --  #Windows10 + @Raspberry_Pi 2 + robots = awesome. What will you build? http://spr.ly/6013ARcV  #Build2015 #wpdev pic.twitter.com/zYsyLKJFyh
+Sat May 02 08:45:38 PDT 2015 --  Converting Win32/.NET apps to Windows 10 Universal apps (codenamed Centennial): http://channel9.msdn.com/Events/Build/2015/2-692 … Another popular #Build2015 session
+Sat May 02 12:12:07 PDT 2015 --  oggi insieme a @rickyver abbiamo tirato x mezza casa un cat7 di 25m in tubi da 1/2 pollice gia' pieni!confermo preferisco il soft all' hw :)
+Fri May 01 14:29:12 PDT 2015 --  RT @ewawra: #Microsoft Ads to promote your #Windows app. So many features thanks to developers feedbacks pic.twitter.com/4iL1b14Dac
+Fri May 01 12:52:38 PDT 2015 --  #Microsoft announce #video interstitial #ads for apps. One of the best way to #monetize #games. #bldwin #Build2015 pic.twitter.com/u5Z6RAnltD
+Wed Apr 29 16:15:00 PDT 2015 --  Developing for #OneDrive just got simpler with unified APIs across consumer and commercial: http://off365.ms/va1gtL  #Build2015 #Office365Dev
+Fri May 01 12:00:15 PDT 2015 --  #build2015 Windows 10 + Raspberry Pi 2 IoT Core Maker Robot Kit https://www.youtube.com/watch?v=aKCieb-Gf2g&app=desktop …
+Fri May 01 11:48:00 PDT 2015 --  ...want to see what's new in Visual Studio Tools 4 Universal Windows Apps? Well, here you go: http://spr.ly/6012AVHI  pic.twitter.com/GRMls1faEv
+Fri May 01 11:51:11 PDT 2015 --  Project Oxford helps developers build more intelligent apps #Build2015 http://blogs.microsoft.com/next/2015/05/01/microsofts-project-oxford-helps-developers-build-more-intelligent-apps/ …
+Fri May 01 07:49:48 PDT 2015 --  Congratulations on your release @migueldeicaza and the Mono Team. http://www.mono-project.com/docs/about-mono/releases/4.0.0/ …
+Fri May 01 07:49:00 PDT 2015 --  [Quickstart] How to create a simple #TypeScript project in #VisualStudio Code: http://msft.it/6017Ap6S  #VSCode pic.twitter.com/6hnmwiDWVj
+Thu Apr 30 08:59:33 PDT 2015 --  My preferred slide :-) Paint 4 Kids #Build2015 pic.twitter.com/UMBdU3B6kT
+Thu Apr 30 06:14:45 PDT 2015 --  DOWNLOAD FREE Visual Studio Code for Mac OS X, Linux and Windows here http://ow.ly/MkrVA 
+Wed Apr 29 17:38:16 PDT 2015 --  boom :) Arduino and Microsoft announce partnership http://j.mp/1FyU6fl  (this is just the beginning)
+Wed Apr 29 09:03:44 PDT 2015 --  Visual Studio Loves @Docker - Download VS for Docker later today #bldwin pic.twitter.com/HJEPn35GJa
+Wed Apr 29 16:33:48 PDT 2015 --  @mariofontana ho provato #hololens Sono ancora senza parole. A breve faccio una review. Ma tu hai un'anteprima nella casella di posta. :)
+Wed Apr 29 23:05:36 PDT 2015 --  Microsoft brings Windows 10 to Makers - http://goo.gl/QZe4Cv 
+Wed Apr 29 16:09:43 PDT 2015 --  Get started with the Service Fabric Preview 1 SDK here: http://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/ …
+Wed Apr 29 16:03:19 PDT 2015 --  Great news for open source developers at Build this week. https://msopentech.com/blog/2015/04/29/great-news-for-open-source-developers-at-build-this-week/ …
+Wed Apr 29 15:50:01 PDT 2015 --  From #Build2015: Announcing Application Insights Public Preview! Read more: http://cic.ms/RNFDvP  pic.twitter.com/tBlJTmETE8
+Wed Apr 29 15:49:14 PDT 2015 --  No cords, no phones, no wires, no tethers. Watch how we’re building #Hololens: http://bit.ly/1QKpNqm 
+Wed Apr 29 15:47:29 PDT 2015 --  We were pleased to host the now-famous Raspberry Pi B15 robot at our booth at @Microsoft #Build2015 pic.twitter.com/4fJLVy9NW8
+Wed Apr 29 14:48:34 PDT 2015 --  So when folks ask, "Why the heck did you return to @Microsoft?" I can now share a starter list from today. Join us! pic.twitter.com/PamTtl8Id7
+Wed Apr 29 14:48:02 PDT 2015 --  #build2015: what the world is thinking right now. #bldwin /cc @_geniodelmale @robandre @vflorusso pic.twitter.com/D6YiAymmJ1
+Wed Apr 29 14:16:09 PDT 2015 --  Windows 10 Design: Getting the balance right http://bit.ly/1QLkGGn 
+Wed Apr 29 12:48:07 PDT 2015 --  Microsoft launches Visual Studio 2015 RC, Visual Studio Code and Application Insights previews http://buff.ly/1JBpiN9  pic.twitter.com/yJTebHX5Gt
+Wed Apr 29 12:43:30 PDT 2015 --  Exciting news continues @ #Build2015: #ApplicationInsights now has integrated @HockeyApp’s crash analytics for iOS- & Android-based apps.
+Wed Apr 29 12:10:52 PDT 2015 --  Want a feature for @code? Vote here: http://visualstudio.uservoice.com/forums/293070-visual-studio-code … #Build2015
+Wed Apr 29 12:23:04 PDT 2015 --  Developer Unlock su PC, Tablet e Phone #Build2015 pic.twitter.com/JIdClwsSFa
+Wed Apr 29 12:21:37 PDT 2015 --  Build is here! - Steve "Guggs" Guggenheimer's blog - Site Home - MSDN Blogs http://blogs.msdn.com/b/stevengu/archive/2015/04/29/build-is-here.aspx …
+Wed Apr 29 12:12:42 PDT 2015 --  APPX e il futuro anche per le app desktop. MSI é "legacy" :) permette di gestire le App Model Policy, il nostro codice NON deve cambiare
+Wed Apr 29 11:54:39 PDT 2015 --  Great getting started series of articles by @John_Papa walking through our new VS Code tool and how to use it: http://www.johnpapa.net/getting-started-with-visual-studio-code …
+Wed Apr 29 12:15:01 PDT 2015 --  Cool we have a WikiPedia entry for @Code http://spr.ly/6017AJJJ . pic.twitter.com/EQabmdv1K5
+Wed Apr 29 11:41:14 PDT 2015 --  @mariofontana @msdev this is going to be one of the moment of my life! Thank you so much Mario and #Microsoft pic.twitter.com/TPrcNkQMBE
+Wed Apr 29 11:28:30 PDT 2015 --  It's like a dream but it's true!!! Cannot believe it even if I'm watching it live in #bldwin #Microsoft @msdev pic.twitter.com/0gsKDC8xxe
+Wed Apr 29 11:28:33 PDT 2015 --  This is sci-fi stuff. There's a Raspberry Pi robot on stage w/ a HoloLens overlay http://cnet.co/1bV05Q5  #Build2015 pic.twitter.com/HBI32ZQgsQ
+Wed Apr 29 11:28:38 PDT 2015 --  #BUILD2015 Holo Robot :) http://ow.ly/i/aAn50 
+Wed Apr 29 11:25:17 PDT 2015 --  This is definitely the future: there are robots on stage. #Build2015 pic.twitter.com/nMmYLzyQjs
+Wed Apr 29 11:20:08 PDT 2015 --  Holograms mate, HOLOGRAMS. It's just warp speed & teleportation left. #HoloLens #Build2015 pic.twitter.com/3gTJGs6dNA
+Wed Apr 29 11:20:10 PDT 2015 --  #Build2015 How students can use HoloLens in medical Industry!! Awesome Demonstration!! pic.twitter.com/mCpZidr5ou
+Wed Apr 29 11:18:38 PDT 2015 --  HoloLens for medical or school. #Build2015. More at: http://www.pcworld.com/article/2915594/build-2015-follow-microsoft-ceo-satya-nadellas-keynote-on-pcworlds-live-blog.html … pic.twitter.com/D62zSoIziJ
+Wed Apr 29 11:10:10 PDT 2015 --  Windows Holographic Platform #BUILD2015
+Wed Apr 29 11:07:15 PDT 2015 --  aaaaand now... It's @HoloLens time at #Build2015 :)
+Wed Apr 29 11:05:28 PDT 2015 --  RT @Windows Microsoft announces Continuum for phones - where almost any screen can deliver a PC experience #Build2015 pic.twitter.com/CpghfyQ7Uu
+Wed Apr 29 11:03:53 PDT 2015 --  "With Continuum for phones, we believe any screen can be your PC." Joe B #Build2015
+Wed Apr 29 10:56:28 PDT 2015 --  #BUILD2015 Microsoft Edge the new browser for #Windows10
+Wed Apr 29 10:38:29 PDT 2015 --  RT @Windows Windows 10 welcomes all developers and code. #Windows10 #Build2015 pic.twitter.com/mN81zKxxAd
+Wed Apr 29 09:20:12 PDT 2015 --  Visual Studio is now a family of tools for every developer (including Mac and Linux) with Azure as the backend, says @shanselman #Build2015
+Wed Apr 29 10:33:04 PDT 2015 --  Microsoft: Compile the same Objective C code (iOS) for new Windows apps in Visual Studio. Wow. #Build2015
+Wed Apr 29 10:33:25 PDT 2015 --  The 4 ways to build for windows 10. #build2015 pic.twitter.com/isiyU9EpyQ
+Wed Apr 29 10:33:35 PDT 2015 --  The entire audience just went "WOOOOAH" when @tmyerson announced Objective C on @Windows! Live-streamers, how did you guys react? #Build2015
+Wed Apr 29 10:34:52 PDT 2015 --  NOW you can compile Objective C code used in iOS applications in Visual Studio 4 WINDOWS #Build2015
+Wed Apr 29 10:32:49 PDT 2015 --  You can now reuse YOUR Java & C++ code from #ANDROID to run on Windows 10 & Windows Phone 10 #BUILD2015
+Wed Apr 29 10:29:21 PDT 2015 --  Support for .Net and Win32 apps to Windows Store #BUILD2015
+Wed Apr 29 09:53:38 PDT 2015 --  A Modern Data Architecture. #Build2015 pic.twitter.com/1GP8T8tHlg
+Wed Apr 29 09:52:51 PDT 2015 --  I can't wait to go swimming in the #DataLakeService #Build2015 pic.twitter.com/LtomWHJGhf
+Wed Apr 29 09:46:08 PDT 2015 --  Announcing Azure Data Lake, a data storage service for IoT systems. #Build2015 "infinite data" #awesome Hadoop-ready. pic.twitter.com/UxUfaeYTr5
+Wed Apr 29 09:47:11 PDT 2015 --  #machinelearning to predict results on the new #Microsoft #Azure data wharehouse a-m-a-z-i-n-g #bldwim @msdev pic.twitter.com/SykkVpvNVs
+Wed Apr 29 09:47:30 PDT 2015 --  #Azure Analytic Services reloaded :-) #BUILD2015 http://ow.ly/i/aAgsS 
+Wed Apr 29 09:46:27 PDT 2015 --  A new data repository for big data analytics: Azure Data Lake Service #BUILD2015 http://ow.ly/i/aAgpa 
+Wed Apr 29 09:42:49 PDT 2015 --  Wondering about SQL DATA WAREHOUSE vs AWS REDSHIFT? #BUILD2015 http://ow.ly/i/aAg7j 
+Wed Apr 29 09:40:51 PDT 2015 --  Petadata ERA at #BUILD2015 with SQL DATA WAREHOUSE http://ow.ly/i/aAfZw 
+Wed Apr 29 09:37:48 PDT 2015 --  #BUILD2015 Azure Analytic Services http://ow.ly/i/aAfLA 
+Wed Apr 29 09:30:57 PDT 2015 --  Elastic #database pool thanks to #machinelearning on #azure this is awesome! Live from #bldwin
+Wed Apr 29 09:31:03 PDT 2015 --  Azure SQL DB now with Transparent Data Encryption, Full Text Indexing, Elastic Pools #Build2015
+Wed Apr 29 09:26:30 PDT 2015 --  #Azure Service Fabric SDK download available soon #Build2015
+Wed Apr 29 09:23:52 PDT 2015 --  Visual Studio Code is free! #Build2015 http://ow.ly/i/aAeJx 
+Wed Apr 29 09:19:59 PDT 2015 --  #BUILD2015 Visual Studio Code for Ubuntu now :-) http://ow.ly/i/aAeso 
+Wed Apr 29 09:18:27 PDT 2015 --  WOW!!! #BUILD2015 Visual Studio Code for MAC and Linux http://ow.ly/i/aAeku 
+Wed Apr 29 09:15:36 PDT 2015 --  Available for download NOW: .NET Core foundational libraries, called CoreFX #Build2015 http://ow.ly/MhW8S 
+Wed Apr 29 09:03:18 PDT 2015 --  Surprise 2 - Content and collaboration for developers @Microsoft #Docker #Build2015
+Wed Apr 29 09:00:50 PDT 2015 --  Docker Demo #Build2015 with @markrussinovich
+Wed Apr 29 08:58:00 PDT 2015 --  Ben Golub CEO Docker on stage at #Build2015 talking about Docker on Microsoft Azure...
+Wed Apr 29 08:54:36 PDT 2015 --  More than 40% of Azure revenue now comes from startups, Guthrie says (live blog) http://cnet.co/1dsUhxL  #Build2015 pic.twitter.com/1Vdm66Izuv
+Wed Apr 29 08:48:37 PDT 2015 --  "We want to take inspiration from the apps you build to drive platform innovation." - @SatyaNadella. #Build2015 pic.twitter.com/5URpTNYBZf
+Sat Apr 04 08:00:03 PDT 2015 --  40 years ago Microsoft began, what a journey! Here is the title page from Microsoft’s first product BASIC pic.twitter.com/xJyOoSq9V0
+Wed Apr 29 07:56:41 PDT 2015 --  Ready to watch the future! Live from #SanFrancisco at the #Microsoft #Build2015 #bldwin #YouthSpark pic.twitter.com/m1Rp4xDxU8
+Wed Apr 29 07:57:49 PDT 2015 --  Line for #Build2015 keynote pic.twitter.com/ZsmhQXvCGA
+Wed Apr 29 02:15:37 PDT 2015 --  Live la nuova puntata di #TecHeroes! Con @_ericabarone parliamo di #IoT #Cloud http://channel9.msdn.com/Shows/TecHeroes/TecHeroes-Microsoft-IoT … /cc @Azure pic.twitter.com/ntgjroKW5e
+Tue Apr 28 08:29:26 PDT 2015 --  . @ewawra did you say #hololens? @mariofontana pic.twitter.com/wTXW0RbOiV
+Sat Apr 25 12:42:21 PDT 2015 --  @mariofontana #CultureDigitali #Arte #Interattiva http://diculther.eu/  INVITO #Brainstorming #UNISI #14Maggio http://www.statigeneralinnovazione.it/online/brainstorming-culture-digitali-e-arte-interattiva/ …
+Tue Apr 28 01:59:58 PDT 2015 --  Tutto l'intrattenimento di Sky da oggi su dispositivi Windows grazie all'app di #SkyGo !!http://apps.microsoft.com/windows/it-it/app/4973028a-eccf-428a-8733-e8409bfede1d … pic.twitter.com/9CYPtWt3bN
+Sun Apr 26 05:05:14 PDT 2015 --  Free ebook: Microsoft Azure Machine Learning http://ow.ly/LJrnx 
+Sat Apr 25 00:25:42 PDT 2015 --  Il progetto Qcumber arriva su Microsoft e sogna le grandi smart city - http://www.greenews.info/comunicati-stampa/il-progetto-qcumber-sbarca-su-microsoft-e-sogna-le-grandi-smart-city-20150424/ …
+Thu Apr 23 16:26:56 PDT 2015 --  Preview: #IoT at #Build2015 http://spr.ly/6017fUVZ  pic.twitter.com/IYDi7lGP98
+Fri Apr 24 09:45:00 PDT 2015 --  Schools around the globe use our tools to improve student learning experiences. Read a story: http://msft.it/6013fmJH  pic.twitter.com/by6EsH93I3
+Fri Apr 24 09:46:03 PDT 2015 --  Contro il gender gap nel digitale torna #NuvolaRosa http://ischool.startupitalia.eu/35311/eventi/contro-il-gender-gap-nel-digitale-torna-nuvola-rosa/ … pic.twitter.com/cPXCALAM6W
+Fri Apr 24 09:46:01 PDT 2015 --  La seconda puntata di #TecHeroes è LIVE su @ch9! #HybridCloud e tanto altro con @lderiu86 - http://channel9.msdn.com/Shows/TecHeroes/TecHeroes-WindowsServer2003-HybridCloud … pic.twitter.com/XSWkDfIIsl
+Fri Apr 24 09:48:10 PDT 2015 --  Top #VCs Investing in Hardware #Startups http://luissenlabs.com/top-vcs-investing-hardware-startups/ … via @ErmannoCece for #starTOOLS
+Fri Apr 24 05:01:03 PDT 2015 --  Visualize Streaming Data the Easy Way with OData http://ow.ly/LJ9By 
+Fri Apr 24 00:35:10 PDT 2015 --  How to use Task-based programming technology in Windows Azure Service Bus http://ow.ly/LJqIM 
+Thu Apr 23 02:28:39 PDT 2015 --  Microsoft @bizspark. In @UniCalPortale quante #startup che utilizzano #Azure! @MICTorino @mariofontana pic.twitter.com/xLD2OPCwX3
+Thu Apr 23 01:36:13 PDT 2015 --  Finalmente si inizia! Sono arrivati tutti i partecipanti del #bizspark #tagcosenza pic.twitter.com/ImJi0N0WEs
+Thu Apr 23 01:30:41 PDT 2015 --  Sta per iniziare il #bizspark IT Camp di @microsoftitalia pic.twitter.com/zcm3NR7Dir
+Thu Apr 23 00:16:08 PDT 2015 --  Ci siamo! #Microsoft @bizspark con @mariofontana al TechNest in collaborazione con @CalabriaStartup e #TAGCosenza http://cosenza.talentgarden.org/#!/events/microsoft-bizspark-camp-al-technest/ …
+Wed Apr 22 02:55:10 PDT 2015 --  Here U can find all info about Universal Windows Apps SDK for Azure Mobile Engagement http://ow.ly/LJtnY 
+Tue Apr 21 04:50:16 PDT 2015 --  Microsoft & Zend Partnership to Bring PHP Z-Ray To Azure App Service http://ow.ly/LJt05 
+Tue Apr 21 04:40:19 PDT 2015 --  How to Use the Azure IaaS backup capability http://ow.ly/LJrtu 
+Mon Apr 20 23:50:18 PDT 2015 --  Developer builds a Facebook Messenger app for Windows in 3 minutes @VentureBeat http://ow.ly/LwWpg  Code on GitHub http://ow.ly/LwWsH 
+Mon Apr 20 09:19:50 PDT 2015 --  #BeAGreatEvangelist first 2 secrets: *1* Be in love with your work (Your Passion) *2* Speak about the WHY and not about the How or the What
+Mon Apr 20 08:45:26 PDT 2015 --  Interesting article about how to receive positive feedback with a simple hack http://ow.ly/LJtEn 
+Mon Apr 20 08:45:24 PDT 2015 --  Azure Media Player free media content player 4 Azure Media Services.Dif browsers & devices with HTML/JScript http://ow.ly/LJrUf  @ewawra
+Mon Apr 20 04:25:12 PDT 2015 --  A Mobile-First Approach to Modern App Development http://ow.ly/LJ9rT 
+Mon Apr 20 00:20:15 PDT 2015 --  Try Azure Media Services integration with Azure CDN using the Portal or via the Media Services REST API 2.9 http://ow.ly/LwbeB 
+Sun Apr 19 07:23:00 PDT 2015 --  Getting ready for the show #swtorino @StartupRR @microsoftitalia @bizspark pic.twitter.com/r4p3cnK715
+Sat Apr 18 04:40:13 PDT 2015 --  Best Practices for Managing Devices using Azure Notification Hub http://ow.ly/LJ9m9 
+Thu Apr 16 13:10:55 PDT 2015 --  . @Docker 1.6 is up: Engine & Orchestration Updates, Registry 2.0, & @Windows Client Preview https://blog.docker.com/2015/04/docker-release-1-6/ … by @frazelledazzell
+Fri Apr 17 07:25:10 PDT 2015 --  An example of how to use .NET Micro Framework to create embedded applications http://ow.ly/LJ9ds 
+Fri Apr 17 06:06:53 PDT 2015 --  A concludere la categoria Innovation c'è Mydea, un nuovo modo di crowdfunding per creare app #ImagineCup @MSFTImagine pic.twitter.com/xsCObY7oYK
+Fri Apr 17 03:34:43 PDT 2015 --  "Passione - Determinazione - Coraggio. Queste sono le carte per costruire il vostro futuro" @FabioSantini71 #ImagineCup @MSFTImagine
+Thu Apr 16 10:32:51 PDT 2015 --  @bizspark @mariofontana @msimpresa on line il nuovo sito di sardegnastartup! http://www.sardegnastartup.it 
+Fri Apr 17 02:30:17 PDT 2015 --  Free ebook: Microsoft Azure Machine Learning http://ow.ly/LJr8O  /c @ewawra
+Fri Apr 17 01:15:20 PDT 2015 --  .NET Portability Analyzer to create Portable Class Libraries (PCL) compatible with .NET Core Cross-Platform http://ow.ly/LJ8P9 
+Mon Apr 13 06:15:00 PDT 2015 --  Ecco come usare Gadgeteer con #Azure Blob Storage e creare un device #IoT per raccogliere dati! http://spr.ly/601045Gw 
+Wed Apr 15 05:50:26 PDT 2015 --  Uno show speciale dedicato all'innovazione e alla tecnologia! Ti presentiamo #TechHeroes! http://spr.ly/6011446W 
+Thu Apr 16 03:37:02 PDT 2015 --  Meno uno! E domani sarà #ImagineCup! Leggi tutti i dettagli della competizione per giovani #dev http://spr.ly/60174hwX !
+Thu Apr 16 02:03:43 PDT 2015 --  Ready? Go! @bizspark IT Camp @LeCantelmo pic.twitter.com/1PXIgkYami
+Thu Apr 16 01:25:09 PDT 2015 --  #BizSpark IT Camp attendees: simplifying Virtual Machine Troubleshooting using Azure Log Collector http://ow.ly/LwbF9 
+Thu Apr 16 00:15:15 PDT 2015 --  #BizSpark IT Camp attendees:very useful HOW TO install and configure Azure PowerShell http://ow.ly/LwaKb  (you will save a lot of time :)
+Wed Apr 15 08:35:37 PDT 2015 --  8 ore hacking Microsoft #Azure al Bizspark IT Camp.siamo quasi alla fine!tutti resistono fino alla fine:) pic.twitter.com/OKHYoucUX4
+Wed Apr 15 08:10:23 PDT 2015 --  Valuable tip to protect large data disks using Azure Site Recovery http://ow.ly/Lwaim 
+Wed Apr 15 07:46:38 PDT 2015 --  Nei Bizspark camp usiamo sempre @ErikaPinnetta per fare le demo :) @Puglia_Startup @fabrydominici @Manuel_Gaetani pic.twitter.com/kvQU7XmwKy
+Wed Apr 15 05:52:13 PDT 2015 --  @Manuel_Gaetani @bizspark @MICTorino @mariofontana e domani #Lecce :-)
+Wed Apr 15 02:28:00 PDT 2015 --  #TecHeroes, il nuovo show italiano su @ch9 è oggi live! Segui la prima puntata! http://spr.ly/60144Nn8  pic.twitter.com/Nc9kDBalFV
+Wed Apr 15 03:08:41 PDT 2015 --  Hacking Microsoft #Azure al #Bizspark IT Camp a Bari! @Puglia_Startup @msdev_ita @unibait #digitalipercrescere pic.twitter.com/RCBOpf1Glr
+Wed Apr 15 02:44:58 PDT 2015 --  É iniziato il @bizspark IT Camp in Puglia. Oggi a #Bari. @MICTorino @mariofontana pic.twitter.com/eDEjyQtHCY
+Wed Apr 15 02:25:13 PDT 2015 --  #BizSpark IT Camp attendees: simplifying Virtual Machine Troubleshooting using Azure Log Collector http://ow.ly/LwbsM 
+Wed Apr 15 00:15:14 PDT 2015 --  #BizSpark IT Camp attendees:very useful HOW TO install and configure Azure PowerShell http://ow.ly/LwaHF  (you will save a lot of time :)
+Tue Apr 14 11:25:14 PDT 2015 --  JavaScript experts: Microsoft's new #Spartan browser rocks. Interesting article http://ow.ly/LwXRX 
+Tue Apr 14 05:20:28 PDT 2015 --  A great example of a Windows app taking advantage of the #Surface Pen http://ow.ly/LwXC7 
+Tue Apr 14 02:53:29 PDT 2015 --  Free ebook about data science & Microsoft Azure Machine Learning service: http://sqlblog.com/blogs/sergio_govoni/archive/2015/04/10/free-ebook-data-science-in-the-cloud-with-azure-machine-learning.aspx …
+Tue Apr 14 02:50:02 PDT 2015 --  Introduction to live encoding with Azure Media Services http://azure.microsoft.com/blog/2015/04/13/an-introduction-to-live-encoding-with-azure-media-services/ …
+Tue Apr 14 02:40:08 PDT 2015 --  The importance of talking to your kids about the bits and the bytes http://ow.ly/LwVsf 
+Mon Apr 13 08:30:44 PDT 2015 --  A great selection of Microsoft Azure options for Java developers http://ow.ly/LwcAk  /c @ewawra @ilPierfra
+Mon Apr 13 06:30:21 PDT 2015 --  Microsoft closes acquisition of Revolution Analytics http://ow.ly/LwYpM  to unlock the power of the R language 4 analytics on big data.
+Mon Apr 13 05:19:43 PDT 2015 --  The new #Spartan browser to test HTML5/Javascript games...http://ow.ly/LwXRX  /c @ewawra @ValexPix @ValexEGO
+Mon Apr 13 03:10:48 PDT 2015 --  A breve la prima puntata del nuovo show @ch9! #TecHeroes! Ecco nome e logo #devs #startups #students #itpros #people pic.twitter.com/KDggOq8WQh
+Sun Apr 12 23:55:06 PDT 2015 --  Valuable tip to protect large data disks using Azure Site Recovery http://ow.ly/Lwa3m 
+Fri Apr 10 09:42:10 PDT 2015 --  Heros stiamo lavorando per voi ... in anteprima dello studio della nuova trasmissione tutta italiana su @ch9 ! Wow! pic.twitter.com/3eGEdGxZkM
+Fri Apr 10 01:00:58 PDT 2015 --  @pietrobr ci llustra come integrare servizi cloud in un' applicazione mobile con #MicrosoftAzure @TripCityMap #droidconit
+Thu Apr 09 06:30:32 PDT 2015 --  . @MicrosoftItalia & @ST_World #IoT great partnership signed today in Italy #IoYT pic.twitter.com/jBp9qzeBQR
+Tue Apr 07 10:14:24 PDT 2015 --  In Italia il prossimo 10 giugno arriva #Build2015 https://milan.build15.com/  Vi aspettiamo! pic.twitter.com/nyanlnHUpN
+Wed Apr 01 06:50:25 PDT 2015 --  Torna @bizspark il 23 aprile a Cosenza organizzato insieme a @TalentGardenit e il technest http://bit.ly/1xsM45l  pic.twitter.com/xNNiuY09Kx
+Fri Apr 03 12:34:03 PDT 2015 --  Introducing the 2.0 .NET Driver for #MongoDB http://buff.ly/1DFxwAK  #dotnet
+Fri Apr 03 11:49:26 PDT 2015 --  Quale azienda é meglio posizionata su questi trend? @purassan @microsoftitalia pic.twitter.com/b6nKLYEErO
+Fri Apr 03 01:19:08 PDT 2015 --  18 Incredible Places You Won’t Believe Are Actually In London http://www.buzzfeed.com/chelseypippin/london-beyond-zone-3?utm_term=.xlMJeD8W97 … via @chelspipp @buzzfeed
+Wed Apr 01 03:51:05 PDT 2015 --  Tic tac tic tac...quasi pronti a raccontare l'innovazione! #Devs, #ITPros, #Startups, #Students, #Innovators, #People pic.twitter.com/uTx8dih6wA
+Wed Apr 01 07:09:23 PDT 2015 --  Oggi #bizspark camp @innovlab Milano review architetturali #Azure dedicate ai team @mariofontana #digitalipercrescere pic.twitter.com/dBbmSINz5U
+Tue Mar 31 11:17:53 PDT 2015 --  #Devs, #ITPros, #Startups, #Students, #Innovators, #People...in arrivo nuovo show @ch9 dedicato ad Eroi veri! Ready? pic.twitter.com/pyTxQO2I5K
+Tue Mar 31 10:00:01 PDT 2015 --  Get started with #PowerShell! This intro course will help break it down: http://spr.ly/6017NdEX  #ITPro
+Mon Mar 30 15:00:38 PDT 2015 --  Project Spartan available now for #WindowsInsiders in the latest PC build: http://wndw.ms/Z9Wo0F  #Windows10 pic.twitter.com/AZJzgF7yii
+Mon Mar 30 22:00:54 PDT 2015 --  Gartner names #Microsoft a Leader in the Enterprise Application PaaS MQ #Azure @purassan @FabioSantini71 http://gtnr.it/1GUGqct 
+Tue Mar 31 01:18:40 PDT 2015 --  Interessante la TagCloud di @CodemotionIT Roma di quest'anno! #microsoft #windows10 /cc @msdev_ita @msimpresa pic.twitter.com/pBNua0GBUb
+Tue Mar 31 01:57:14 PDT 2015 --  @MICTorino @bizspark @Azure @I3P_Torino @IsmbOnweb @ErikaPinnetta @Manuel_Gaetani @mariofontana @fabrydominici @microsoftitalia Great job!!!
+Tue Mar 31 01:45:36 PDT 2015 --  #BizSpark #Camp #LED #Torino formazione e consulenza gratuita alle #startup su #Azure @purassan #digitalipercrescere pic.twitter.com/SYr30x7R5S
+Sun Mar 29 20:30:01 PDT 2015 --  The Master Chief returns October 27th. #HUNTtheTRUTH #Halo5 pic.twitter.com/d3QQIjzDop
+Sun Mar 29 21:09:39 PDT 2015 --  10 Rules for a Great Start-Up Idea pic.twitter.com/HWsH9P73SC
+Sat Mar 28 09:28:10 PDT 2015 --  Ah! Ma quello a sinistra e' Enzo? Nn l'avevo riconosciuto! :) #joke @vitomacina @la_sarcam @msdev_ita @innosans
+Sat Mar 28 09:17:19 PDT 2015 --  .Great news on @IntelRealSense & @RealSenseSDK for #Win10Dev are coming! Keep our channels on @IntelSoftware as seen at #Codemotion
+Fri Mar 27 11:06:46 PDT 2015 --  #Startup per Microsoft è sinonimo di #BizSpark un programma triennale che ti aiuta a portare la tua idea sul mercato #codemotion
+Sat Mar 28 06:55:35 PDT 2015 --  Non solo cibo: ecco i temi che animeranno il padiglione Usa in #Expo2015 #SaC15 pic.twitter.com/H9vkldCTD3
+Sat Mar 28 09:12:20 PDT 2015 --  Vabbè ci penserò io la prossima volta :) @la_sarcam @ValexPix @innosans @GamePix @CodemotionIT @msdev_ita
+Sat Mar 28 09:04:47 PDT 2015 --  ma prima di dare a @valexpix il gadget gli avete fatto una domanda su azure? :) @innosans @GamePix @CodemotionIT @msdev_ita @la_sarcam
+Sat Mar 28 07:29:03 PDT 2015 --  Perché a #scuola dobbiamo insegnare a #programmare (e non Paint!) http://www.chefuturo.it/2015/03/perche-a-scuola-dobbiamo-insegnare-a-programmare-e-non-paint/ … pic.twitter.com/yRhnALdXXI
+Sat Mar 28 07:18:01 PDT 2015 --  " @USAPavilion2015: @microsoftitalia @ildani70 'we are proud to be part of this program' #SeedsandChips pic.twitter.com/ROIZGtUgdH"
+Sat Mar 28 07:07:20 PDT 2015 --  1 saluto a tutti quelli ke non sono riuscito a salutare di persona. @CodemotionIT e' sempre bello esserci @la_sarcam @msdn_ita @nicolamattina
+Sat Mar 28 06:43:27 PDT 2015 --  @msdev_ita Anna & Anna senza cui questi ultimi giorni non sarebbero stati possibili!! #grazie pic.twitter.com/Ooq3Hv8lAZ
+Sat Mar 28 02:39:03 PDT 2015 --  A #Codemotion arrivano interessanti suggerimenti sui gadget per i prossimi eventi.. @msdev_ita pic.twitter.com/7lvUn0qNeG
+Sat Mar 28 03:44:33 PDT 2015 --  Un piccolo cambiamento nei rapporti tra @msdev_ita e le #community /cc @_ericabarone @la_sarcam http://blogs.msdn.com/b/italy/archive/2015/03/27/un-piccolo-cambio-nei-rapporti-con-le-community-dev.aspx …
+Sat Mar 28 06:05:43 PDT 2015 --  An IT titans meeting: @bertelli @qmatteoq and Tanembaum at #Codemotion pic.twitter.com/aWNGfKJfGK
+Sat Mar 28 05:31:41 PDT 2015 --  Con gli amici di @GamePix che utilizzano con successo #Azure @CodemotionIT! @msdev_ita @mariofontana @la_sarcam pic.twitter.com/HHL89lJUO5
+Sat Mar 28 04:14:12 PDT 2015 --  Going to #startup is different than opening a restaurant @tobdea #StartupInAction #codemotion @innovlab @EnLabs pic.twitter.com/QyhpRrClIA
+Sat Mar 28 04:03:22 PDT 2015 --  @CodemotionIT @tobdea @LVentureGroup @EnLabs @innovlab I wish I were there :-) Forza Codemotion!
+Sat Mar 28 03:59:24 PDT 2015 --  "Vi aspetto Sul più vecchio Social Network del mondo: la tavola" @gnammo @GianLucaRanno #SaC15 #Expo2015 #socialeating @4expo #innovazione
+Sat Mar 28 01:00:51 PDT 2015 --  Grande affluenza al booth #intelsoftware con @francesco_1985 #Codemotion @intelsoftware pic.twitter.com/Ntwn25iuiY
+Fri Mar 27 07:37:41 PDT 2015 --  @TrackFilo #Codemotion! Venite a scoprire la promozione che abbiamo riservato per tutti i partecipanti di @CodemotionIT Roma !!!
+Sat Mar 28 03:05:41 PDT 2015 --  @mariofontana è colpa di @mrredsend ;) @CodemotionIT @la_sarcam @msdev_ita @ewawra @ValexPix @andimar
+Sat Mar 28 03:01:18 PDT 2015 --  @mariofontana @CodemotionIT @la_sarcam @msdev_ita @ewawra @ValexPix @andimar @duplikey Action figure degli eroi di MS é un'idea mica male :)
+Sat Mar 28 02:53:24 PDT 2015 --  @andimar @mariofontana che bella coppia #Codemotion pic.twitter.com/FJVkwFkFGJ
+Sat Mar 28 02:54:11 PDT 2015 --  #MFPUPPET Ce n'è di gente strana @CodemotionIT @la_sarcam @msdev_ita @ewawra @valexpix @andimar @duplikey pic.twitter.com/DXxcq8vqy6
+Sat Mar 28 02:39:26 PDT 2015 --  Belle sorprese al #Codemotion: è venuto a trovarci un amico di #Azure @duplikey cc @mariofontana @la_sarcam pic.twitter.com/Ie7XgWN4oH
+Fri Mar 27 08:03:00 PDT 2015 --  "I #developer sono i supereroi di oggi: risolvono problemi senza arrendersi e cercando nuove soluzioni" #codemotion pic.twitter.com/mac0W9kWfa
+Fri Mar 27 08:33:26 PDT 2015 --  Tu che desideri "più collegamento fra università e #Microsoft": diventa un Microsoft Student Partner! #codemotion pic.twitter.com/QJScTgOmPo
+Sat Mar 28 01:34:34 PDT 2015 --  Foto? Quale foto? @magobaol @ewawra @ValexPix @massimobonanni pic.twitter.com/kxNABgN9mb
+Fri Mar 27 10:11:07 PDT 2015 --  Changing the world of food w Feeding the Accelerator -1d to join #Startups #Food #Innovation http://bit.ly/19puUdw  pic.twitter.com/XlbttUxrbx
+Thu Mar 26 12:09:21 PDT 2015 --  Node.js for Visual Studio has hit Version 1.0! It's FREE and it's awesome. Includes debugging, testing, profiling! http://blogs.msdn.com/b/visualstudio/archive/2015/03/25/node-js-tools-1-0-for-visual-studio.aspx …
+Fri Mar 27 15:28:33 PDT 2015 --  @ErikaPinnetta @_geniodelmale @robandre @msdev_ita Grazie Eri abbiamo promosso tanto anche BizSpark con @mariofontana
+Fri Mar 27 10:58:52 PDT 2015 --  #Microsoft #Meetup at #Codemotion. Let's go! With @_geniodelmale @_ericabarone @qmatteoq @mariofontana pic.twitter.com/a5m5DdvWSz
+Thu Mar 26 08:10:19 PDT 2015 --  "Il Sole 24 ORE - Accordo Microsoft - TeamSystem all’insegna di cloud e mercati esteri http://24o.it/b76MM8 " pic.twitter.com/rSus49Awf3
+Fri Mar 27 07:24:54 PDT 2015 --  La dura vita del barcamperista tra una startup e l'altra @ildani70 @la_sarcam @ewawra @valexpix @_geniodelmale pic.twitter.com/p6ILnrNHGZ
+Fri Mar 27 07:07:35 PDT 2015 --  Grande successo per il talk su #RealSense di @IntelSoftware: @francesco_1985 con un'aula strapiena! #codemotion pic.twitter.com/7iUF3VjbvK
+Fri Mar 27 06:38:58 PDT 2015 --  Mai vista una connessione così veloce ad una conferenza in Italia... Bravissimi @CodemotionIT @chiararu pic.twitter.com/z79KnXql7d
+Fri Mar 27 06:05:38 PDT 2015 --  Microsoft @BizSpark Camp, organized in collaboration with @I3P_Torino and @MICTorino, 5 days to go! http://ow.ly/Jc7en 
+Fri Mar 27 06:04:26 PDT 2015 --  Hai lasciato il tuo feedback? Vieni a leggere la risposta dei nostri evangelist nel wall di #Microsoft #codemotion pic.twitter.com/5eXDceLu8M
+Fri Mar 27 05:15:43 PDT 2015 --  Detect #timestomp with #sysmon. Thx @markrussinovich & @mxatone for this tool https://github.com/JamesHabben/sysmon-queries … #dfir #infosec pic.twitter.com/ATbBqm8BE5
+Fri Mar 27 05:58:12 PDT 2015 --  Molto coinvolgenti i ragazzi nell'area Microsoft a @CodemotionIT @la_sarcam @robandre pic.twitter.com/RB6X2z6Oll
+Fri Mar 27 03:53:05 PDT 2015 --  . @_geniodelmale stiamo cercando Mobile Dev #android e #ios https://www.spreaker.com/jobs  - ci aiuti a spargere voce? ;) pic.twitter.com/0TmevPaWy2
+Wed Mar 25 11:21:00 PDT 2015 --  Node.js Tools 1.0 for @VisualStudio now available for download http://spr.ly/6015ND7P 
+Fri Mar 27 03:43:33 PDT 2015 --  Another full room for @xamarinhq session by @qmatteoq at #Codemotion pic.twitter.com/4EPR01TdNK
+Fri Mar 27 03:39:01 PDT 2015 --  #Microsoft @Azure for student developers helps students take advantage of the #cloud for free http://aka.ms/i735fs  #STEM
+Fri Mar 27 03:31:37 PDT 2015 --  #ritornoalpassato #nostalgia @CodemotionIT #commodore64 10 ?"COMMODORE 64" 20 GOTO 10 RUN pic.twitter.com/xe7yrBZ2lp
+Fri Mar 27 03:15:00 PDT 2015 --  Il mattino ha l'oro in bocca: se sei alla ricerca di opportunità della tua #startup prova su #digitalipercrescere http://spr.ly/6013Nzhv 
+Fri Mar 27 03:11:28 PDT 2015 --  #startup vi aspettiamo al #barcamper come ogni anno @CodemotionIT @lisdis pic.twitter.com/ooS67RRtEA
+Fri Mar 27 02:37:41 PDT 2015 --  L'Xbox è sempre l'Xbox @CodemotionIT @la_sarcam @robandre @_geniodelmale pic.twitter.com/bqvHSlFXce
+Fri Mar 27 02:32:45 PDT 2015 --  Il Microsoft Openness Community Meetup Board prende vita... @CodemotionIT @_geniodelmale @la_sarcam pic.twitter.com/IoGqfecY1y
+Fri Mar 27 02:02:17 PDT 2015 --  . @_ericabarone pronta a raccontare le ultime novità di #Windows10 #codemotion
+Fri Mar 27 02:00:01 PDT 2015 --  . @_ericabarone scalda i motori per la sessione. #win10 #Codemotion @CodemotionIT @msdev_ita pic.twitter.com/Xdx6xBjVHJ
+Fri Mar 27 01:30:48 PDT 2015 --  DevOps Interesting article about using Resource Groups to manage your Azure resources http://ow.ly/JFDTq 
+Thu Mar 26 16:02:26 PDT 2015 --  . @mariofontana @roberta_aspesi @carl0s_ @kruxxx @_ericabarone @la_sarcam una serata eccezionale e non solo per la cena!!!
+Thu Mar 26 13:43:50 PDT 2015 --  Ready Stady Talk: influencers dinner @msdev_ita @roberta_aspesi @robandre @FabioSantini71 @alessio biancalana pic.twitter.com/w9LDxTwOLb
+Thu Mar 26 15:58:11 PDT 2015 --  La tavola dei più belli e dei più bravi parlando si azure, startup e band @ewawra @valexpix @magobaol @massimobonanni M. Ciarletti
+Thu Mar 26 13:29:02 PDT 2015 --  @roberta_aspesi @carl0s_ @kruxxx @_geniodelmale @_ericabarone @mariofontana @la_sarcam mangiate anche per me e un saluto a tutti!
+Thu Mar 26 03:43:31 PDT 2015 --  New Service "Azure App Service" http://ow.ly/KP34a  ...coming soon on #BizSpark Italy Camps :-)
+Wed Mar 25 02:18:29 PDT 2015 --  E @Azure rocks! @pietrobr @PiperITaPRO #cdays15 pic.twitter.com/vsgkViXThF
+Wed Mar 25 04:09:49 PDT 2015 --  #android #ios and html5/jscript lab with #azure mobile services at #bizspark camp @innovlab Rome @msdev_ita @msdev pic.twitter.com/C6NaNDxvSC
+Tue Mar 24 18:01:32 PDT 2015 --  Preview for #Azure Mobile Engagement 4 real-time usr segmentation,usr analytics,smart push not.&in-app messaging http://ow.ly/JFDzK 
+Tue Mar 24 05:52:37 PDT 2015 --  Lean startup con Microsoft Azure alle 14 in sala 5 ai #CDAYS15 @gamepix @ilpierfra @ewawra @valexpix
+Tue Mar 24 02:18:22 PDT 2015 --  #CDAYS15 si parte! WOW che emozione! Grazie a tutte le Persone e alla loro Passione per la Tecnologia e l'Innovazione pic.twitter.com/l39LP5KQMz
+Tue Mar 24 02:04:18 PDT 2015 --  L'invasione pacifica dei #CDays15 #Photosynth pic.twitter.com/pv76zMSLtR
+Tue Mar 24 02:11:31 PDT 2015 --  @gisardo Dream again with Win10 @chiararo @msdev_ita @microsoftitalia pic.twitter.com/IcafpNRn5k
+Tue Mar 24 01:50:22 PDT 2015 --  Iniziamo #CDAYS!!!! pic.twitter.com/o4OjkjHj7z
+Mon Mar 23 08:50:13 PDT 2015 --  Curiosi come Azure ha aiutato la startup #GamePix a diventare leader mondiale come piattaforma di giochi HTML5?Domani alle 14 ai #CDAYS15
+Fri Mar 20 07:18:15 PDT 2015 --  Descrizione dettagliata dei #BizSpark Camp: Cosa sono, come funzionano e come trarne il massimo vantaggio... http://ow.ly/KAmKL 
+Fri Mar 20 06:58:18 PDT 2015 --  Grazie @Piersoft per la presentazione sugli Open Data al Microsoft #BizSpark Camp di Lecce...
+Fri Mar 20 04:43:49 PDT 2015 --  At #work @Microsoft BizSpark Camp #Startup #Community pic.twitter.com/iiAdeXQNCa @the_qube parleremo di #opendata contest Lecce @DigitalChampITA
+Fri Mar 20 03:11:38 PDT 2015 --  I @bizspark Camp di @microsoftitalia raccontati da @mariofontana http://blogs.msdn.com/b/italy/archive/2015/03/20/i-bizspark-camp-cosa-sono-come-funzionano-e-come-trarne-il-massimo-vantaggio.aspx … @msdev_ita @msimpresa @_jetiba @ildani70 #startup
+Fri Mar 20 03:24:30 PDT 2015 --  #BizSpark Camp a Lecce @microsoftitalia @purassan @la_sarcam @mariofontana @LisariOfficial pic.twitter.com/bWVMiUNZSq
+Fri Mar 20 03:36:52 PDT 2015 --  Today the first @bizspark Camp #Lecce for #startups in collaboration with @the_qube @VecchioAntonio @Puglia_Startup pic.twitter.com/7EUARfyC8R
+Thu Mar 19 12:16:04 PDT 2015 --  Microsoft sovversiva: ecco la rivoluzione delle startup, dalla scuola all’impresa http://www.chefuturo.it/2015/03/microsoft-sovversiva-ecco-la-rivoluzione-delle-startup-dalla-scuola-allimpresa/ …
+Thu Mar 19 04:29:16 PDT 2015 --  La prossima colletta la gestiamo in digitale con @Squeezol bella startup #StartupRR @Crikik85 @Fabietto2005 @sabinab @RobiBertolotti
+Thu Mar 19 06:05:37 PDT 2015 --  Limit the exposure of sensitive data in Azure SQL Database using the new Dynamic Data Masking service (PREVIEW) http://ow.ly/JFC6H 
+Thu Mar 19 04:35:00 PDT 2015 --  We heard you: MSBuild Engine is now Open Source on #GitHub! http://msft.it/6016251I  #Dotnet #OSS pic.twitter.com/jSsIMkC8ec
+Thu Mar 19 03:18:49 PDT 2015 --  50.000 ragazzi formati e 1500 nuovi posti di lavoro: i numeri di un anno di @StartupRR @purassan #startupRR pic.twitter.com/3qNVn6OG1f
+Thu Mar 19 04:39:04 PDT 2015 --  Grande @giorgiosadolfo ottimo lavoro @StartupRR @5anatre @RMagnifico @EnLabs @gigicapello

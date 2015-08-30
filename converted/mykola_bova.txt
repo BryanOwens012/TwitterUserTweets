@@ -1,0 +1,38 @@
+Wed Aug 26 06:54:33 PDT 2015 --  Insider's blog.: У этого кандидата слишком общие навыки перечислены... http://growth4u.blogspot.com/2015/08/blog-post.html?spref=tw …
+Tue Jul 28 08:38:20 PDT 2015 --  Woohoo! All-new Webasyst #Dashboard is finally available! https://www.webasyst.com/blog/please-welcome-webasyst-dashboard-140-shopscript-610-and-default-3/ … pic.twitter.com/EaBGgSjLYU
+Sun Aug 16 08:20:39 PDT 2015 --  #frontendweekend UA dev channels in Gitter Thanks to @listochkin https://github.com/dev-ua?page=1 
+Sun Aug 16 07:36:03 PDT 2015 --  - Кто ещ' хочет? - Я хочу! https://twitter.com/hraboviyvadim/status/632916250914627586 …
+Sun Aug 16 07:35:26 PDT 2015 --  #frontendweekend Бимба!!! АНДРЕЙ ЛИСТОЧКИН Ember - мой секрет продуктивности
+Thu Aug 13 06:46:39 PDT 2015 --  Ember.js 2.0 Released: http://emberjs.com/blog/2015/08/13/ember-2-0-released.html … (A tidy up/cruft-removing release, but let's celebrate anyway.) pic.twitter.com/wiCJdEQZ5O
+Sun Aug 16 06:41:34 PDT 2015 --  #frontendweekend Good twitter groups http://frontendweekend.uwcua.com/?mc_cid=8af7dbb57f&mc_eid=49a2a7e0e9 …
+Sun Aug 16 06:00:01 PDT 2015 --  jQuery Multiselect Plugin with Two Sides http://www.jqueryrain.com/2015/08/jquery-multiselect-plugin-with-two-sides/ … via @twitter_username
+Fri Jun 12 05:13:03 PDT 2015 --  BackstopJS: an open-source CSS regression testing tool, using Resemble.js, CasperJS and PhantomJS https://garris.github.io/BackstopJS/ 
+Wed Jun 24 06:29:55 PDT 2015 --  Remove unused CSS https://github.com/purifycss/purifycss …
+Sun Aug 16 05:41:51 PDT 2015 --  #frontendweekend A tool for creating and composing asynchronous promises in JavaScript http://documentup.com/kriskowal/q/ 
+Sun Aug 16 04:13:51 PDT 2015 --  Is it just me? Every time I hear anything about JavaFX... pic.twitter.com/W9TVah0jHj
+Sun May 31 06:47:08 PDT 2015 --  Почему-то все смеются, когда спикер говорит 'fuck' или ' javascript'. #rubyc
+Fri Aug 07 05:28:46 PDT 2015 --  Debugging pic.twitter.com/3CWHcT6ndi
+Wed Aug 12 14:19:49 PDT 2015 --  "So, this is an unpaid internship?" "Yes. Think of it as a doorway to business success" "Like your business?" "Yes" "That can't pay interns"
+Sun Aug 16 02:42:41 PDT 2015 --  http://kpdecker.github.io/six-speed/ 
+Sun Aug 16 03:35:53 PDT 2015 --  No double writing concurrent code is tough but you can make your life easy by following these best practices,... http://fb.me/2arAfeBES 
+Sat Nov 29 01:18:28 PST 2014 --  "..говоря о перфомансе, React - быстрый, понятный. Jade - быстрый, непонятный. Angular - не быстрый и не понятный" Антон Казка на #KyivJS
+Tue Aug 11 16:39:53 PDT 2015 --  Node.js + io.js = Node https://github.com/nodejs/node 
+Wed Aug 26 06:54:33 PDT 2015 --  Insider's blog.: У этого кандидата слишком общие навыки перечислены... http://growth4u.blogspot.com/2015/08/blog-post.html?spref=tw …
+Tue Jul 28 08:38:20 PDT 2015 --  Woohoo! All-new Webasyst #Dashboard is finally available! https://www.webasyst.com/blog/please-welcome-webasyst-dashboard-140-shopscript-610-and-default-3/ … pic.twitter.com/EaBGgSjLYU
+Sun Aug 16 08:20:39 PDT 2015 --  #frontendweekend UA dev channels in Gitter Thanks to @listochkin https://github.com/dev-ua?page=1 
+Sun Aug 16 07:36:03 PDT 2015 --  - Кто ещ' хочет? - Я хочу! https://twitter.com/hraboviyvadim/status/632916250914627586 …
+Sun Aug 16 07:35:26 PDT 2015 --  #frontendweekend Бимба!!! АНДРЕЙ ЛИСТОЧКИН Ember - мой секрет продуктивности
+Thu Aug 13 06:46:39 PDT 2015 --  Ember.js 2.0 Released: http://emberjs.com/blog/2015/08/13/ember-2-0-released.html … (A tidy up/cruft-removing release, but let's celebrate anyway.) pic.twitter.com/wiCJdEQZ5O
+Sun Aug 16 06:41:34 PDT 2015 --  #frontendweekend Good twitter groups http://frontendweekend.uwcua.com/?mc_cid=8af7dbb57f&mc_eid=49a2a7e0e9 …
+Sun Aug 16 06:00:01 PDT 2015 --  jQuery Multiselect Plugin with Two Sides http://www.jqueryrain.com/2015/08/jquery-multiselect-plugin-with-two-sides/ … via @twitter_username
+Fri Jun 12 05:13:03 PDT 2015 --  BackstopJS: an open-source CSS regression testing tool, using Resemble.js, CasperJS and PhantomJS https://garris.github.io/BackstopJS/ 
+Wed Jun 24 06:29:55 PDT 2015 --  Remove unused CSS https://github.com/purifycss/purifycss …
+Sun Aug 16 05:41:51 PDT 2015 --  #frontendweekend A tool for creating and composing asynchronous promises in JavaScript http://documentup.com/kriskowal/q/ 
+Sun Aug 16 04:13:51 PDT 2015 --  Is it just me? Every time I hear anything about JavaFX... pic.twitter.com/W9TVah0jHj
+Sun May 31 06:47:08 PDT 2015 --  Почему-то все смеются, когда спикер говорит 'fuck' или ' javascript'. #rubyc
+Fri Aug 07 05:28:46 PDT 2015 --  Debugging pic.twitter.com/3CWHcT6ndi
+Wed Aug 12 14:19:49 PDT 2015 --  "So, this is an unpaid internship?" "Yes. Think of it as a doorway to business success" "Like your business?" "Yes" "That can't pay interns"
+Sun Aug 16 02:42:41 PDT 2015 --  http://kpdecker.github.io/six-speed/ 
+Sun Aug 16 03:35:53 PDT 2015 --  No double writing concurrent code is tough but you can make your life easy by following these best practices,... http://fb.me/2arAfeBES 
+Sat Nov 29 01:18:28 PST 2014 --  "..говоря о перфомансе, React - быстрый, понятный. Jade - быстрый, непонятный. Angular - не быстрый и не понятный" Антон Казка на #KyivJS
+Tue Aug 11 16:39:53 PDT 2015 --  Node.js + io.js = Node https://github.com/nodejs/node 

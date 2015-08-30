@@ -1,0 +1,9 @@
+Fri Aug 28 14:30:01 PDT 2015 --  Got @CodeCombat for my 10 yo daughter and now I can't pry her away from the PC!
+Tue Aug 18 11:52:32 PDT 2015 --  "Announcing Backup of Windows 10 machines using Azure Backup" http://azure.microsoft.com/blog/2015/08/18/announcing-backup-of-windows-10-machines-using-azure-backup/ …
+Sun Aug 23 18:50:07 PDT 2015 --  New blog post on UWP Drag and Drop. Enjoy! :) http://www.shenchauhan.com/blog/2015/8/23/drag-and-drop-in-uwp … #UWP #XAML #dragAndDrop #csharp
+Thu Aug 27 14:11:05 PDT 2015 --  No, Microsoft is not spying on you with Windows 10. by @edbott http://www.zdnet.com/article/no-microsoft-is-not-spying-on-you-with-windows-10/ …
+Thu Aug 27 03:54:56 PDT 2015 --  Got Caliburn.Micro v3 Beta 1 working with SplitView control in a UWP app. Woot! #MVVMForTheWin
+Thu Aug 27 02:14:53 PDT 2015 --  My Win 10 PC is like a naughty child: I keep putting it to sleep, it keeps waking up when I'm not looking
+Mon Aug 24 16:34:01 PDT 2015 --  Why it’s sad to be a Windows Phone developer http://thewindev.net/why-its-sad-to-be-a-windows-phone-developer/ …
+Sat Aug 22 01:11:39 PDT 2015 --  I sure hope Microsoft is receiving exception reports for Edge! It seems most likely to crash when I'm not doing anything; it just disappears
+Mon Aug 10 01:34:25 PDT 2015 --  2000: Can't do anything. Waiting for my code to build. 2015: Can't do anything. Waiting for updates to install and reboot

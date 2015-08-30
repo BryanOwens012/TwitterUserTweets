@@ -1,0 +1,4 @@
+Fri Aug 14 06:00:20 PDT 2015 --  Episode 22 is live! David Stone tells us about his #cplusplus bounded integer library: http://bit.ly/1NtVLE6  pic.twitter.com/yuy0OHhbir
+Fri Aug 21 10:13:03 PDT 2015 --  Kick off your Friday by listening to us chat about C++ and gamedev :D https://twitter.com/cppcast/status/634711630488571904 …
+Mon Mar 30 19:01:59 PDT 2015 --  Did you know CppCast is on Facebook too? Please give us a like! http://on.fb.me/1xuqX2H  #cplusplus
+Fri Aug 28 06:00:15 PDT 2015 --  Episode 24 is live! @edouarda14 talks about real world #cplusplus template metaprogramming. http://cppcast.com/2015/08/edouard-alligand/ … pic.twitter.com/1wx6rGwUxZ

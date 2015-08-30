@@ -1,0 +1,38 @@
+Fri Aug 28 00:55:09 PDT 2015 --  Great to be back on a #snowboard bring on #winter and more #cheeky fs #boardslides pic.twitter.com/KoRtbw7ajF
+Thu Aug 27 03:49:45 PDT 2015 --  Today's lunch will be sponsored by #mexico - finally finishing the #enchiladas - just call me el matt-o :) #GreatFood #BringMeABurrito
+Thu Aug 27 03:47:14 PDT 2015 --  20 minutes trying to determine why a #log file was flled with 0's. Damn #PHP '.' #concatenation - why not throw an #exception for '+' ?
+Wed Aug 26 09:39:05 PDT 2015 --  Managed to #refactor halfing the processing time. I'm sure I can eek more #performance out #python
+Wed Aug 26 09:23:53 PDT 2015 --  That moment you realise the #bottleneck is a #ThirdParty module. #facepalm #python
+Wed Aug 26 00:19:13 PDT 2015 --  And the weather outside is weather.... #GreatBritishDissappointment https://twitter.com/Stewartbrough/status/636437509489205248 …
+Wed Aug 26 00:15:23 PDT 2015 --  #SolveMyProblemsIn4Words self.assertTrue(True) #python #unittest #jobdone
+Wed Aug 26 00:12:38 PDT 2015 --  Did #England forget how to #summer ? - #wholelottagrey
+Wed Aug 26 00:11:25 PDT 2015 --  I didn't wear a #poncho. Oh the #regrets.
+Tue Aug 25 14:42:28 PDT 2015 --  Have to be up at 5am to commute to #Brighton tomorrow. I might wear a #poncho. #mightyboosh pic.twitter.com/ebg4CfdZqd
+Tue Aug 25 04:14:39 PDT 2015 --  Python :: Unit testing, mock opens and iteration https://recursiveiterator.wordpress.com/2015/08/25/python-unit-testing-mock-opens-and-iteration/ … pic.twitter.com/1S4DqcwBWh
+Tue Aug 25 02:34:24 PDT 2015 --  I'm only returning true if .... lambda coffee : coffee is in ['me', 'kettle', 'mug', 'peculator', 'cafetiere'] #python #developer #lambda
+Mon Aug 24 02:17:06 PDT 2015 --  Getting my head around #API designing using #RAML and building using #Flask with #Blueprint - long live #microframeworks
+Mon Aug 24 00:14:25 PDT 2015 --  I think the #mondaymotivation and #FearTheWalkingDead hashtags are pretty closely linked.
+Sun Aug 23 08:30:14 PDT 2015 --  First time #bouldering today - oh the #blisters great time in Poole :)
+Sat Aug 22 03:14:04 PDT 2015 --  Every #programming junkie knows how good this feels (better than my hangover) #python #unittest #pep8 #dataanalysis pic.twitter.com/sFwKW4q87v
+Fri Aug 21 03:23:43 PDT 2015 --  #fridayfeeling I'm using the #chilled #beats of @chinesemanrec to ease myself through this afternoon. #TheGrooveSessions
+Fri Aug 21 01:01:00 PDT 2015 --  So my knee got featured in @CoolerMag thanks to @GirlsgRAD! #BMX #thisgirlcant #felloffmybike #scab pic.twitter.com/NFBtVdk9GZ
+Wed Aug 19 23:44:28 PDT 2015 --  Tried out #lasertag last night. Safe to say I aim like a #stormtrooper #starwars #staffwars
+Tue Aug 18 12:39:34 PDT 2015 --  #MakeLifeBetterIn3Words "Just eat #enchiladas " #Mexicanfood is #awesome
+Tue Aug 18 06:16:27 PDT 2015 --  #MakeLifeBetterIn3Words "The kettle's on" #tea #coffee #fancyabrew #afternoontea
+Mon Aug 17 01:55:47 PDT 2015 --  #TheresNothingWrongWith making the morning #brew in #python - I draw the line at #unittesting my #coffee #brewing def test_add_sugar(self)
+Mon Aug 17 01:53:45 PDT 2015 --  #MondayMorning - All aboard the #caffeine express to #coffee town. I'm ready #inbox - bring it on.
+Sat Aug 15 02:34:24 PDT 2015 --  Morning #americano in #cafenero just testing an ftp #script I wrote entirely with #mocks. It almost works #python #winning
+Fri Aug 14 13:06:21 PDT 2015 --  All about the world's end. #friday @NetflixUK @simonpegg @nickjfrost how's that for a slice of fried gold.
+Fri Aug 14 08:02:15 PDT 2015 --  Had not #internet for 3 hours - makes working tricky, doubly working from home - so created some unittest #scripts - #mocking the methods :)
+Fri Aug 14 00:55:03 PDT 2015 --  Discovered @fallout #shelter on #android - aaaaaand addicted.
+Fri Aug 14 00:08:33 PDT 2015 --  That #morning feeling when you feel your brain painfully shrinking to the size of a walnut. Happy #Friday everyone!
+Thu Aug 13 11:58:15 PDT 2015 --  Seeing @FantasticFour at #plazacinema #dorchester. @FlipFlopFLaura is glad there is no #TomCruise
+Thu Aug 13 08:22:05 PDT 2015 --  Picked up some @skullcandy #GRIND headphones - that and #coffee dangerous combo - over to @deadmau5 see me through the hour #stayloud
+Thu Aug 13 06:17:11 PDT 2015 --  God I hate not having a #desktop sometimes #oldschool #portablesucks #noperformance #noteven1080p #programming
+Thu Aug 13 01:39:42 PDT 2015 --  I'm quickly learning that #developers don't just write some #code, there is so much in the way of #setup, #testing, #docs, #vcs, #deployment
+Thu Aug 13 01:04:11 PDT 2015 --  #Workingfromhome whenever I visit the #office I like to do this at the end of the day.... #breakfastclub #eighties pic.twitter.com/tEBigFIgDa
+Wed Aug 12 08:28:29 PDT 2015 --  @mfmbarber @Stewartbrough Score! pic.twitter.com/RkQYRu5k1h
+Wed Aug 12 08:26:42 PDT 2015 --  "Is @AngryBirds any good?" @Stewartbrough "Well its better than being #stabbed".
+Wed Aug 12 00:15:51 PDT 2015 --  Overheard in #costa : 'I asked for a #cappuccino, not a #latte, what is this?' His wife meanwhile swapped drinks at the table #coffeegate
+Tue Aug 11 08:28:01 PDT 2015 --  #WhyIWouldMakeAGreatPresident You'd all get a free #coffee and #banana. #truestory - #whilestockslast #subjecttoavailiablity
+Tue Aug 11 08:26:44 PDT 2015 --  #CalmYourselfIn4Words You'll be #snowboarding soon

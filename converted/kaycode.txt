@@ -1,0 +1,192 @@
+Wed Aug 19 22:09:01 PDT 2015 --  啊～啊～七夕，你比巴西少一夕～ 啊～啊～七夕，你比无锡多两夕～ 啊～啊～七夕，你比山西多四夕～ 啊～啊～七夕，你比九溪少两夕～ 啊～啊～七夕，你能抵三个半儿媳～ 啊～啊～七夕，依稀是你七分之一～ 啊～啊～七夕，你比梅西多七夕～（转
+Sun Aug 09 01:06:15 PDT 2015 --  中国オープン終わりました！結果は準決勝で馬龍選手に3ー4で負けました。リードしていただけに悔しいです。今回の経験を生かして次頑張ります。応援ありがとうございました。
+Mon Aug 17 13:52:50 PDT 2015 --  Another 3 points on the board
+Fri Aug 14 22:56:01 PDT 2015 --  back
+Sun Jun 22 23:07:43 PDT 2014 --  http://www.googlestable.com/ 
+Tue Jun 10 20:56:18 PDT 2014 --  #ARG
+Mon Mar 11 02:26:20 PDT 2013 --  发现两年不用，twitter的民间RT的方式已经用不来了
+Mon Mar 11 02:25:34 PDT 2013 --  上过培训课，在楼道里面打过招呼:)//RT @jlusdy 集团新CEO公布了，是公司我唯一握过手并合过影的高管，非常敬佩他的能力和个人魅力！
+Wed Feb 27 20:50:55 PST 2013 --  终于在 2 月最后一天推出 RT @soulhacker: 支付宝 app 终于支持 iPhone 5 马脸，撒花！
+Wed Feb 27 22:12:08 PST 2013 --  冒个泡...
+Sat Jun 09 23:00:50 PDT 2012 --  Qq的mini浏览器好方便，还有java版本的。。
+Fri Mar 30 08:07:03 PDT 2012 --  233 RT @gokeeper: 233 RT @roamlog: 腾讯版 Draw something 出来了 http://caicaikan.qq.com/ 
+Mon Mar 28 08:34:41 PDT 2011 --  Alan Perlis，他写下了一系列关于编程的幽默：“如果你给别人讲解程序时，看到对方点头了，那你就拍他一下，他肯定睡觉了。”
+Mon Mar 28 07:36:38 PDT 2011 --  innerHTML里面的节点信息，自闭合标签貌似都没有带反斜杠
+Fri Mar 18 23:51:59 PDT 2011 --  诱惑你的新技术有很多，但是学习还是要有目的性，否则自己就茫然了~~~扎扎实实一点点的进步。
+Fri Mar 04 04:24:26 PST 2011 --  Up and Running with Node.js http://ofps.oreilly.com/titles/9781449398583/index.html 这个得小关心一下。
+Wed Mar 02 03:56:23 PST 2011 --  @fool2fish 话说这推的内容省略的容易让人理解有误，看到后面才发现也有应届生的招聘的
+Wed Mar 02 03:46:10 PST 2011 --  淘宝网UED招聘前端开发工程师: 招聘要求： 非应届生： 深刻了解Web标准，对可用性、可访问性等相关知识有实践经验； 精通JavaScript、XHTML、CSS等前端技术； 至少熟练掌握一门后台开发语言，并有项目经验；... http://bit.ly/eh7DBx
+Tue Mar 01 17:22:47 PST 2011 --  @yyfrankyy 要测试什么呢？dom部分么？
+Mon Feb 28 04:44:23 PST 2011 --  http://www.aqee.net/2010/09/28/watch-out-java-here-comes-javascript/
+Mon Feb 28 03:00:48 PST 2011 --  自己的node-readability应该要加一个服务器log的功能，发现之前几次挂掉都不知道是为什么~~~得在强化一下
+Sat Feb 26 23:51:11 PST 2011 --  http://help.github.com/troubleshooting-ssh/ git配置ssh的troubleshooting，没想到真遇到里面的问题了。github想得很周到
+Fri Feb 25 22:23:13 PST 2011 --  踌躇满志的拎着本本跑公司升级ubuntu，由于是wubi安装的，更新完ubuntu又出现grub rescue了。。。哎~~~
+Thu Feb 24 17:09:42 PST 2011 --  RT: @kavenyan: “ @yuilibrary: YUI Theater and Doug Crockford listed as go to resources for JavaScript mastery on reddit: http://bit.ly/glNw8i "
+Tue Feb 22 21:26:28 PST 2011 --  网购的本本电池快递到了，始发地是杭州的文三路，终点是华星路。。。两条路就隔了几百米。。。
+Tue Feb 22 04:15:51 PST 2011 --  http://www.grati.org/?p=165
+Mon Feb 21 22:46:13 PST 2011 --  反复的修改页面中，目前情绪稳定~~~~
+Mon Feb 21 21:01:13 PST 2011 --  http://html5doctor.com/introducing-web-sql-databases/ web-SQL
+Mon Feb 21 20:57:52 PST 2011 --  RT @blankzheng 淘宝UED招聘前端开发工程师，能力有多大舞台就有多大，欢迎自荐或推荐：yuanxin#taobao.com
+Sat Feb 19 20:22:10 PST 2011 --  又试了一个，直接npm install express貌似又没有什么问题。安上的是1.0.7的express框架。
+Sat Feb 19 19:45:13 PST 2011 --  算了，想想vps上面也一时半会儿不会用Express做什么开发，还是升级到最新的node版本和npm。
+Sat Feb 19 19:43:27 PST 2011 --  npm最新依赖于node0.4，Express框架依赖于node0.2.4和npm，感觉依赖有点乱。。。或者我应该装一个老版本的npm
+Fri Feb 18 04:51:38 PST 2011 --  感觉jsonp基本就像一个不确定时间的setTimeout
+Fri Feb 18 01:34:22 PST 2011 --  写setTimeout和setInterval的时候总觉得最费脑力！
+Wed Feb 16 05:51:10 PST 2011 --  http://rashost.com/blog/nginx-reverse-proxy-on-debian-ubuntu-vps ubuntu vps配置nginx反向代理
+Mon Feb 14 21:55:11 PST 2011 --  RT “ @yyfrankyy:  乱码测试” //红果果的。
+Mon Feb 14 17:13:28 PST 2011 --  Array的splice返回的是数组~~~~
+Sat Feb 12 22:12:31 PST 2011 --  超长行上下移动很困难怎么办？试试 gk，gj 有惊喜。 #VimTips
+Fri Feb 11 05:03:02 PST 2011 --  http://nathanvan.wordpress.com/2011/01/26/fixing-appengine-ssl-error-on-ubuntu-10-04/ 捣鼓appengine在ubuntu1004下安装python ssl模块的错误解决
+Wed Feb 02 08:12:16 PST 2011 --  新年快乐啦
+Tue Feb 01 23:36:13 PST 2011 --  家里的冷气无孔不入啊，今年正式进入家里年夜饭制作团队，好好准备准备
+Sun Jan 30 18:42:26 PST 2011 --  http://www.mongodb.org/display/DOCS/SQL+to+Mongo+Mapping+Chart SQL to mongoDB
+Thu Jan 27 22:42:33 PST 2011 --  have a try from twitvim,蛋疼~~~
+Thu Jan 27 19:45:49 PST 2011 --  test
+Thu Jan 27 01:12:01 PST 2011 --  http://howtonode.org/object-graphs, http://howtonode.org/object-graphs-2, http://howtonode.org/object-graphs-3，how to node里面的三篇图解js
+Wed Jan 26 17:15:31 PST 2011 --  @jxu 他表示做胸肌男压力很大。。。不过锻炼身体还是要坚持啊~~~
+Wed Jan 26 17:12:02 PST 2011 --  不知道为何会收到一个叫rapleaf的api的使用邀请email。看了一下貌似是以用户体验提升为目标的一个REST服务。
+Wed Jan 26 01:09:19 PST 2011 --  RT “ @feelinglucky: 好吧，旺旺 for Mac 还有个官网… http://macww.org/ ”//首页的截图。。。
+Tue Jan 25 23:57:49 PST 2011 --  【VeryCD关闭影视下载服务】知名网络资源分享下载网站VeryCD关闭了影视下载服务，其产品总监张乾表示，VeryCD将持续只提供影视内容在线观看地址的做法。http://www.infzm.com/content/54949
+Tue Jan 25 23:58:16 PST 2011 --  周会讨论身体健康，法海同学很给力
+Tue Jan 25 18:14:12 PST 2011 --  http://getfirebug.com/releases/firebug/1.7X/ firebug1.7X for Firefox 3.6 && Firefox 4
+Mon Jan 17 22:11:42 PST 2011 --  RT: @WeiPhoneBBS: 科学家表示：电子书阅读器会导致大脑懒惰: 长期以来，人们一直认为使用电子书阅读器（如：Kindle、SONY电子书）进行阅读可以使信息显示更清晰、更容易阅读。但事实很可能是相反的，这类简单的阅读方式反而会大脑变得懒惰。
+Sun Jan 16 17:18:59 PST 2011 --  @SMbey0nd 呵呵，哥，懂你~~~
+Sun Jan 09 22:07:08 PST 2011 --  嘴唇干得发红，和涂了口红一样~~~
+Fri Jan 07 06:46:30 PST 2011 --  貌似使用vimperator里面r和F5功能也不是完全一样的，发现刷新iframe的效果，两者不一样，哎哎哎，以后还是按F5吧
+Wed Jan 05 03:29:06 PST 2011 --  http://iamtherealnick.com/ubuntu-10-04-node-js-wscript138-error-could-not-configure-a-cxx-compiler/ 配置node过程中缺少openssl的处理方法~
+Mon Jan 03 21:29:59 PST 2011 --  早上严重犯困，中午补了一觉，终于有点精神了~~~
+Mon Jan 03 21:28:11 PST 2011 --  http://www.douban.com/group/topic/16721842/ 看了这个才知道原来vimperator里面要使用传统的文本操作快捷键都要先按一次ctrl+v
+Thu Dec 30 17:17:26 PST 2010 --  http://www.guao.hk/posts/38-tips-makes-you-gmail-master.html
+Wed Dec 29 07:26:31 PST 2010 --  http://w3viewer.com/ 必须收藏，查手册方便多了
+Tue Dec 28 19:52:08 PST 2010 --  年度十大网络流行语【最无耻大奖】一个非常艰难的决定。【最炫耀大奖】我爸是李刚。【最主流大奖】给力。【最佳美术大奖】神马都是浮云。【最佳汉语语法大奖】我了个去。【最佳修辞大奖】杯具。【最感同身受大奖】蛋疼。【最文明大奖】你妹。【最废话大奖】你懂的。【最简洁有力大奖】擦
+Tue Dec 28 00:19:44 PST 2010 --  RT: @d2forum: 第五届D2论坛主题演讲现场视频-作品秀部分 http://bit.ly/hmCHa8 现场视频(二) http://bit.ly/hgAzm3 #D2
+Tue Dec 28 00:18:49 PST 2010 --  Button Background Shift On :active Bug - CSS Bugs - hasLayout.net by Zoffix Znet http://haslayout.net/css/Button-Background-Shift-On-active-Bug … via @AddThis
+Mon Dec 27 04:29:43 PST 2010 --  @sogood 谢谢 http://www.v2ex.com/t/6258#r2
+Mon Dec 27 04:26:07 PST 2010 --  dat,vat,yat之类VIM的html快捷操作挺方便的，谢谢星斗~~~
+Mon Dec 27 04:18:21 PST 2010 --  http://www.googlechina.tk/
+Fri Dec 24 21:45:35 PST 2010 --  http://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.png 贴一下， @rainoxu(龙刚)推荐的vim cheatsheet
+Thu Dec 23 18:21:21 PST 2010 --  vim使用Ctrl+/快捷键如何配置呢？ #qna http://www.v2ex.com/t/6258
+Thu Dec 23 04:34:43 PST 2010 --  Vim 脚本里，可以使用 "s:" 开头的变量。它们不能在脚本之外访问，因而可以称为局部于脚本的变量。 #vim
+Wed Dec 22 05:29:17 PST 2010 --  试了两个配色 stackoverflow.vim 和 newspaper.vim， 美观度还行，但是发现自己已经不适应亮背景的配色了
+Mon Dec 20 06:19:00 PST 2010 --  靠，打扫的阿姨带探测器了吧，我故意塞夹层里面的纸板都能被收走。。。
+Sat Dec 18 06:36:58 PST 2010 --  @RainoXu nice idea
+Sat Dec 18 04:49:02 PST 2010 --  写blog写了大半没有保存，今年不是第一次了。。。555555
+Fri Dec 17 23:12:32 PST 2010 --  回头有换idea的想法了
+Fri Dec 17 18:26:27 PST 2010 --  小麦的声音好像蔡康永,囧啊
+Fri Dec 17 01:28:05 PST 2010 --  恩，自己很多的问题还没有深入研究
+Thu Dec 16 05:02:43 PST 2010 --  RT @d2forum: 第五届D2前端技术论坛会场由于原酒店单方毁约，在反复协商无果的情况下，最终我们决定将场地改至之江饭店。因场地临时变更给您带来的不便深表歉意，敬请谅解！具体请看http://bit.ly/fPgnxT
+Wed Dec 15 20:52:41 PST 2010 --  @bluewolfox 哈哈，生命在于运动啊~~~其实我每天都走路的。。。话说是住的近了点
+Wed Dec 15 17:56:55 PST 2010 --  今天走路上班一路在想如何走得更快一些，如何不摔倒，这也是优化啊。。。
+Wed Dec 15 02:54:55 PST 2010 --  云里博客群由一位普通的中国年轻人运营。 哈哈^ ^
+Mon Dec 13 00:57:09 PST 2010 --  @wuhan88 没用过mac呗
+Sat Dec 11 21:35:35 PST 2010 --  同有这个想法，一手的太贵了主要 http://www.v2ex.com/t/5502#r45300
+Sat Dec 11 20:53:27 PST 2010 --  今天在华星路上依然有人在讨论昨天facebook的分享话题~~~
+Sat Dec 11 00:26:44 PST 2010 --  哈哈，犯了一个很低级的错误，在YUI的ajax回调里面写kissy的代码。。。=，=
+Fri Dec 10 06:51:55 PST 2010 --  不知是不是做了会kissy的小白鼠，io在ie6下面xhr出现undefined的问题，有待拔赤回复一下
+Fri Dec 10 02:58:23 PST 2010 --  今天对应3个开发联调。。。。
+Thu Dec 09 19:35:58 PST 2010 --  @wuhan88 和谁长的很像啊？求照片！//都男银，有嘛好求的。。。。
+Thu Dec 09 19:35:08 PST 2010 --  @wuhan88 和谁长的很像啊？求照片！// 耗子~~
+Thu Dec 09 19:33:26 PST 2010 --  vimperator里面定义nmap之类的快捷键，有助于提高效率~~~
+Thu Dec 09 17:22:19 PST 2010 --  有个开发和一个大学同学长得很像，然后一查家乡，居然也是同一个地方的。。。
+Thu Dec 09 00:40:18 PST 2010 --  demo里面的那张名为“给我滚”的gif，看得我好晕。。。
+Wed Dec 08 17:37:36 PST 2010 --  经常看一眼群消息就忘记自己在做的事情了。。。。
+Tue Dec 07 05:14:12 PST 2010 --  http://css-tricks.com/return-false-and-prevent-default/
+Tue Dec 07 04:24:58 PST 2010 --  test tweets from V2EX.com
+Mon Dec 06 00:55:45 PST 2010 --  flux变色时间越来越早了!
+Sun Dec 05 02:38:43 PST 2010 --  更新了下：从 isPlainObject 到“完美”代码的实现 http://lifesinger.org/blog/2010/12/thinking-of-isplainobject/ 晚上折腾下 BESENShell, 希望这次能全 PASS
+Sat Dec 04 02:42:23 PST 2010 --  dangdang的收获时间选择浮层没有出来，火狐下为了选择正确的收货时间，用firebug改了收货时间提交。。。提交完发现浮层居然在下面被遮住了。。。=。=
+Sat Dec 04 00:32:59 PST 2010 --  http://www.zipeng.info/archives/border-radius.html 列了7种css圆角方案，求补充
+Sat Dec 04 00:05:38 PST 2010 --  最近比较担心域名和空间的问题，快年关了~~~去年0.99刀的域名快到了
+Fri Dec 03 06:35:32 PST 2010 --  最终还是写完了~~~=，=
+Fri Dec 03 06:03:04 PST 2010 --  7种圆角方案写不完了，个别还有bug~~~明天继续~~~
+Thu Dec 02 20:40:03 PST 2010 --  www.gracecode.com上不去了？ cc @feelinglucky
+Thu Dec 02 18:01:04 PST 2010 --  恩，昨天 @ktmud说的NERDTree ctrl+C 给力的！
+Thu Dec 02 02:05:13 PST 2010 --  感谢TaobaoUED 淘公仔团队友情赞助，头500名受邀参加第5届D2前端技术论坛的同行或同学都能获赠圣诞限量版淘公仔一份。 http://toy.taobao.com/ 。 女朋友或老婆，还不允许你来吗？
+Thu Dec 02 00:47:54 PST 2010 --  @Jasonwu1988 @hankinator1337 这个。。。偶能力有限，呵呵，不如大家拭目以待。
+Wed Dec 01 23:29:02 PST 2010 --  RT: @sofish: vim 用着用着就很卡。奇怪。【jslint的缘故？今天刚抱怨。。。】
+Wed Dec 01 21:06:18 PST 2010 --  RT: @LiJie: 支付宝安全控件已经支持Linux http://is.gd/i4ONO
+Wed Dec 01 20:38:07 PST 2010 --  @piao_2010 我在6楼呢，呵呵
+Wed Dec 01 20:37:41 PST 2010 --  @pushiming YD的二重唱啊
+Wed Dec 01 19:10:52 PST 2010 --  matchit.vim 匹配vim里面的HTML标签的好帮手~~
+Wed Dec 01 17:31:41 PST 2010 --  RT: @yyfrankyy: 不小心匹配错的时候有用… RT @vimtips: :%s/~/sue/igc substitute your last replacement string with 'sue'. http://is.gd/4xZW
+Wed Dec 01 17:12:35 PST 2010 --  @piao_2010 今天天气很好啊~~~
+Wed Dec 01 02:52:50 PST 2010 --  http://www.softwareishard.com/blog/firebug/firebug-net-panel-timings/ firebug timeline， Mark了~~
+Wed Dec 01 01:00:10 PST 2010 --  发现卓越的首页是宽度自适应的，有些商品在宽屏才看得到。而有些列表在宽屏上又显得很松散
+Tue Nov 30 21:46:23 PST 2010 --  RT: @d2forum: 为了让更多的同学可以参与到本次D2中，报名时间已经延长到2010年12月5日 23点59分59秒，还没有报名的同学不要再次错失机会哟~
+Mon Nov 29 04:49:31 PST 2010 --  简单的尝试了一下linux的awesome，很简约。预计要深入又要再记几个命令了。
+Sun Nov 28 19:25:13 PST 2010 --  早上的事情基本都按计划走了，很好~~~
+Sun Nov 28 02:16:06 PST 2010 --  http://interui.com/archives/365 chrome下面top.document返回未定义
+Sun Nov 28 01:33:36 PST 2010 --  chrome会把127.0.0.1认成是一个本地的环境？
+Sat Nov 27 22:25:38 PST 2010 --  http://www.limboy.com/2009/05/30/vim-setting/
+Sat Nov 27 01:48:02 PST 2010 --  RT: @yanyaoer: http://notepad.cc <http://notepad.cc/> 这个有意思, 检查输入状态自动提交.
+Sat Nov 27 00:58:07 PST 2010 --  http://code.google.com/intl/zh-CN/apis/webfonts/docs/getting_started.html Getting Start Google Font
+Thu Nov 25 03:33:32 PST 2010 --  感恩节这才发现平时要感谢的人太多了~~~感谢大家对我成长的帮助~~~继续fighting
+Thu Nov 25 03:31:32 PST 2010 --  小红心和火鸡都给了之前一起项目的小胖胖开发~~~
+Wed Nov 24 05:12:13 PST 2010 --  Take things easy!!!
+Tue Nov 23 18:28:48 PST 2010 --  @bluewolfox @czy88840616 @czy88840616 哈哈哈,有趣
+Mon Nov 22 23:16:02 PST 2010 --  Pentadactyl 暂时取代 vimperator还不太靠谱，会和firebug还有echofon在操作上有些冲突，还是先用vimperator，空闲时间再倒腾。。。
+Mon Nov 22 18:36:06 PST 2010 --  给vim添加了全屏功能~~~原来明爷的vimrc配置有出入，自己调整了一下
+Mon Nov 22 05:59:39 PST 2010 --  主干和分支都修改了同一处地方会造成冲突，这个逻辑居然想了半个晚上。。。大概是因为主干和分支相差好多。老在想不同的地方是不是就存在冲突。。。。
+Mon Nov 22 03:07:27 PST 2010 --  @bluewolfox 觉得这个肥猫跑得很专注，呵呵
+Mon Nov 22 03:04:02 PST 2010 --  理解合并理解晕掉去，最后发现主干和分之合并是合并到一个另外的地方。。。杯具
+Mon Nov 22 00:06:26 PST 2010 --  @bluewolfox 自从follow你后发现你的推就是本病例嘛，hoho
+Sun Nov 21 03:08:38 PST 2010 --  @Jasonwu1988 杯具，谁晓得卖家发的EMS。。。
+Sat Nov 20 21:12:53 PST 2010 --  EMS太不靠谱了，3天了，快递的状态一点也没有变化，货也没有到~~~
+Fri Nov 19 05:18:02 PST 2010 --  Array.concat() 用来拷贝数组貌似还可以~~
+Fri Nov 19 05:15:25 PST 2010 --  新的旺旺的输入状态跑到上面去了，并且很不明确，其实像我这样的人还是很希望及时的看到别人是否在输入东西的。
+Fri Nov 19 03:55:43 PST 2010 --  集体购买烧烤材料，发现自己从来没有逛过超市似的~~~不过大家买的东西还是很丰富很给力的~~~
+Thu Nov 18 03:53:41 PST 2010 --  适配器写好不易啊~~~
+Wed Nov 17 19:43:37 PST 2010 --  http://jsdo.it share Javascript,HTML5 && CSS
+Wed Nov 17 18:04:34 PST 2010 --  http://www.cn-cuckoo.com/ 位置漫笔的《HTML5设计原理》翻译
+Wed Nov 17 17:33:58 PST 2010 --  发送时保守，接收时包容开放，这是最开始web信息传递的原则
+Wed Nov 17 05:07:01 PST 2010 --  @SMbey0nd 寂哥没有推的号吧，同期待~~
+Tue Nov 16 00:02:04 PST 2010 --  第一次在分支间切换着工作，要小心。这种方式以后还要多适应。对于分支的思想也还得在了解一下~~~
+Mon Nov 15 20:48:29 PST 2010 --  @czy88840616 彩票网购的，呵呵~~~
+Mon Nov 15 20:04:06 PST 2010 --  Pentadactyl 这个貌似跟装13啊，貌似初始装完，火狐连个可以输入的地方都看不到~~~呵呵
+Mon Nov 15 19:55:14 PST 2010 --  RT: @laoyang945: Pentadactyl/Vimperator的替代者-善用佳软 http://is.gd/hbiHv
+Mon Nov 15 19:29:08 PST 2010 --  RT: @laoyang945: [GR]我必用的 Firefox 拓展，庆 Firefox 已经 6 周年 http://is.gd/hbdX0
+Sun Nov 14 20:49:30 PST 2010 --  昨天买了两注彩票，木有中~~~~=。=
+Fri Nov 12 03:48:32 PST 2010 --  RT: @laoyang945: 如何定义更快？RT @kaycode: 用:qmarks保存书签基本满足了在vimperator里面迅速调用JavaScript书签的需求，不过还有更快的方式么？【如何定义和调用的更快吧，比如要调用一个云输入法之类的】
+Fri Nov 12 03:40:15 PST 2010 --  用:qmarks保存书签基本满足了在vimperator里面迅速调用JavaScript书签的需求，不过还有更快的方式么？
+Fri Nov 12 03:38:21 PST 2010 --  @laoyang945 呵呵，好啊，有空一定去写点，目前都还在积累呢~~~
+Fri Nov 12 03:17:40 PST 2010 --  原来vimperator里面F相当于;t f相当于;o
+Fri Nov 12 03:15:44 PST 2010 --  http://cookiebear.info/archives/239 在vimperator里面配置书签的快捷键（示例中配置了F2）
+Thu Nov 11 20:57:53 PST 2010 --  jslint for vim 装好了，jslint.vim本身配置项里面的安装路径改成了绝对路径就可以用了，不过感觉应该是哪里还配得不太对。
+Thu Nov 11 18:20:26 PST 2010 --  RT: @SMbey0nd: 太轻视交通状况了，还要再早走10分钟…//【不知道为啥，和释然吃过一次饭，一天起的比一天早】
+Wed Nov 10 21:36:42 PST 2010 --  RT: @ktmud: NERDTree 里的 m 键实在太好用了！ #VIM【好~】
+Wed Nov 10 04:18:18 PST 2010 --  http://www.zhangxinxu.com/wordpress/?p=425 很强大的IE css bug table~~~
+Tue Nov 09 22:59:01 PST 2010 --  RT: @kangax: BBC's CSS guidelines, with some great attention to accessibility — http://goo.gl/fpk2H
+Tue Nov 09 22:10:34 PST 2010 --  老觉得有不少东西要看，不过知识的积累也要排个优先级~~~
+Tue Nov 09 03:12:14 PST 2010 --  http://liuliu.me/detect/detect.html 【javascript人脸识别】图片使用url
+Mon Nov 08 17:05:05 PST 2010 --  RT: @sofish: when events are fired too fast. 《Downshift Your Code》 http://www.yuiblog.com/blog/2007/07/09/downshift-your-code/ … 【给代码减减速】
+Mon Nov 08 01:26:44 PST 2010 --  所谓的匹克马利翁效应么？bug测着测着就没有了。。。。
+Sun Nov 07 21:39:00 PST 2010 --  好热啊~~~觉得没有什么开暖气的必要啊，一到下午头就发昏~~~冬天就该冻一冻嘛。
+Sun Nov 07 17:01:50 PST 2010 --  RT: @lifesinger: lizzie 很给力，README 里给出了 Sphinx 的详细安装和使用说明：https://github.com/kissyteam/kissyteam.github.com
+Sun Nov 07 03:42:01 PST 2010 --  @ohdarling88（崇厚）给的openVPN配好了，之前是虚拟网卡的驱动问题，用openVPN里面的驱动安装再装一遍就好了
+Sat Nov 06 06:53:07 PDT 2010 --  做到先会使用，然后再去了解技术细节~~~
+Sat Nov 06 04:10:03 PDT 2010 --  RT: @yyfrankyy: 看了一天书，吃个饭去公司折腾一 (@ 85度C（文二西路店）) http://4sq.com/cL4EoW 【20分钟前，我也在那里。。。】
+Fri Nov 05 04:42:59 PDT 2010 --  RT: @kejunz: js/css源文件高亮插件，FF下 http://userscripts.org/scripts/show/37029 Chrome下 http://bit.ly/aGvoXE 方便!
+Thu Nov 04 21:02:02 PDT 2010 --  RT: @feelinglucky: 360 的浏览器改 ua 了，变成和系统原生的 ie 一样，悲剧…//【直接转移伤害，让腾讯PK微软】
+Thu Nov 04 07:41:56 PDT 2010 --  在ubuntu下面配python和apache中~~~
+Wed Nov 03 21:44:20 PDT 2010 --  RT: @yanyaoer: pip.io 界面好赞【nice~~】
+Wed Nov 03 19:28:14 PDT 2010 --  RT: @Ubuntu_Tips: 支付宝 Linux 插件开始小范围公测 http://bit.ly/d0Uadm
+Wed Nov 03 18:32:05 PDT 2010 --  http://kissyteam.github.com/coding-style/javascriptguide.xml 乔花翻译的google coding style JavaScript部分
+Tue Nov 02 23:54:08 PDT 2010 --  i18n is short for internationlization(国际化)
+Tue Nov 02 18:11:37 PDT 2010 --  RT: @SMbey0nd: 「指出谁是团队里最差的成员并不残忍，真正残忍的是对成员存在的问题视而不见，一味充当老好人。宽是害，严是爱。」
+Tue Nov 02 03:37:09 PDT 2010 --  @Jasonwu1988 够狠的~~~
+Tue Nov 02 01:14:51 PDT 2010 --  RT: @d2forum: 第5届D2前端技术论坛将于12.18日在杭州举行，专题和报名入口即将上线，敬请关注。往期D2内容请前往http://www.d2forum.org/
+Mon Nov 01 23:46:00 PDT 2010 --  http://www.quirksmode.org/blog/archives/2008/01/using_the_assig.html ppk的这招貌似还不错。
+Mon Nov 01 22:46:19 PDT 2010 --  总算看到了，传说中开发写在页面里面的jq代码。。。
+Sun Oct 31 21:34:26 PDT 2010 --  http://www.howtogeek.com/howto/internet/firefox/spice-up-that-boring-aboutblank-page-in-firefox/ 自定义firefox的blank页面
+Sun Oct 31 07:07:41 PDT 2010 --  下午的时候在想能不能火狐的blank页自定义，结果晚上搞了半天的wiki，都没做这个事情
+Sun Oct 31 07:02:25 PDT 2010 --  @ktmud 咋了~~~？
+Sun Oct 31 06:58:12 PDT 2010 --  css3是自己的软肋，用起来很不得劲。。。
+Sat Oct 30 02:33:40 PDT 2010 --  http://blog.xiqiao.info/2010/09/19/799 单元测试漫画。。
+Fri Oct 29 23:40:15 PDT 2010 --  vimperator：小写f找出链接并在本页打开，大写F找出链接并在新tab中打开，记一下~~
+Fri Oct 29 23:10:49 PDT 2010 --  无意间按到了vimperator的f键，发现这功能精髓啊，我说之前自己看网页都拿鼠标点的。。。。f=Follow hint：
+Fri Oct 29 22:43:17 PDT 2010 --  say sorry to @ktmud，昨晚锁门是下意识的，睡得晚了点后来就忘记去掉反锁了。。。
+Fri Oct 29 04:53:21 PDT 2010 --  @Jasonwu1988 你面试的么？
+Thu Oct 28 04:19:03 PDT 2010 --  页面拥有DOCTYPE后，火狐下面document.all方法就没有了，当然即便去掉DOCTYPE，火狐还是不推荐使用这个方法。
+Thu Oct 28 01:20:48 PDT 2010 --  form表单域的name和form的属性值同名又引发了一个bug~~~以后遇到IE下面和form相关dom的问题首先要考虑下这个问题~~~
+Wed Oct 27 23:20:35 PDT 2010 --  早上刚发的js下午回滚，这次发布前准备不充分，前后台有些过分信任，结果反而交流少了。。。
+Mon Oct 25 21:59:40 PDT 2010 --  今天拿的一号店的快递，排在今天快件号的1号，哈哈~~~

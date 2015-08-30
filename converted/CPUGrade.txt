@@ -1,0 +1,28 @@
+Mon Aug 24 14:34:42 PDT 2015 --  Intel Core M-5Y71 — Processor Database — CPU Grade http://cpugrade.com/db/intel/laptop/core-m/m-5000/m-5y71/ … #Intel #CoreM #Broadwell via @CPUGrade
+Mon Aug 24 14:34:34 PDT 2015 --  Intel Core M-5Y70 — Processor Database — CPU Grade http://cpugrade.com/db/intel/laptop/core-m/m-5000/m-5y70/ … #Intel #CoreM #Broadwell via @CPUGrade
+Mon Aug 24 14:34:26 PDT 2015 --  Intel Core M-5Y51 — Processor Database — CPU Grade http://cpugrade.com/db/intel/laptop/core-m/m-5000/m-5y51/ … #Intel #CoreM #Broadwell via @CPUGrade
+Mon Aug 24 14:34:17 PDT 2015 --  Intel Core M-5Y31 — Processor Database — CPU Grade http://cpugrade.com/db/intel/laptop/core-m/m-5000/m-5y31/ … #Intel #CoreM #Broadwell via @CPUGrade
+Mon Aug 24 14:33:56 PDT 2015 --  Intel Core M-5Y10c — Processor Database — CPU Grade http://cpugrade.com/db/intel/laptop/core-m/m-5000/m-5y10c/ … #Intel #CoreM #Broadwell via @CPUGrade
+Mon Aug 24 14:33:49 PDT 2015 --  Intel Core M-5Y10a — Processor Database — CPU Grade http://cpugrade.com/db/intel/laptop/core-m/m-5000/m-5y10a/ … #Intel #CoreM #Broadwell via @CPUGrade
+Mon Aug 24 14:33:37 PDT 2015 --  Intel Core M-5Y10 — Processor Database — CPU Grade http://cpugrade.com/db/intel/laptop/core-m/m-5000/m-5y10/ … #Intel #CoreM #Broadwell via @CPUGrade
+Mon Aug 24 07:00:22 PDT 2015 --  Intel Pentium 200 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/200-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 07:00:16 PDT 2015 --  Intel Pentium 167 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/167-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 07:00:10 PDT 2015 --  Intel Pentium 150 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/150-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 07:00:04 PDT 2015 --  Intel Pentium 133 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/133-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 06:59:25 PDT 2015 --  Intel Pentium 120 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/120-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 06:59:19 PDT 2015 --  Intel Pentium 100 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/100-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 06:59:13 PDT 2015 --  Intel Pentium 90 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/90-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 06:58:57 PDT 2015 --  Intel Pentium 75 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/75-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 06:58:51 PDT 2015 --  Intel Pentium 67 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/67-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 06:58:44 PDT 2015 --  Intel Pentium 60 MHz — Processor Database — CPU Grade http://cpugrade.com/db/intel/desktop/pentium-legacy/60-mhz/ … #Intel #Pentium #P5 via @CPUGrade
+Mon Aug 24 06:56:54 PDT 2015 --  Intel Quark X1021D — Processor Database — CPU Grade http://cpugrade.com/db/intel/embedded/quark/x1000/x1021d/ … #Intel #Quark #i486 via @CPUGrade
+Mon Aug 24 06:56:48 PDT 2015 --  Intel Quark X1021 — Processor Database — CPU Grade http://cpugrade.com/db/intel/embedded/quark/x1000/x1021/ … #Intel #Quark #i486 via @CPUGrade
+Mon Aug 24 06:56:42 PDT 2015 --  Intel Quark X1020D — Processor Database — CPU Grade http://cpugrade.com/db/intel/embedded/quark/x1000/x1020d/ … #Intel #Quark #i486 via @CPUGrade
+Mon Aug 24 06:56:25 PDT 2015 --  Intel Quark X1020 — Processor Database — CPU Grade http://cpugrade.com/db/intel/embedded/quark/x1000/x1020/ … #Intel #Quark #i486 via @CPUGrade
+Mon Aug 24 06:56:16 PDT 2015 --  Intel Quark X1011 — Processor Database — CPU Grade http://cpugrade.com/db/intel/embedded/quark/x1000/x1011/ … #Intel #Quark #i486 via @CPUGrade
+Mon Aug 24 06:56:08 PDT 2015 --  Intel Quark X1010 — Processor Database — CPU Grade http://cpugrade.com/db/intel/embedded/quark/x1000/x1010/ … #Intel #Quark #i486 via @CPUGrade
+Mon Aug 24 06:55:54 PDT 2015 --  Intel Quark X1001 — Processor Database — CPU Grade http://cpugrade.com/db/intel/embedded/quark/x1000/x1001/ … #Intel #Quark #i486 via @CPUGrade
+Mon Aug 24 06:55:42 PDT 2015 --  Intel Quark X1000 — Processor Database — CPU Grade http://cpugrade.com/db/intel/embedded/quark/x1000/x1000/ … #Intel #Quark #i486 via @CPUGrade
+Fri Aug 14 05:40:21 PDT 2015 --  Everything should be back to normal now that the temporary maintenance has been completed!
+Wed Jul 22 01:08:47 PDT 2015 --  Transferring to a new, faster server. We will be back shortly!
+Sun May 03 12:03:57 PDT 2015 --  Need to upgrade your PC for GTA V? Find out! http://cpugrade.com/gtav-sysreq.php  #GTAV #GTAOnline #GTAVPC #GrandTheftAutoV

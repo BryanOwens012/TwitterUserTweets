@@ -1,0 +1,228 @@
+Mon Jul 27 13:34:35 PDT 2015 --  Invention idea: Wrap-around glasses with LCD tinting to trick your body into thinking day was night. For ppl that have to work weird shifts
+Sat Jul 18 12:16:08 PDT 2015 --  I'm on a boat! pic.twitter.com/Atah6limtH
+Mon Jul 06 18:31:57 PDT 2015 --  fun with land of #lisp: using (ash 55 -1) = 27 instead of (/ 55 2) = 55/2. learning a new lang isn't always about syntax
+Wed Mar 18 14:27:53 PDT 2015 --  Just for fun: Get hired as "Code Ninja". Don't show up the first day. When they say "We didn't see you at the office today." Say "Exactly."
+Tue May 05 16:47:19 PDT 2015 --  Open Vim. Type "1.02". Put the cursor on the 2. Hit C-x; get 1.01. Again; get 1.00. Again; get 1.01777777777777777777777. NIIIIIIIIIIIIIIII
+Wed Apr 22 12:29:13 PDT 2015 --  I'm a giant squid! What's your Earth Day #GoogleDoodle quiz animal? https://g.co/doodle/qja95k 
+Wed Apr 22 10:04:02 PDT 2015 --  ."the definition of a bug pretty much is: “we didn’t think of that”"
+Wed Mar 25 14:32:06 PDT 2015 --  I wrote a post on silencing the Rails log for specific routes http://www.donaldplummer.com/2015/03/25/log-silencer.html …
+Wed Mar 11 21:27:06 PDT 2015 --  “ @NathanFillion: Working with @alan_tudyk again! @indiegogo campaign for Con Man. http://bit.ly/1MlUDCt  #conman” You are amazing!
+Wed Mar 11 17:13:47 PDT 2015 --  A prof of "media studies" isn't the first person I'd ask about what scientific ideas to retire #freakonomics
+Tue Mar 10 10:04:53 PDT 2015 --  Engineering: a first run experience -- how my first job nearly drove me out of tech forever. http://www.blog.juliaferraioli.com/2015/03/engineering-first-run-experience.html … pic.twitter.com/TSjUQ5Yx4v
+Wed Mar 04 15:20:31 PST 2015 --  Second stop on #avvoroadtrip to #rubyonales at Stormbreaker brewery in Portland pic.twitter.com/RUduZWYzSU
+Thu Dec 25 13:04:57 PST 2014 --  Picard management tip: Do not assume there is an ulterior motive for a gift. Accept it with gratitude and be done.
+Sat Nov 22 03:54:19 PST 2014 --  Awww. I like Haskell too.. " @Snugug: My #feministhackerbarbie is a little miffed. #fb pic.twitter.com/wOJaW1Myyp (via @haikuman) Oh @sdboyer"
+Wed Nov 19 07:51:10 PST 2014 --  Come join the Avvo dev team for board games tomorrow night! Food and drinks will be provided. Details and RSVP: https://www.eventbrite.com/e/board-game-night-avvo-tickets-14225359433 …
+Fri Nov 07 13:35:11 PST 2014 --  A healthy company sees your silo as a liability. An unhealthy one is not worth staying at. They'll disappear and take your job with them.
+Sat Nov 01 23:58:31 PDT 2014 --  All of my ideas: " @davidad: HOW TO CRITICIZE IDEAS (inspired by @DanielleFong) pic.twitter.com/5kMvqAjXYX"
+Fri Oct 31 18:09:21 PDT 2014 --  OH mom talking to her son: "you have to finish your chocolate before you have the crackers"
+Wed Oct 29 10:31:47 PDT 2014 --  You know you're in trouble when your mysql table name can't fit in a single tweet...
+Thu Oct 23 02:06:21 PDT 2014 --  Surely at this point we should just stop using Javascript: pic.twitter.com/QeRa7WmvXl
+Sat Oct 25 11:14:45 PDT 2014 --  Last night I tweeted about how toxic forms of violent masculinity can be harmful to men and boys. #gamergate is still harassing me for it.
+Fri Oct 24 13:44:22 PDT 2014 --  twitter is my rubber ducky
+Fri Oct 24 13:44:13 PDT 2014 --  of course as soon as i sweet i find the switch in the http://Amazon.com  cart app under Your Notifications
+Fri Oct 24 13:43:00 PDT 2014 --  Anyone else getting Amazon "Recommendation for you" notifications on their android phone? I can't find out how to get rid of them
+Fri Oct 24 09:34:34 PDT 2014 --  what's the appropriate response to rampant rescue nil in HTTP client code? i'm getting so tired of shit error handling in ruby code
+Thu Oct 16 15:28:10 PDT 2014 --  So much this. So much. I feel exactly the same way. “ @secboffin: Fuck. This. Shit. http://wp.me/p2pqWk-lU ”
+Thu Oct 16 10:51:13 PDT 2014 --  What's the deal with every apple event presenter being a white haired white dude?
+Tue Oct 14 15:13:22 PDT 2014 --  Hey Seattle Devs! @avvo is hosting Board Game Night this Thursday at 7pm. Come hang out! http://bit.ly/1u1YiKi 
+Fri Oct 10 06:57:34 PDT 2014 --  Perfect. RT @endersmat: Here you go @freebsdgirl pic.twitter.com/H1ajid3xCf
+Thu Oct 09 14:06:14 PDT 2014 --  The Microsoft CEO just suggested women not ask for raises and trust in 'karma' instead. http://on.mash.to/1vRS9Tv 
+Tue Oct 07 23:03:40 PDT 2014 --  Don't call w**v a "digital hero". As well as being a shitty hacker who's only famous for getting caught, he's also a truly abhorrent person.
+Wed Oct 08 04:52:23 PDT 2014 --  Kathy Sierra's goodbye http://seriouspony.com/trouble-at-the-koolaid-point …
+Tue Oct 07 19:05:06 PDT 2014 --  btw @wsdot ...the new HOV lane sensors you have on #I405 are insanely distracting at night. Thx for the blinding blue flash
+Sat Oct 04 20:32:19 PDT 2014 --  Plot twist: @SwiftOnSecurity is an AI programmed to believe it is Taylor Swift.
+Thu Oct 02 20:42:35 PDT 2014 --  Cities should own the fiber, give you options for your net provider. if 1 company is terrible, you can switch to another with similar speeds
+Thu Oct 02 20:30:03 PDT 2014 --  My internet has been down for 6hrs. No eta, no idea what the prob is. Wish we had options like with dialup
+Thu Oct 02 15:25:23 PDT 2014 --  of course the day i'm WFH @AskFrontier internet is down. Mukilteo library to the rescue. Thx @mxavier and @snoislelibrary
+Wed Oct 01 11:13:34 PDT 2014 --  VCs: Everyone is spending too much money!! But it'd be great if you could relocate everyone to the most expensive market in the world. Thx.
+Wed Oct 01 08:46:18 PDT 2014 --  of the 5 gems that provide useful colored output to minitest, the only one that works is the only one that says it's abandoned
+Mon Sep 29 17:10:50 PDT 2014 --  There's a 5 minute window during my bus ride home that I get LTE on the sprint network. I use that time to watch YouTube. Tech Progress!
+Mon Sep 22 10:32:05 PDT 2014 --  don't ever buy direct from motorola. you can't cancel orders, even if all they've done is auth your card. terrible support
+Wed Sep 17 13:17:43 PDT 2014 --  So apparently you can't use port 6666 for HTTP traffic. Workaround: local ssh port forwarding. http://superuser.com/questions/188006/how-to-fix-err-unsafe-port-error-on-chrome-when-browsing-to-unsafe-ports …
+Wed Sep 17 10:48:43 PDT 2014 --  not sure which i dislike more, test unit or chef. i really miss rspec and ansible
+Tue Sep 16 19:50:21 PDT 2014 --  Come play board games with the Avvo dev team this Thursday! https://www.eventbrite.com/e/september-board-game-night-avvo-tickets-13050314843 …
+Wed Sep 10 10:16:52 PDT 2014 --  Seattle dev/tech friends! Want to come to an @avvo board game night? https://www.eventbrite.com/e/september-board-game-night-avvo-tickets-13050314843 …
+Tue Sep 02 08:32:19 PDT 2014 --  Jennifer Lawrence Nude Photo Leak Isn't A 'Scandal.' It's A Sex Crime. http://www.forbes.com/sites/scottmendelson/2014/09/01/jennifer-lawrence-nude-photo-leak-isnt-a-scandal-its-a-sex-crime/ …
+Fri Aug 29 19:06:28 PDT 2014 --  Is there a live stream of the #Omegathon @OFFICIAL_PAX
+Thu Aug 28 19:26:22 PDT 2014 --  What I learned this week. Thanks @saronyitbarek for the idea! http://bit.ly/1vTFxf3 
+Mon Aug 25 09:07:40 PDT 2014 --  outlook web is terrible. it's like going back to the 90s after using gmail
+Mon Aug 25 07:24:15 PDT 2014 --  First time on a bus since high school. Less roudy than I remember.
+Fri Aug 22 11:05:23 PDT 2014 --  Using the phrase "it is said" is only interesting if the entire population are mimes. Saying something, especially on the internet, is easy.
+Sat Aug 16 20:39:24 PDT 2014 --  5 working computers with as many ppl to use them, monitors coming out my eyeballs. only 2 mice
+Sat Aug 16 18:25:49 PDT 2014 --  lost the DRM battle. "Buy" a movie on amazon unbox. Can't watch on Chromecast unless by again on Google play #bittorrentwinsagain
+Sat Aug 16 00:44:01 PDT 2014 --  @dplummer @avdi Best part of Thinking Fast and Slow: thinking “no way, I don’t do that”, and getting proven wrong in the very next sentence.
+Fri Aug 15 11:30:26 PDT 2014 --  Woo! 2nd year in a row where engineering gets a new CTO without interviewing the engineers first. Learning from past mistakes: NOPE
+Fri Aug 15 10:46:22 PDT 2014 --  If you're white in America you should probably read this: "I am racist, and so are you." - https://beingshadoan.wordpress.com/2014/08/15/i-am-racist-and-so-are-you/ …
+Thu Aug 14 15:57:50 PDT 2014 --  Professor Quirrel's take on the status implications of police attacking journalists (as opposed to just poor ppl) https://www.facebook.com/yudkowsky/posts/10152642673219228 …
+Thu Aug 14 14:43:39 PDT 2014 --  Petition to create a Mike Brown law requiring all law enforcement officials to wear a camera at all times: https://petitions.whitehouse.gov/petition/mike-brown-law-requires-all-state-county-and-local-police-wear-camera/8tlS5czf …
+Wed Aug 13 11:46:39 PDT 2014 --  Dev in Seattle? We’re having a board game night at the @Avvo offices on August 21: https://www.eventbrite.com/e/board-game-night-avvo-tickets-12638318551?ref=estw …
+Tue Aug 12 17:32:58 PDT 2014 --  Thanks for the special ending talk @listrophy, to spaaaaaaaaace! #CascadiaRuby
+Tue Aug 12 11:18:27 PDT 2014 --  chat with #CascadiaRuby http://faye-ws-chat.herokuapp.com/ 
+Fri Aug 08 15:56:47 PDT 2014 --  I'm pretty sure that if we don't #RenewContinuum then this won't be a stable timeline and we'll all cease to be. Your move, @showcasedotca
+Thu Aug 07 12:21:43 PDT 2014 --  ugh, wondering if i should consider a job where I'd be working on node... feels like a step down from rubby
+Wed Aug 06 12:43:16 PDT 2014 --  accidentally found a wtf in ruby today: 2.1.2 :001 > ?" => "\""
+Tue Aug 05 15:27:55 PDT 2014 --  Reminder: delete your code: https://www.youtube.com/watch?v=Oj4vXMRenFo …
+Sun Aug 03 19:14:36 PDT 2014 --  I forgot to turn down the heat on the stove, nearly burning dinner. #turndownforwhat #isthishowtomeme
+Thu Jul 31 12:40:46 PDT 2014 --  Sales team arms race 'conframmed pic.twitter.com/n59qDsAgZT
+Tue Jul 29 14:40:37 PDT 2014 --  Decided to work from a cafe this afternoon for the first time. Haven't got much done yet, but super happy! (at vivace) #seattlerb
+Fri Jul 25 18:07:59 PDT 2014 --  RT @aussiegeek: Devops means giving a shit enough to not pass the buck #devopsdays pic.twitter.com/wHg7WGJMqX < by @lusis
+Fri Jul 18 17:07:09 PDT 2014 --  Rails' lack of bitchiness has a high price. Instead of raising when I use order() with find_each, it warns. So there goes 2 hours
+Mon Jun 02 20:21:10 PDT 2014 --  Quick tip for using heredoc's with ruby in tests: You can strip indentation with rails' String#strip_heredoc http://apidock.com/rails/String/strip_heredoc …
+Fri Nov 15 15:51:40 PST 2013 --  I just backed Zeppeldrome: The Hazardous Dirigible Rally on @Kickstarter. Check it out! @12SPEnt http://kck.st/17yWi7x 
+Fri Oct 25 13:34:44 PDT 2013 --  Checkout the Star Trek Continues kickstarter and first episode, its awesome! http://kck.st/16u5Az2 
+Thu Oct 24 11:42:16 PDT 2013 --  Help make it happen for Ada Developers Academy! less than 10k to go http://igg.me/p/ada-developers-academy/cstw/5158760 …
+Thu Oct 24 09:27:08 PDT 2013 --  ActiveModel validations are a violation of the SRP and have caused me no end of grief. Never using with AR again.
+Wed Oct 23 17:54:02 PDT 2013 --  I was excited to watch TNG on bluray, but was forced to watch ads for 5 minutes. I hate consumer electronics
+Tue Oct 15 21:35:58 PDT 2013 --  Excellent! My coworker and I are getting into town Sun and were looking for things to do. cya there! @sarablackthorne @cascadiaruby
+Thu Jul 18 09:11:14 PDT 2013 --  New song idea: I'm on a Branch! (don't you ever forget) #git
+Tue Sep 18 11:26:13 PDT 2012 --  While writing a ruby DSL for generating a json schema, I suggested we validate our generated schema with itself. #Inception
+Fri Sep 14 15:56:13 PDT 2012 --  TIL use dashes for your gem names, not underscores
+Tue Aug 21 12:00:43 PDT 2012 --  Worst part about having a standing desk: your coworkers and boss think that you don't need a chair and whenever you get one, it disappears.
+Fri Aug 17 21:28:33 PDT 2012 --  The best talk of #cascadiaruby is up, @kytrinyx's talk on refactoring http://www.confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring …
+Fri Aug 03 11:24:21 PDT 2012 --  RT @joshpuetz: Love that one proud mama brought her baby to #cascadiaruby!
+Fri Aug 03 10:15:01 PDT 2012 --  #cascadiaruby if you want to know more about the chrome dev tools https://developers.google.com/live/shows/ahNzfmdvb2dsZS1kZXZlbG9wZXJzcg4LEgVFdmVudBj_sYMDDA/ …
+Fri Aug 03 09:35:21 PDT 2012 --  #cascadiaruby the power only exists at the end of each row. bring a power strip tomorrow!
+Tue May 15 00:05:38 PDT 2012 --  Sweet, running #Diablo3 already. Now then, how late do I stay up saving the world from the forces of hell?
+Wed Feb 15 16:16:20 PST 2012 --  @4MKMobile @GitHub As per https://status.github.com/ , it looks like they're under attack by unicorns.
+Wed Feb 15 16:13:04 PST 2012 --  Even when #github returns 500 errors, they're the coolest. Crazy parallax error pages.
+Thu Jan 05 18:50:37 PST 2012 --  @avdi it was significantly more clever in my head. just a dumb way to write a string ("cats") as a constant
+Thu Jan 05 14:33:16 PST 2012 --  @avdi Proper use of rescue $! ? CATS rescue $!.message.split(' ').last.downcase
+Mon Dec 12 22:13:36 PST 2011 --  I require additional Github! http://appsumoforlife.com/~fyGS  via @appsumo
+Thu Oct 13 18:59:37 PDT 2011 --  Lose yourself in @EllieGoulding’s #Lights, an interactive & colorful music experience using #webgl http://lights.elliegoulding.com/ ?
+Thu Sep 15 12:52:46 PDT 2011 --  Anyone know how which Pokemon TCG cards were printed as Holofoils? Is there a list or a programmatic way of determining? #pokemon
+Fri May 27 14:29:11 PDT 2011 --  I am an exterminator today. Squashed 13 bugs so far, it's good to get on a roll.
+Thu May 26 17:28:41 PDT 2011 --  @kellyreid wait, is your cat's name a poorly chosen variable name? How do you say "$value_Cat" anyway?
+Sun May 22 15:11:56 PDT 2011 --  Wish I had a script to replace all my Rails 2.3 prototype js with jquery. So much ugly code.
+Mon May 16 09:32:08 PDT 2011 --  What book is he talking about again? #RailsConf
+Sat Jan 15 12:02:37 PST 2011 --  Atheism is a religion like "off" is a TV channel. #atheism #atheist #quote #religion
+Sun Oct 17 01:18:02 PDT 2010 --  Megan just got TPK'd for the fourth time tonight. So horrible.
+Sun Oct 17 01:15:30 PDT 2010 --  Playing Tomb while very drunk. So much fun! Rubric owned face till I hit him with Crushing Hands.
+Fri Oct 15 23:05:08 PDT 2010 --  Now we're at Moe Bar on Capital Hill way better than Seattle. Good times!
+Fri Oct 15 21:27:55 PDT 2010 --  Am at the merchant's cafe in downtown Seattle, pretty good band playing covers.
+Sun Oct 10 13:12:28 PDT 2010 --  @manashark because preordain is the std brainstorm, its AMAZING. I kept many 1 land + preordain hands yesterday and got there
+Sat Oct 09 16:20:03 PDT 2010 --  Decided not to drop, playing it out
+Sat Oct 09 16:11:22 PDT 2010 --  3-3 dropped, lost to rug again, fun day though.
+Sat Oct 09 15:36:32 PDT 2010 --  3-2, still have a ways to go.
+Sat Oct 02 14:53:45 PDT 2010 --  @depickett I thought we'd be safe going to 5 guys at 3pm. How mistaken I was! Line out the door.
+Wed Sep 22 13:40:52 PDT 2010 --  @Gaard I work for CrystalCommerce, who does CF's store. Also help with the admin of their blog site.
+Tue Sep 21 14:20:53 PDT 2010 --  @pureval @Gaard @ChannelFireball channelfireball.com's working better now. fixed some caching issues. smooth sailing now!
+Mon Sep 13 16:27:35 PDT 2010 --  @manashark sadistic sacrament can be useful in that regard. The new white Leyline is an option against tormod's crypt, etc
+Fri Sep 10 20:11:23 PDT 2010 --  Left 4 dead 2 coop with friends, best fun in a while
+Wed Sep 08 15:20:34 PDT 2010 --  @TheZvi I love remarking in standard on whether or not my opponent has threshold when they look through their graveyard.
+Wed Sep 08 15:14:55 PDT 2010 --  @JonLoucks In their own way, Wizards is expanding our vocabulary, one keyword at a time.
+Wed Sep 08 14:11:31 PDT 2010 --  @Hawzzy True, true. So far it doesn't look busted in standard, which I'm glad for.
+Wed Sep 08 14:08:41 PDT 2010 --  @mtgcolorpie Yea, if they wanted it reprinted at mythic, should have been in FTV:R, not Scars
+Wed Sep 08 14:08:09 PDT 2010 --  @maro254 @Hawzzy times I've been slaved by Sorin, it was awesome and not broken. Every Mindslaver I've left the game in disgust and hated it
+Wed Sep 08 14:03:12 PDT 2010 --  @maro254 re: mindslaver. I'm sad 1) its a reprint in a mythic slot of an Expert set 2) It is either unfun or useless, not a good balance
+Tue Sep 07 13:59:36 PDT 2010 --  @Hawzzy I'll do that, thanks. Why is it even an issue though? Its basic land! So many problems with the app
+Tue Sep 07 12:47:06 PDT 2010 --  i only have 9 basic swamps. to get more for a constructed deck, I have to trade for them. awesome.... #mtg #mtgosucks
+Mon Sep 06 22:30:01 PDT 2010 --  @Hawzzy Yea, thats what I was trying. Unfortunately, I lost because I didn't realize I needed to put a stop on my opponent's main phase :(
+Mon Sep 06 18:53:37 PDT 2010 --  why do people play MTGO? the interface and cost are horrible! $15 to play a game for 35 mins is stupid. #mtg #mtgosucks
+Sat Sep 04 20:49:10 PDT 2010 --  @Smi77y cost is 3ww
+Sat Sep 04 10:20:18 PDT 2010 --  The wotc booth is surrounded by Portal2. Ooh, just got truncated, damn. #pax lines suck
+Sat Sep 04 10:14:49 PDT 2010 --  Crappy, lines for Portal2 and DragonAge2 are massive. 3 times around the booths. #pax
+Fri Sep 03 18:12:46 PDT 2010 --  Won a foil m11 sheet ! #pax so many ppl!
+Fri Sep 03 13:31:34 PDT 2010 --  Enforcers awesome ninjas, they frakking appear out of nowhere just by muttering their name. #pax
+Fri Sep 03 11:23:54 PDT 2010 --  Woo @ #pax, doing awesome #mtg puzzles
+Thu Sep 02 14:18:13 PDT 2010 --  @GatheringMagic hm. is Chandra really a well loved PW? After Ablaze it seems like she's kinda hated as a sucky PW. Awesome art #ChandraSucks
+Wed Sep 01 11:51:17 PDT 2010 --  I realize its more efficient having one's throat connect to both your stomach and lungs, but then the operator makes a mistake. #coughcough
+Sun Aug 22 13:12:39 PDT 2010 --  6 vengevines for the win. nice Ochoa! #usnats
+Sun Aug 22 12:21:31 PDT 2010 --  Grats to awesome plays by Josh Utter-Leyton, US Nats Champ! #usnats
+Sun Aug 08 21:10:13 PDT 2010 --  @wilw Your tweet is google's #2 hit for "print-on-demand ties". How are we supposed to find them with you hogging the search results?
+Wed Jul 28 13:46:08 PDT 2010 --  Best names for an #MTG block? Good - News - Everyone #ProfessorFarnsworth
+Tue Jul 27 14:10:54 PDT 2010 --  *yawn* took 40 minutes to install #SC2 from DVD on my 4yo 2.13Ghz Core Duo MBP w/SSD hard drive.
+Tue Jul 27 14:06:55 PDT 2010 --  Installing #SC2 on my MacBook Pro... takin a little while. Will install on PC when I get new mobo Thursday. excited!!
+Mon Jul 26 13:24:44 PDT 2010 --  @mtgradio I love the Sun + Fleshbag interaction. so sick. also, Grave is very scary. You need instant speed removal for Mythic/RDW
+Wed Jul 21 13:03:24 PDT 2010 --  @depickett do you have any Frost Titans?
+Wed Jul 21 11:04:48 PDT 2010 --  @Hawzzy I guess its only sealed day 1, draft day 2, so you only need to get top 128 day 1...
+Wed Jul 21 10:57:23 PDT 2010 --  @Hawzzy @gatheringmagic yea, i agree. def. sad that GP Portland is sealed. no amount of skill can help if your pool is crap
+Tue Jul 20 15:34:32 PDT 2010 --  @Smi77y Here's a start (also add Demigod of Revenge): http://bit.ly/a62YcM
+Tue Jul 20 11:54:23 PDT 2010 --  @GatheringMagic Absolutely not. The game is 70% social for me. As a game I feel RPG & Action video games beat it online.
+Tue Jul 20 08:36:18 PDT 2010 --  @fivewithflores @billy_moreno first thing I thought of after I read that article is "where's the MTG tv show?" def. need more of that. #mtg
+Mon Jul 19 20:24:16 PDT 2010 --  Life totals 1389, 379, 425, 64 and 41(me). This #edh game is crazy. #mtg
+Mon Jul 19 14:54:50 PDT 2010 --  @GatheringMagic @maro254, @norrytt, @mtgaaron and everyone else at Wizards is doing such an awesome job its hard to imagine a world w/o #mtg
+Mon Jul 19 14:34:44 PDT 2010 --  I have the best wife ever. IM'd her about #AlienSwarm on Steam. she has it installing on our PCs at home already for when I get home.
+Mon Jul 19 10:32:50 PDT 2010 --  @GatheringMagic I'm joking though. Very balanced standard it seems. Lots of good choices. Jace, TMS is too expensive, but not too powerful.
+Mon Jul 19 10:31:28 PDT 2010 --  @GatheringMagic Mana Leak. don't want those control kiddies getting out of hand ;)
+Fri Jul 16 22:18:36 PDT 2010 --  Went 3-0-1 at release. Of 15 ppl, 4 had platinum angel (inc me). Plummet is good!
+Thu Jul 15 10:48:22 PDT 2010 --  @Lee_Sharpe In FFA fun formats like EDH I enjoy pts-based wins. Its more bout fun than who's last standing.
+Thu Jul 15 10:04:01 PDT 2010 --  @Cybit85 Megan and I looking forward to the midnight release tonight, cya there! #mtg
+Thu Jul 15 09:44:55 PDT 2010 --  @wikileaks Thats excessively hyperbolic. The wars were started by lying politicians, and not exposed by inept and greedy mass media.
+Thu Jul 15 09:20:27 PDT 2010 --  @GatheringMagic Is MTG unique in its longevity for a trademarked competitive tabletop game? In 2030 I'll be in the matrix either way. #mtg
+Thu Jul 15 09:16:19 PDT 2010 --  Card getting me most excited for M11? Crystal Ball. The flavor and innocuousness is so great! Guess I like filtering my draws. #mtg
+Wed Jul 14 15:39:18 PDT 2010 --  @GatheringMagic Yea, tokens would be nice. I've lost a round at nat. quals due to forgetting my 1st Elspeth went ultimate (binned a land)
+Wed Jul 14 15:22:58 PDT 2010 --  @OldSpice When the zombie apocalypse comes, there will be Old Spice shortages. In light of this, is it possible to be a man w/o Old Spice?
+Wed Jul 14 13:31:46 PDT 2010 --  @Hawzzy osht monoblue! (replace Remove Soul with Essense Scatter) Could use another Quest, and have Sleep somewhere in the 75 #mtg
+Tue Jul 13 20:03:13 PDT 2010 --  If you haven't already, go to http://www.youtube.com/oldspice and watch @OldSpice literally change the internet for all time.
+Tue Jul 13 16:11:50 PDT 2010 --  Magic 2011 is here this Friday, July 16. Release event at the Lynnwood store starting at 6pm. $30 entry. Sealed deck rules apply!
+Tue Jul 13 15:49:19 PDT 2010 --  @Hawzzy Run into that problem often?
+Tue Jul 13 14:51:58 PDT 2010 --  @Hawzzy whoa, Canada. Good luck up there.
+Tue Jul 13 14:45:21 PDT 2010 --  @Hawzzy What legacy tournament? (not that I play)
+Tue Jul 13 14:42:07 PDT 2010 --  @dailymtg Seems obv. the replacement effect puts the card OTB, does not cast it. It wasn't cast, it couldn't be kicked, so discard 3 cards.
+Tue Jul 13 09:15:09 PDT 2010 --  @lunacite BZZZZZZZZZZZZZZZZZZNOZZZZZZZZZZZZZZZZZ
+Sun Jul 11 08:36:52 PDT 2010 --  ya, just placed a small order from channelfireball for the cards i'll use. except the primeval titan, which i'm hoping will drop in price
+Sun Jul 11 07:51:29 PDT 2010 --  @JonLoucks Had 30 at Ernie's in Woodinville. M11 limited is kinda meh. Opening a pool of meh, compared to Rise, which was a pool of awesome.
+Sat Jul 10 15:40:33 PDT 2010 --  @lunacite we're at ernie's. I'm 1-1, Dennis and Nate are 2-0. #mtg
+Thu Jul 08 15:29:21 PDT 2010 --  @Smi77y uw: All is Dust, Ulamog/Emrakul / mythic: path & DoJ, possibly All is Dust too if they're more PW heavy
+Thu Jul 08 14:55:55 PDT 2010 --  @JonLoucks you just tweeted your phone and address to the world. >< #BadIdea Good luck with the job hunt and grats on graduating!
+Wed Jul 07 14:05:19 PDT 2010 --  its infuriatingly hard to concentrate and code when there's concrete drilling and metal sawing happening on the other side of the drywall
+Wed Jul 07 11:43:34 PDT 2010 --  @jessehogie Combat damage can't be redirected to a planeswalker, only noncombat damage. See rules 306.6 and 306.7
+Wed Jul 07 11:37:00 PDT 2010 --  @GatheringMagic If the targeted creature would be able to attack either you or a pw you control, it must attack you, not the planeswalker.
+Tue Jul 06 11:21:00 PDT 2010 --  #ebz I've gone to Fallen London! http://www.failbettergames.com/echobazaar
+Mon Jul 05 12:27:21 PDT 2010 --  @mtgaaron So, I can't Lightning Bolt your PW, but I can Maelstrom Pulse it? Thats a confusing distinction.
+Mon Jul 05 10:57:46 PDT 2010 --  @thepchapin The day you get your hoverboard is October 21, 2015. http://bit.ly/9TGGXp
+Mon Jul 05 08:50:59 PDT 2010 --  @GatheringMagic Completely overblown. Bunch of crazy people on the internet, to be expected.
+Thu Jul 01 14:26:33 PDT 2010 --  @misterorange that articles deals more damage than there are atoms in the observable universe, yet is non-infinite. amazing.
+Wed Jun 30 12:09:18 PDT 2010 --  @mtgaaron Are you saying all PTQs in the known future will be standard? What about Extended next spring? Mine & Bell will be legal, right?
+Tue Jun 29 17:39:59 PDT 2010 --  @mtgcolorpie @lunacite I'm leaving now, will be 30 Mon late #edh
+Mon Jun 28 13:30:39 PDT 2010 --  @NorrYtt while the slavedriver is a zombie, the Titan gets you your 2 zombies immediately, and has an awesome name and art. i love the titan
+Mon Jun 28 11:02:13 PDT 2010 --  @GatheringMagic Then Jace Beleren would rotate out. Sun Titan's bestest friend would leave him!
+Sun Jun 27 12:35:27 PDT 2010 --  Sad :( 1-2 drop. Lost to naya. Good cascade in game 1 to package sealed that. Mull to 4 game 2. #ptqseattle
+Sun Jun 27 11:55:34 PDT 2010 --  Beat mirror in 3, mull to 4 did not win me game 1. #ptqseattle
+Sun Jun 27 10:49:44 PDT 2010 --  Bant turban beat me round 1. 7 more rounds to go! #scgseattle
+Sun Jun 27 10:07:35 PDT 2010 --  141 here at #seattle #mtg
+Sat Jun 26 19:47:20 PDT 2010 --  oh, go into top 8 by.34% on my tie breakers. shesh! #cgcseattle
+Sat Jun 26 19:46:50 PDT 2010 --  finished 5-8 in the top 8. match was unexciting as jund kept a 3 bolt hand and i mulled to 5. still, first time in top 8, made some $$. woo!
+Sat Jun 26 17:01:59 PDT 2010 --  Holy crap. Drew round 7, am like 95% sure for top 8.
+Sat Jun 26 15:29:02 PDT 2010 --  4-1 beat gw turbolands, good games. On to pentiultimate round Woohoo! #cgcseattle
+Sat Jun 26 14:16:24 PDT 2010 --  3-1, lost rnd 3 to UW, double mull to 5 is bad. Still in the game. #cgcseattle
+Wed Jun 23 12:40:41 PDT 2010 --  @mtgcolorpie also, this wouldn't be happening if they didn't get breaks. one of them would probably be hospitalized
+Wed Jun 23 12:40:10 PDT 2010 --  @mtgcolorpie this tennis thing is amazing. my coworkers and i had to look up tennis rules to figure out what was up
+Wed Jun 23 12:39:11 PDT 2010 --  #ThingsIveDoneShorterThanThisTennisGame flown to Europe from WA
+Tue Jun 22 12:41:08 PDT 2010 --  @mtgcolorpie #youmightbeanedhdbif you keep track of your life and counters in your head, basically forcing other players to do it for you
+Tue Jun 22 10:30:54 PDT 2010 --  @thepchapin Because life is suffering.
+Tue Jun 22 08:47:49 PDT 2010 --  @fivewithflores I find power without accountability and public disclosure scary. I know, not very imaginative, but rational.
+Tue Jun 22 08:35:59 PDT 2010 --  @thepchapin "real"/"usable" would be concepts defined through scientific inquiry based on repeatable, measurable evidence
+Tue Jun 22 08:29:46 PDT 2010 --  @thepchapin God and Chaos are both concepts. One of them is real, the other is not. That is the difference.
+Fri Jun 18 20:32:24 PDT 2010 --  @depickett's only play vs goblins... didn't help :( http://twitgoo.com/147m9x
+Wed Jun 16 13:34:03 PDT 2010 --  @Hawzzy Ha! I'm having a no hair week!
+Sun Jun 13 18:24:32 PDT 2010 --  Just saw the new #karatekid. Excellent movie! Def. a great movie to see in theaters, China shots were beautiful.
+Sat Jun 12 18:02:26 PDT 2010 --  Sucks. Went 4-2-1 drop w/mythic pws. NLB kicked my butt. #scgseattle
+Sat Jun 12 16:20:53 PDT 2010 --  Lost to nlb, am 4-1-1 now #scgseattle
+Sat Jun 12 15:26:39 PDT 2010 --  Woo 4-0-1, beat time sieve
+Sat Jun 12 13:18:51 PDT 2010 --  3-0 beat GR beastmaster in 2 games #scgseattle
+Sat Jun 12 12:08:27 PDT 2010 --  2-0 beat grixis control 2-1 #scgseattle
+Fri Jun 11 18:46:55 PDT 2010 --  @depickett we won't make it to the tmn, helped friend move.
+Wed Jun 09 08:20:14 PDT 2010 --  Great. More sheet metal hammering at work today. Coding has never been easier!
+Mon Jun 07 10:15:58 PDT 2010 --  Currently frustrated w/Exchange 2003 owa and connecting ANY webdav client to it. #hate_exchange
+Fri Jun 04 21:32:23 PDT 2010 --  Goblin assault in super friends is so fun! #mtg
+Fri Jun 04 17:45:47 PDT 2010 --  Woot! New HTC evo 4g is sweeeeet. Amazing... #htcevo
+Thu Jun 03 16:01:03 PDT 2010 --  @gfraggle99 Heh ya that was the point. Its that bad :) #badtemplates
+Thu Jun 03 15:52:14 PDT 2010 --  If ~ was kicked, it costs (3) less to cast. #badtemplates
+Thu Jun 03 15:10:09 PDT 2010 --  Exchange two target verbs on card(s) you control. #BadTemplates
+Thu Jun 03 14:25:06 PDT 2010 --  @GatheringMagic All creatures with Horsemanship lose Horsemanship and gain Flying. #badtemplates
+Thu Jun 03 14:18:13 PDT 2010 --  Destroy target Plane. Gain life equal to the number of times the planeswalk dice has been rolled while on that plane. #badtemplates
+Thu Jun 03 14:15:37 PDT 2010 --  {T}: Untap target permanent that has not been tapped this turn. #badtemplates
+Thu Jun 03 14:11:25 PDT 2010 --  When ~ attacks, if it has attacked this turn, it gains haste. #badtemplates
+Thu Jun 03 14:05:57 PDT 2010 --  Choose a permanent. That perm. loses a number of counters of your choice equal to the number of cards in an opponent's hand. #badtemplates
+Thu Jun 03 11:00:51 PDT 2010 --  @GatheringMagic I have not played it, and don't plan to, even though I'm a big Steam fan. Paper will get me by.
+Thu Jun 03 10:33:31 PDT 2010 --  @mtgcolorpie totally mindblowing. like music visualizers, it just sucked me in and hypnotized me for 4 minutes
+Thu Jun 03 09:45:33 PDT 2010 --  @ccgtradepost absolutely! its why I play the game, of course :)
+Thu Jun 03 07:14:23 PDT 2010 --  hmmm, DotP Nissa has less cleavage http://bit.ly/adecJg #mtg
+Wed Jun 02 15:45:18 PDT 2010 --  @mtgcolorpie @mulldrifting I saw Prince of Persia last weekend, it was great. could have used more puzzles and dagger, but still watchable.
+Wed Jun 02 15:19:45 PDT 2010 --  @maro254 you should write an awesome paragraph about your awesome Scars block game, then replace everything spoilerish with "Goblin" :D
+Wed Jun 02 13:15:47 PDT 2010 --  RT @hawzzy http://bit.ly/bxNWTa
+Tue Jun 01 16:02:33 PDT 2010 --  @mtgcolorpie EDH 6pm tonight @ crossroads, right?
+Wed May 26 16:25:36 PDT 2010 --  @GatheringMagic ooo, those few new planeswalkers would be pretty awesome
+Wed May 26 15:40:14 PDT 2010 --  @fivewithflores wtf? hello crazy people. Should have sanity checks on regulations like this every year. Clear the stupidity.

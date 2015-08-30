@@ -1,0 +1,19 @@
+Fri Aug 28 16:44:29 PDT 2015 --  So happy when I can find this beer. It is 100% delicious. @lakefront pic.twitter.com/2IAbXHzlH8
+Fri Aug 28 14:50:31 PDT 2015 --  This has been a perfect windows open and nest off week in Indiana.
+Thu Aug 27 08:11:58 PDT 2015 --  "i get paid to be suspicious when there nothing to be suspicious about."
+Thu Aug 27 06:49:23 PDT 2015 --  I'm digging the Atlassian Bamboo cloud offering, but wish they would throw you a bone on testing out a build server in a "test" mode.
+Mon Aug 24 11:08:04 PDT 2015 --  Reasonable Doubt is a must listen to podcast with @markgeragos and @adamcarolla
+Sun Aug 23 14:12:21 PDT 2015 --  Today was a game of "let's see how hot and humid we can make the house before the kids can't take it" - air went on at 4:45.
+Sat Aug 22 11:34:53 PDT 2015 --  My daughter, @AveryMcQuillan has been to 600% more concerts than I have.
+Fri Aug 21 20:32:31 PDT 2015 --  I wish we were over our horror movie phase.
+Fri Aug 21 15:54:28 PDT 2015 --  Culture is what culture does. Culture isn’t what you intend it to be. It’s not what you hope or aspire for it to be. It’s what you do.
+Fri Aug 21 08:14:08 PDT 2015 --  "adhoc puppetry" is fun to say
+Fri Aug 21 06:03:32 PDT 2015 --  "Sorry, I don't make the rules." - person who's really happy about the rules.
+Thu Aug 20 15:28:50 PDT 2015 --  I am the middle school art teacher of the software development process.
+Thu Aug 20 03:44:52 PDT 2015 --  The gentrification of servers.
+Wed Aug 19 05:27:05 PDT 2015 --  Negative @chs - There is no better way to ruin green tea than with mint.
+Tue Aug 18 19:02:58 PDT 2015 --  people aren't that great at code people aren't that great at infrastructure infrastructure as code what could possibly go wrong?
+Wed Aug 19 04:37:55 PDT 2015 --  Spent yesterday trying to figure out why a client wasn't displaying on the Sensu dashboard. I'm sure it'll be obvious this morning. #hopes
+Mon Aug 17 19:11:16 PDT 2015 --  Incredibles 2? That'll be the next movie I see in the theater.
+Sun Aug 16 20:01:12 PDT 2015 --  Seriously what's not to love about @hashicorp https://github.com/hashicorp/puppet-bootstrap …
+Thu Aug 13 08:10:19 PDT 2015 --  Using Terraform with Microsoft Azure http://doics.co/2015/08/13/using-terraform-with-microsoft-azure/ …

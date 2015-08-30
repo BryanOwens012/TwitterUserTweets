@@ -1,0 +1,28 @@
+Thu Jul 04 22:03:55 PDT 2013 --  Solved my ssh issue! It helps not to have two things forward to the same port... Duh #noob
+Mon Jun 10 04:38:33 PDT 2013 --  Why using your microwave to make tea is generally a bad idea: http://lifehac.kr/tzQ3HMh 
+Thu Mar 14 07:09:13 PDT 2013 --  At least it was a different error this time.
+Wed Feb 27 20:39:30 PST 2013 --  Rebooting pk5000 modem with python.
+Sun Feb 24 13:33:13 PST 2013 --  The deeper you go, the scarier it becomes.
+Sun Feb 24 12:50:13 PST 2013 --  Excellent day to explore!
+Sun Feb 24 10:26:58 PST 2013 --  Thinking I may just go with m0n0wall for my soekris net4801 board.
+Wed Feb 20 14:35:29 PST 2013 --  The internet doesn't sleep... And neither do I.
+Mon Feb 18 20:45:42 PST 2013 --  AppleScripting is actually a lot of fun. Who knew.
+Mon Sep 24 14:51:41 PDT 2012 --  "Design isn’t just something we appreciate, it’s something we do." -Yves Behar http://bit.ly/PgV9Ur  (Spelling fix from last tweet)
+Thu Sep 13 07:50:56 PDT 2012 --  I just entered to win a brand new iPhone 5 from @mightydeals at http://feeds2.feedburner.com/webdesignerdepot?format=html …
+Mon Aug 06 15:58:57 PDT 2012 --  The Bricks - User Interface Framework http://designmodo.com/the-bricks/  #psd #webdesign via @designmodo
+Sun Jul 29 07:48:07 PDT 2012 --  I've just taken the WordPress 2012 User and Developer Survey, have you? http://wpsurvey.polldaddy.com/s/wp-2012?src=pio … (pass it on!)
+Mon Jul 16 06:12:38 PDT 2012 --  Commercio Free - Business and e-Commerce Icons Set http://designmodo.com/commercio-free/  #icons via @designmodo
+Thu Jul 04 22:03:55 PDT 2013 --  Solved my ssh issue! It helps not to have two things forward to the same port... Duh #noob
+Mon Jun 10 04:38:33 PDT 2013 --  Why using your microwave to make tea is generally a bad idea: http://lifehac.kr/tzQ3HMh 
+Thu Mar 14 07:09:13 PDT 2013 --  At least it was a different error this time.
+Wed Feb 27 20:39:30 PST 2013 --  Rebooting pk5000 modem with python.
+Sun Feb 24 13:33:13 PST 2013 --  The deeper you go, the scarier it becomes.
+Sun Feb 24 12:50:13 PST 2013 --  Excellent day to explore!
+Sun Feb 24 10:26:58 PST 2013 --  Thinking I may just go with m0n0wall for my soekris net4801 board.
+Wed Feb 20 14:35:29 PST 2013 --  The internet doesn't sleep... And neither do I.
+Mon Feb 18 20:45:42 PST 2013 --  AppleScripting is actually a lot of fun. Who knew.
+Mon Sep 24 14:51:41 PDT 2012 --  "Design isn’t just something we appreciate, it’s something we do." -Yves Behar http://bit.ly/PgV9Ur  (Spelling fix from last tweet)
+Thu Sep 13 07:50:56 PDT 2012 --  I just entered to win a brand new iPhone 5 from @mightydeals at http://feeds2.feedburner.com/webdesignerdepot?format=html …
+Mon Aug 06 15:58:57 PDT 2012 --  The Bricks - User Interface Framework http://designmodo.com/the-bricks/  #psd #webdesign via @designmodo
+Sun Jul 29 07:48:07 PDT 2012 --  I've just taken the WordPress 2012 User and Developer Survey, have you? http://wpsurvey.polldaddy.com/s/wp-2012?src=pio … (pass it on!)
+Mon Jul 16 06:12:38 PDT 2012 --  Commercio Free - Business and e-Commerce Icons Set http://designmodo.com/commercio-free/  #icons via @designmodo

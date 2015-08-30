@@ -1,0 +1,235 @@
+Wed Aug 26 12:13:57 PDT 2015 --  CSS Animations vs. JavaScript http://www.joshmayorga.net/blog/web-development/css-animations-vs-javascript/ … #webdesign #webdev #design
+Tue Aug 25 13:48:27 PDT 2015 --  iOS 9 content blocking will transform the mobile Web: I’ve tried it http://tnw.to/p3QZW  via @thenextweb #webdesign #html #css
+Fri Aug 21 10:30:52 PDT 2015 --  Snap! With the release of our first Bootstrap 4 alpha, we just passed 85,000 stars on GitHub! https://github.com/twbs/bootstrap 
+Sun Aug 23 19:36:18 PDT 2015 --  Progressive design for the modern web http://www.webdesignerdepot.com/2015/08/progressive-design-for-the-modern-web/ … via @designerdepot
+Sat Aug 22 13:51:44 PDT 2015 --  The state of responsive images in 2015 http://www.webdesignerdepot.com/2015/08/the-state-of-responsive-images/ … via @designerdepot #webdesign #design
+Thu Aug 20 10:47:08 PDT 2015 --  Bootstrap 4 alpha: http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/ … via @getbootstrap #webdesign #webdev #html #css #javascript
+Sat Aug 15 12:21:54 PDT 2015 --  How to create a personal brand, and why you should http://www.webdesignerdepot.com/2015/08/how-to-create-a-personal-brand-and-why-you-should/ … via @designerdepot
+Thu Aug 13 21:50:19 PDT 2015 --  GitHub Desktop is now available https://github.com/blog/2046-github-desktop-is-now-available … #webdesign #WebDevelopment #webdev
+Wed Aug 12 13:23:50 PDT 2015 --  Do hamburger menus work on desktop sites? http://www.webdesignerdepot.com/2015/08/do-hamburger-menus-work-on-desktop-sites/ … #webdesign #UIdesign
+Mon Aug 10 11:36:07 PDT 2015 --  How to develop the perfect web skillset http://www.webdesignerdepot.com/2015/07/how-to-develop-the-perfect-web-skillset/ … via @designerdepot
+Wed Aug 05 15:40:57 PDT 2015 --  The quick guide to speeding up your websites http://www.webdesignerdepot.com/2015/07/the-quick-guide-to-speeding-up-your-websites/ … via @designerdepot #webdesign
+Tue Aug 04 19:18:30 PDT 2015 --  Grab 90% off stock images from Depositphotos http://www.webdesignerdepot.com/2015/07/grab-90-off-stock-images-from-depositphotos/ … via @designerdepot #webdesign
+Fri Jul 31 11:48:14 PDT 2015 --  Just put your image size (width & height) after our URL and you'll get a placeholder. https://unsplash.it/  #webdesign #design
+Thu Jul 30 15:29:27 PDT 2015 --  Create La specializes in making unique and professional websites . Reach us here http://createla.us/  #webdesign #entrepreneur #design
+Sun Jul 26 11:18:23 PDT 2015 --  Enter a url to a picture and this website will generate a color palette based on the picture's composition #WebDesign http://www.degraeve.com/color-palette/ 
+Tue Jul 21 14:41:18 PDT 2015 --  Pixate is now with Google and has a better Free Plan! http://blog.pixate.com/post/124673189563/google … #webdesign #google #free @Pixate
+Thu Jul 16 16:42:33 PDT 2015 --  Was a pleasure to design and create the #webpage for such an awesome product http://flattitudebelt.com/  #flattitude #flatbelt #curves #fashion
+Tue Jul 14 21:32:27 PDT 2015 --  Firefox Now Blocks Flash By Default http://gizmodo.com/firefox-now-blocks-flash-by-default-1717664482 … #flash #webdesign #Firefox
+Wed Jul 08 04:55:52 PDT 2015 --  An Overview of Material Design Lite http://ow.ly/PkgZL  by @tfirdaus #mdl pic.twitter.com/XSrMIlSOeT
+Tue Jul 07 14:35:34 PDT 2015 --  Web Fundamentals - Best practices for great multi-device web experiences https://developers.google.com/web/fundamentals/ … #webdesign #webdevelopment #html #css
+Mon Jul 06 12:39:35 PDT 2015 --  Introducing Material Design https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031 … #webdesign #UI #html #css #javascript
+Sun Jul 05 01:13:21 PDT 2015 --  Website Of The Day is Quit Smoking http://bit.ly/1BN76sh  by Apt @TRYReklame #CSSDA #WOTD pic.twitter.com/G40xa1hQLR
+Wed Jul 01 19:45:04 PDT 2015 --  Create La specializes in making unique and professional websites . Reach us here http://createla.us/  #webdesign #entrepreneur #design
+Sat Jun 27 14:25:40 PDT 2015 --  Recommended GitHub Atom Packages for Web Developers http://elijahmanor.com/github-atom-packages/ … via @elijahmanor #webdesign #webdev
+Fri Jun 26 12:12:02 PDT 2015 --  Making Interfacing Easy and Intuitive Material Design. http://www.google.com/design/  #google #UI
+Wed Jun 24 11:07:24 PDT 2015 --  Photoshop gets an open source, HTML5-based interface for app design http://arstechnica.com/?p=695057  #webdesign #design #html #css
+Thu Jun 18 10:00:26 PDT 2015 --  Royalty free high resolution images for your personal and commercial projects. Updated daily. http://fancycrave.com/  #design #webdesign
+Wed Jun 17 14:57:02 PDT 2015 --  Great Simple Filterable Product Grid http://tympanus.net/codrops/2015/06/16/filterable-product-grid/ … #responsivedesign #webdesign #sellingonline #html #css
+Thu Jun 04 14:35:37 PDT 2015 --  Google shares SEM best practices based on internal data. Go to https://goo.gl/h83Pl2  pic.twitter.com/iF9ucX5lvw
+Mon Jun 15 14:15:01 PDT 2015 --  Check out this awesome young artist @ravmojo Look here for newly launched #MusicVideos http://ravmojo.com/  #MusicMonday #spreadthevibe
+Sat Jun 13 14:00:13 PDT 2015 --  How We Redesigned Hiveage as a Responsive Web App http://vesess.com/hiveage-responsive-redesign/ … via @vesess #webdev #design
+Thu Jun 11 13:01:17 PDT 2015 --  Awesome scroll effects #webdes #Design #HTML #css #JavaScript http://codyhouse.co/gem/page-scroll-effects/ …
+Sat Jun 06 13:51:29 PDT 2015 --  Creating a Future-Proof Responsive Email Without Media Queries http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919 … #webdesign #webdev #responsivedesign
+Thu Jun 04 19:01:32 PDT 2015 --  Minimalism in Web design: past and future #webdesign #design #designthinking http://thenextweb.com/dd/2015/06/03/minimalism-in-web-design-past-and-future/ …
+Mon Jun 01 22:02:52 PDT 2015 --  Simplify Your Stylesheets With The Magical CSS Viewport Units http://bit.ly/1EDoTSK  via @Tutorialzine pic.twitter.com/zaiSNaDavb
+Fri May 29 09:42:55 PDT 2015 --  Announcing Polymer Starter Kit, an opinionated scaffold for building responsive, offline-ready Polymer apps. pic.twitter.com/OD8GWiYENq
+Fri May 29 14:21:53 PDT 2015 --  A behind the scenes at building Google's visual framework http://www.google.com/design/videos/making-material-design/ … #google #design #webdesign #webdev #html #css
+Thu May 28 18:10:52 PDT 2015 --  Flat 3D buttons done in just #CSS #webdesign #codepen http://codepen.io/zootia/pen/MweMmB …
+Thu May 21 18:04:49 PDT 2015 --  http://createla.us/  Are you trying to get your #business or #startup to make a statement on the web? Let us do what we do best #webdesign
+Wed May 20 12:26:58 PDT 2015 --  Even if you're not planning on selling online, a well-crafted site is essential for any business http://www.entrepreneur.com/article/65204  #webdesign #smallbiz
+Tue May 19 13:49:43 PDT 2015 --  How to make a carousel using only #html and #css http://dancort.es/web-design/2015/05/17/how-to-make-carousel-only-html-css-no-javascript.html … #webdesign
+Sun May 17 11:48:29 PDT 2015 --  Brand is the idea that you stand for, made real by what you do. https://medium.com/@mikeatherton/ux-is-ui-105460807734 … #webdesign #design #UI #ux #css #html
+Fri May 15 11:01:45 PDT 2015 --  Pretty awseome pure CSS content filter http://codepen.io/samgordon/pen/jPqqWB … #css #webdesign @CodePen
+Wed May 13 17:22:31 PDT 2015 --  Looping, royalty-free videos for your next design project http://fancyfootage.club/  #webdesign #design
+Tue May 12 12:14:49 PDT 2015 --  There Is No Fold http://www.lukew.com/ff/entry.asp?1946 … #webdesign #html #css #javascript #jQuery
+Sat May 09 13:46:26 PDT 2015 --  20+ Most Useful #CSS , #HTML Cheat Sheets http://designsparkle.com/css-html-cheat-sheets/ … #webdesign #design
+Fri May 08 16:07:08 PDT 2015 --  Modern minimalism in web design IS the right choice https://medium.com/@andrew.burton/modern-minimalism-in-web-design-is-the-right-choice-d91ed888a62b … #webdesign #design #html #css
+Thu May 07 16:47:47 PDT 2015 --  A simple demo of CSS filter effects http://www.cssreflex.com/css-generators/filter/ … #css #webdesign
+Mon May 04 15:26:03 PDT 2015 --  Obama's 404 Page https://www.barackobama.com/404/  #webdesign #webdev #html #CSS #Obama
+Mon May 04 12:20:09 PDT 2015 --  Ramjet - morphing DOM elements http://www.rich-harris.co.uk/ramjet/  #webdesign #css
+Fri May 01 11:57:41 PDT 2015 --  SQLBolt - Interactive SQL tutorials http://sqlbolt.com/?wd  #sql #webdev
+Thu Apr 30 21:08:51 PDT 2015 --  This code in the Microsoft Edge teaser #ShittyProgramming #webdev #webdesign #javascript https://i.imgur.com/7MbmO9o.png 
+Thu Apr 30 13:45:16 PDT 2015 --  World's first canvas ParticleSlider - responsive, customizable, interactive http://particleslider.com  via @TaminoMartinius #webdesign
+Thu Apr 30 11:38:53 PDT 2015 --  It's amazing what you can create using html/css/jquery http://codepen.io/tmrDevelops/pen/MYVzMe … #html #css #jquery #webdesign
+Wed Apr 29 10:10:47 PDT 2015 --  Eager.io - an awesome bunch of little apps to make your websites seem faster and improve UX https://eager.io/apps  #webdesign #html #css
+Tue Apr 28 17:14:26 PDT 2015 --  Making Sense of Clip Path https://medium.com/@drewisthe/using-making-sense-of-clip-path-cf651676438c … #HTML #CSS #webdesign #webdev
+Sat Apr 25 16:11:21 PDT 2015 --  PaymentFont — A sleek Payment Webfont #webdesign #design #free
+Wed Apr 22 12:39:42 PDT 2015 --  Elevator.js, 'back to top' buttons have never been so real! http://tholman.com/elevator.js/  #javascript #webdesign #webdev
+Sun Apr 19 14:04:54 PDT 2015 --  http://createla.us/  Are you trying to get your #business or #startup to make a statement on the web? Let us do what we do best #webdesign
+Sun Apr 19 13:41:08 PDT 2015 --  An Awesome 3D Solar System created with CSS3 http://codepen.io/waynedunkley/full/YPJWaz/ … #css #webdesign
+Sat Apr 18 14:45:08 PDT 2015 --  Nearly CSS3 'only' Animated Search Input - Codepen http://codepen.io/waynedunkley/pen/mJbdZO … #css #webdesign
+Thu Apr 16 16:19:11 PDT 2015 --  UX design can directly impact revenues and if done right can really create a long lasting value. https://medium.com/@LetsAlign/user-experience-impacts-on-e-commerce-a5a953eb76e6 … #webdesign
+Sat Apr 11 17:44:44 PDT 2015 --  Ever wondered why all those fancy CSS demo's use translate() instead of position? http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/ … #webdesign #css #designthinking
+Sat Apr 11 15:25:51 PDT 2015 --  Responsive Device Morph http://codepen.io/chrisdothtml/pen/yydKjQ/ … #webdesign #html5 #css #javascript
+Thu Apr 09 20:11:05 PDT 2015 --  CSS Font Sizing Explained http://bitsofco.de/2015/css-font-sizing/ … #css #webdesign
+Tue Apr 07 09:39:09 PDT 2015 --  Some of these could make nice loading icons. http://gif.flrn.nl/  #webdesign #design
+Wed Apr 01 10:09:51 PDT 2015 --  Watch this CodePen code itself http://codepen.io/jakealbaugh/full/PwLXXP/ … #webdesign #html5 #css #javascript
+Tue Mar 31 13:37:43 PDT 2015 --  Google Maps lets you play Pac Man anywhere https://www.google.com/maps  #google
+Sun Mar 29 09:57:16 PDT 2015 --  Clean Up Your Mess - A Guide to Visual Design for Everyone http://www.visualmess.com/index.html  #design #webdesign #CSS
+Sat Mar 28 16:24:38 PDT 2015 --  http://createla.us/  Are you trying to get your #business or #startup to make a statement on the web? Let us do what we do best #webdesign
+Sat Mar 28 09:51:17 PDT 2015 --  snabbt.js — minimalistic JS animation library http://daniel-lundin.github.io/snabbt.js/  #webdesign #JavaScript
+Fri Mar 27 12:42:48 PDT 2015 --  Designer Combines Papyrus and Comic Sans, The End Is Near https://creativemarket.com/blog/2015/03/25/designer-combines-papyrus-and-comic-sans-the-end-is-near … #design #webdesign
+Thu Mar 26 16:47:53 PDT 2015 --  #Google will FINALLY solve #googlechrome laggy scrolling issue by using a Microsoft-made solution http://phandroid.com/2015/03/26/chrome-laggy-scrolling-fixed/ … #webdevelopment
+Wed Mar 25 12:27:22 PDT 2015 --  Thoughts on Designing in the Browser vs. Designing in Photoshop http://webdesign.tutsplus.com/articles/my-thoughts-on-designing-in-the-browser-vs-designing-in-photoshop--cms-23405 … #design #webdesign #createla #adobelife
+Mon Mar 23 14:46:49 PDT 2015 --  Awesome implementation of an interactive audio player/mixer http://www.madeon.fr/adventuremachine/?t=11,15,22,25 … #webdesign #MusicMonday #CreateLA
+Sun Mar 22 20:29:02 PDT 2015 --  http://createla.us/  Are you trying to get your #business or #startup to make a statement on the web? Let us do what we do best #webdesign
+Sun Mar 22 14:31:02 PDT 2015 --  How to Display Update Notifications in the Browser Tab http://webdesign.tutsplus.com/tutorials/how-to-display-update-notifications-in-the-browser-tab--cms-23458 … #webdesign
+Sun Mar 22 12:51:29 PDT 2015 --  Animation Principles for the Web https://cssanimation.rocks/principles/  #webdesign #html5 #css #javascript
+Sat Mar 21 14:03:53 PDT 2015 --  Some Awsome Stylish Social Buttons http://codepen.io/chrisdothtml/pen/azPYqq/ … #webdesign #html5 #css #javascript @CodePen
+Fri Mar 20 21:34:14 PDT 2015 --  Best sites for web design inspiration? http://www.reddit.com/r/web_design/comments/2zpk4u/best_sites_for_web_design_inspiration/ … #webdesign #html #css #javascript #design #inspiration
+Thu Mar 19 12:11:51 PDT 2015 --  Removing Referral Spam from Google Analytics http://viget.com/advance/removing-referral-spam-from-google-analytics … #webdesign #googleanalytics #Analytics
+Wed Mar 18 14:07:27 PDT 2015 --  Simple ideas for enhancing text input interactions. Check them out here http://tympanus.net/Development/TextInputEffects/index.html … #webdesign #CSS #HTML5
+Tue Mar 17 12:08:13 PDT 2015 --  Introduction to Bootstrap – A Tutorial https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x#.VQh7Zo7F98E … #html #javascript #css
+Mon Mar 16 13:19:17 PDT 2015 --  Check Out Better Scroll and Resize Event Handling Here http://viget.com/extend/better-scroll-and-resize-event-handling … #webdesign #webdevelopment #javascript
+Sun Mar 15 12:39:03 PDT 2015 --  CSS Sans - a pure CSS font http://yusugomori.com/projects/css-sans/fonts … #css #FontSunday #webdesign #createla
+Fri Mar 13 22:40:44 PDT 2015 --  An infographic on combining Google Fonts. http://www.fastprint.co.uk/blog/the-art-of-mixing-typefaces.html … #webdesign #design #css
+Thu Mar 12 18:30:35 PDT 2015 --  RT @Real_CSS_Tricks: Em-based media queries are based on… http://bit.ly/1B6rXou 
+Thu Mar 12 13:53:54 PDT 2015 --  Looking for a New and Modern Look for your #webpage? check us out at http://createla.us/  #webdesign #webdevelopment #graphicdesign
+Wed Mar 11 15:23:34 PDT 2015 --  Amazing experiment using WebGl http://vaalentin.github.io/2015/  #webdesign #design #webdev
+Tue Mar 10 17:50:35 PDT 2015 --  Awesome Creative Gooey Effects!! Check them out here http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/ … #webdesign #svg #design
+Tue Mar 10 10:13:52 PDT 2015 --  Awesome Material Design style text input with ZERO extra markup http://codepen.io/mildrenben/pen/gbddEj … @CodePen #html #css #javascript #CreateLA
+Mon Mar 09 10:05:31 PDT 2015 --  Implode SCSS http://codepen.io/BenjaminVilina/pen/NPLBNd … @CodePen #CSS #html5 #JavaScript #webdesign
+Sun Mar 08 15:36:18 PDT 2015 --  A minimal, single-column Jekyll theme that provides an immersive read experience for your readers https://github.com/SalGnt/Travelogue … #webdesign
+Fri Mar 06 08:54:00 PST 2015 --  Angular 2.0 Concerns Addressed at ng-conf 2015: http://www.infoq.com/news/2015/03/angular-2-concerns-addressed …
+Fri Mar 06 09:01:18 PST 2015 --  Color Contrast for Better Readability http://viget.com/inspire/color-contrast … #ColorsToYourLife #webdesign #html #css #design
+Tue Mar 03 12:38:32 PST 2015 --  Epic Starwars Opening Scroll | CodePen http://codepen.io/darrylhuffman/pen/MYBYgN … #html5 #CSS #javascript #webdevelopment
+Tue Mar 03 11:22:36 PST 2015 --  One of the coolest applications of #ResponsiveDesign #webdesign I've seen. (View on both mobile and desktop) http://www.cheerupemokid.com/comic/responsive-webcomic …
+Mon Mar 02 17:12:43 PST 2015 --  Unreal Engine 4 is now free https://www.unrealengine.com/what-is-unreal-engine-4 … #GameDevelopment #freesoftware #technews
+Sun Mar 01 15:32:08 PST 2015 --  Material design CSS news feed ! Hope you like it :) http://codepen.io/AglitterFlavius/pen/ByVGGx … #webdesign #html5 #css #javascript
+Thu Feb 26 12:47:38 PST 2015 --  Awesome SVG Masking Experiment. http://codepen.io/noeldelgado/pen/ByxQjL … #HTML #css #javascript #webdesign
+Tue Feb 24 20:33:27 PST 2015 --  An easier way to enter email addresses http://www.cxpartners.co.uk/cxblog/towards-an-easier-way-to-enter-email-addresses/ … #webdesign #innovation #CSS #html #javascript
+Tue Feb 24 19:00:08 PST 2015 --  More and more U.S. cities are getting in on the VC boom http://s.hbr.org/1D7usZo  pic.twitter.com/JlSMPYZRoB
+Tue Feb 24 12:31:46 PST 2015 --  Design is a constant challenge to balance comfort with luxe, the practical with the desirable. #webdesign #quoteoftheday
+Mon Feb 23 15:00:41 PST 2015 --  The #CreateLA team Just made a mock up demo that would be great for an #SEO company. http://dev.createla.us/SEO/  #webdesign #ResponsiveDesign
+Mon Feb 23 12:17:32 PST 2015 --  The best free UI kits, February 2015 http://www.webdesignerdepot.com/2015/02/the-best-free-ui-kits-february-2015/ … via @designerdepot #webdesign #design
+Sun Feb 22 11:50:17 PST 2015 --  The dangers of the "Google Analytics-powered Startup" http://simontorring.com/google-analytics/ … #webdevelopers
+Sat Feb 21 11:08:34 PST 2015 --  Polylion http://css-tricks.com/polylion/  via @real_css_tricks #webdesign #techy
+Fri Feb 20 18:01:18 PST 2015 --  Design Last http://www.smashingmagazine.com/2015/02/20/design-last/ … via @smashingmag #design #webdesign
+Fri Feb 20 15:32:09 PST 2015 --  Parallax Hero Image http://codyhouse.co/gem/parallax-hero-image/ … via @CodyWebHouse #webdesign
+Thu Feb 19 11:01:56 PST 2015 --  If you like HTTP then you'll love HTTP 2.0 http://theverge.com/e/7823992  via @verge #web #programming
+Thu Feb 19 10:54:49 PST 2015 --  Raspberry Pi is UK's best selling computer (Wired UK) http://www.wired.co.uk/news/archive/2015-02/18/raspberry-pi-5-million … #tech
+Tue Feb 17 16:47:32 PST 2015 --  Check out some of the top things people miss on #Google we masters http://youtu.be/421aTJI2Nxc  #SEO #smallbiz
+Mon Feb 16 17:02:09 PST 2015 --  Any #SEO #buisness that are looking to get a super clean, mobile friendly, and cheap #webpage. Check out http://dev.createla.us/SEO/  #webdesign
+Sun Feb 15 12:24:54 PST 2015 --  50 incredible freebies for web designers, February 2015 http://www.webdesignerdepot.com/2015/02/50-incredible-freebies-for-web-designers-february-2015/ … via @designerdepot #webdesign #greattools
+Sat Feb 14 16:42:20 PST 2015 --  Love is in the air, so all you #smallbiz show your #webpage some love. Check out http://createla.us/  Let us make your webpage lovable!
+Sat Feb 14 09:42:00 PST 2015 --  “A lot of human behavior can be explained with very simple mathematical models:" http://onforb.es/1zKW6hp 
+Fri Feb 13 15:30:55 PST 2015 --  Introducing Phorm, the world's first morphing touchscreen https://www.pinterest.com/pin/267682771578102909/ …
+Fri Feb 13 16:05:21 PST 2015 --  You Don't Have to Be a CEO to Develop Leadership Qualities http://entm.ag/1DYEldS  by @dhassell
+Thu Feb 12 16:04:23 PST 2015 --  Oceanic Next: An ES6-ready Sublime Text Theme - https://github.com/voronianski/oceanic-next-theme … (Optimized for the 6to5-sublime package.) pic.twitter.com/uzienpk4JS
+Wed Feb 11 13:47:10 PST 2015 --  Many things difficult to design prove easy to performance. #webdesign #quoteoftheday
+Tue Feb 10 17:45:16 PST 2015 --  5 Must-Haves for a Successful Logo http://entm.ag/1EWeg2P 
+Mon Feb 09 18:38:57 PST 2015 --  “Socrates said, “Know thyself.” I say, “Know thy users.” And guess what? They don’t think like you do.” #webdesign #QuoteOfTheDay
+Mon Feb 09 16:16:37 PST 2015 --  The ultimate guide to information architecture http://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/ … via @designerdepot
+Mon Feb 09 12:35:24 PST 2015 --  3 Facebook Hacks to Help With Organic Reach http://entm.ag/16AzXGR  via @Visually
+Mon Feb 09 10:51:23 PST 2015 --  Does anyone care about your new product? (Doing market research with Google’s Keyword Tool) from @andrewchen — http://andrewchen.co/does-anyone-care-about-your-new-product-conducting-market-research-with-googles-keyword-tool/ …
+Sun Feb 08 21:38:50 PST 2015 --  Google, Fidelity Invest $1 Billion in SpaceX to Spread Internet Access Across the Globe http://entm.ag/1Cxwq6h  via @Entrepreneur #wifi
+Sun Feb 08 09:45:32 PST 2015 --  3 Steps to Getting Good Press http://entm.ag/1Kfz9qU 
+Sat Feb 07 14:45:20 PST 2015 --  4 design trends that will survive 2015 http://www.webdesignerdepot.com/2015/02/4-design-trends-that-will-survive-2015/ … #webdesign #trending #design #UserExperience
+Sat Feb 07 11:05:18 PST 2015 --  5 Things Productive Entrepreneurs Do Each Day http://entm.ag/Sby2S6 
+Fri Feb 06 17:48:19 PST 2015 --  A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away. #webdesign
+Fri Feb 06 15:01:00 PST 2015 --  How to work a room: http://youtu.be/sO07O-tyAbg 
+Thu Feb 05 18:25:05 PST 2015 --  What to expect at the #Crunchies http://tcrn.ch/1yOtcZP  pic.twitter.com/nY8YgdCoX8
+Thu Feb 05 12:16:35 PST 2015 --  Any young or old professionals looking for a personal #webpage to help them get hired? We are offering great #deals! http://createla.us/ 
+Thu Feb 05 10:15:14 PST 2015 --  Top 10 Cities for Startup Tech Companies http://dld.bz/cFPde  #startup #entrepreneurship
+Thu Feb 05 11:48:00 PST 2015 --  The world’s email encryption software relies on one guy. And he's going broke. http://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke?utm_campaign=bt_twitter&utm_source=twitter&utm_medium=social … #email #security #software
+Wed Feb 04 18:13:06 PST 2015 --  Blue Oceans are attainable for everyone – even those without a creative mind for innovation http://s.hbr.org/1zK1PnS  pic.twitter.com/vwWrg2j6zb
+Sat Jan 31 20:54:42 PST 2015 --  In tech hiring, there's 'demand for everything' http://www.snsanalytics.com/zYpmy6 
+Wed Feb 04 17:26:20 PST 2015 --  Create free presentations without PowerPoint: @cheapskateblog tells you how http://cnet.co/1zap9WE  pic.twitter.com/lg3CrpgbJX
+Wed Feb 04 11:00:33 PST 2015 --  Get ready for GitHub Universe coming to San Francisco on October 1-2 https://github.com/blog/1955-get-ready-for-github-universe-october-1-2-in-san-francisco … pic.twitter.com/uoDbDhRh34
+Wed Feb 04 11:04:03 PST 2015 --  Great speech at @Entrepreneur #GrowthCon from @mariaseidman of @Yapp, our Emerging Entrepreneur of 2014. pic.twitter.com/b73py8eDG4
+Wed Feb 04 09:51:31 PST 2015 --  Top Tech Companies Are Now Using Ruby on Rails: http://tech.co/ruby-on-rails-2014-08#.VNJb2-7ZvTU.twitter … #webdesign #smallbiz #entrepreneur
+Tue Feb 03 19:35:25 PST 2015 --  Google Now takes a bite out of your privacy http://www.webdesignerdepot.com/2015/02/google-now-takes-a-bite-out-of-your-privacy/ … via @designerdepot #Google
+Tue Feb 03 10:29:48 PST 2015 --  Any #tech #startup that is in need of a an informational #website get in touch with us at http://createla.us/ . #smallbusiness #design
+Mon Feb 02 11:11:21 PST 2015 --  I would love to introduce myself to any #smallbiz or #entrepreneur who is in need #webdesign, and #analytics http://createla.us/ 
+Sun Feb 01 16:00:25 PST 2015 --  “There’s nothing wrong with staying small. You can do big things with a small team.” Jason Fried #webdesign #smallbiz #entrepreneur #quote
+Sat Jan 31 14:16:41 PST 2015 --  Pictures from Todays CoderDojo at Microsoft New England @MSNewEngland @masstlcef pic.twitter.com/9Nn05vELPP
+Sun Feb 01 08:25:12 PST 2015 --  Good deal: Bundle of 3 Fantastic Web Design Courses http://bit.ly/1CUJ6XH 
+Sat Jan 31 16:31:10 PST 2015 --  Would love to introduce myself to any #nonprofit in need of a new #webpage #nptech #socialgood #volunteer Reach out http://createla.us/ 
+Fri Jan 30 18:24:46 PST 2015 --  35+ inspiring quotes for designers http://www.webdesignerdepot.com/2014/02/35-inspiring-quotes-for-designers/ … via @designerdepot #webdesign
+Thu Jan 29 10:43:55 PST 2015 --  How much should you charge for design? http://www.webdesignerdepot.com/2015/01/how-much-should-you-charge-for-design/ … via @designerdepot #webdesign #smallbiz
+Wed Jan 28 18:31:25 PST 2015 --  Twitter's iOS app gets cool new features (pictures) http://cnet.co/1ttZ8Wd 
+Tue Jan 27 17:05:16 PST 2015 --  "When you’re consistent, it means never having to restart." -- @GregoryCiotti http://entm.ag/1Dd3u4d 
+Tue Jan 27 14:30:24 PST 2015 --  "If you want to have enormous success, then dream down this path of technology." — @iamwill http://www.nbcnews.com/watch/nbc-news/will-i-am-says-education-technology-are-key-to-changing-world-387595843804 …
+Tue Jan 27 12:20:20 PST 2015 --  Keep Your Customers as Close as Family http://entm.ag/1AD4HjB  by @ChuckCohn
+Sat Jan 24 17:51:09 PST 2015 --  101 inspirational #quotes for designers http://www.webdesignerdepot.com/2015/01/101-inspirational-quotes-for-designers/ … via @designerdepot #webdesign #inspiration
+Sat Jan 24 17:05:13 PST 2015 --  Running a business is a lot like riding a bull http://entm.ag/1yHVAk3 
+Sat Jan 24 12:57:58 PST 2015 --  Great day to be with a #community of people doing #webdesign in #LosAngeles
+Sat Jan 24 12:24:02 PST 2015 --  CrunchWeek: Box’s IPO pop, Microsoft’s HoloLens headset, Google’s $1B bet on SpaceX http://tcrn.ch/1D0IHkc  pic.twitter.com/uFAMFNoyqa
+Thu Jan 22 16:26:38 PST 2015 --  "A picture is worth a thousand words. An interface is worth a thousand pictures" #UI #webdesign #QuoteOfTheDay #design #intuitlife
+Wed Jan 21 11:48:47 PST 2015 --  7 Ways to Turn Your Everyday Customers Into Extraordinary Brand Advocates http://www.entrepreneur.com/article/241978  #entrepreneur #business #smallbiz
+Tue Jan 20 19:37:31 PST 2015 --  4 essential layout trends for 2015 http://www.webdesignerdepot.com/2015/01/4-essential-layout-trends-for-2015/ … via @designerdepot #webdesign
+Mon Jan 19 15:31:36 PST 2015 --  4 Ways to Market Your Business for Free http://www.entrepreneur.com/article/241607  Great Information for #smallBiz and #entrepreneur alike!
+Sat Jan 17 14:23:54 PST 2015 --  Pros & cons of infinite scrolling http://www.webdesignerdepot.com/2015/01/infographic-pros-cons-of-infinite-scrolling/ … via @designerdepot #webdesign #smallbiz
+Wed Jan 14 14:29:02 PST 2015 --  Databound - provides Javascript a simple CRUD API... | Ruby Daily stream http://stream.rubydaily.org/post/107131128465/databound-provides-javascript-a-simple-crud-api … via @rubydailyorg #webdevelopment
+Tue Jan 13 15:56:54 PST 2015 --  The best place for #Ruby gems https://rubygems.org/  #webdevelopment #programming #simplicityiskey
+Mon Jan 12 17:56:05 PST 2015 --  What Does 10 Petabytes of Data Look Like? Check this out!! http://www.webmonkey.com/2013/04/video-what-does-10-petabytes-look-like/ … #techies #technology
+Sun Jan 11 23:01:00 PST 2015 --  "We want to live in a world where anyone can be a scientist:" http://onforb.es/1KzNjDd  #30Under30 pic.twitter.com/KHGdCK8Xj4
+Sun Jan 11 18:08:37 PST 2015 --  Our favorite tweets of the week: January 5, 2015 – January 11, 2015 http://www.webdesignerdepot.com/2015/01/our-favorite-tweets-of-the-week-january-5-2015-january-11-2015/ … via @designerdepot #webdesign #community
+Sun Jan 11 13:38:50 PST 2015 --  Here are some fantastic #webdesign tools every designer should know about! http://www.creativebloq.com/web-design/underrated-tools-513154 … @CreativeBloq #webdevelopment #smallbiz
+Sat Jan 10 15:19:11 PST 2015 --  8 proven techniques that build trust in your website http://www.webdesignerdepot.com/2014/11/8-proven-techniques-that-build-trust-in-your-website/ … via @designerdepot #webdesign #smallbiz
+Sat Jan 10 12:28:07 PST 2015 --  14 Tools For Minifying JavaScript: http://www.hongkiat.com/blog/javascript-minifying-tools/ …
+Thu Jan 08 18:44:03 PST 2015 --  5 Marketing Trends That Didn't Go Well in 2014 http://www.entrepreneur.com/article/240772  #webdesign #webdevelopment #entrepreneur
+Thu Jan 08 15:40:51 PST 2015 --  This Startup Wants to Make Shopping Online Even Easier http://www.entrepreneur.com/article/241096  #webdesign #entrepreneur #smallbiz
+Wed Jan 07 14:56:19 PST 2015 --  CSS you can get excited about in 2015 http://www.webdesignerdepot.com/2015/01/css-you-can-get-excited-about-in-2015/ … via @designerdepot #webdesign #CSS
+Wed Jan 07 13:19:22 PST 2015 --  More-flexible digital communication | MIT News http://newsoffice.mit.edu/2014/more-reliable-communication-protocols-1212#.VK2XhpnIoHQ.twitter … #tech
+Tue Jan 06 11:57:32 PST 2015 --  The Good, The Bad And The Great Examples Of Web Typography http://www.smashingmagazine.com/2014/12/22/the-good-the-bad-and-the-great-examples-of-web-typography/ … via @smashingmag #webdesign #design
+Tue Jan 06 11:49:07 PST 2015 --  Hiring a developer? Read this first (Infographic) @lmmontini http://bit.ly/14iVe6X 
+Mon Jan 05 23:23:53 PST 2015 --  #HTML & #CSS is out! http://paper.li/davide_arnesano/1321874406 … Stories via @JRCreate @_samabraham @vasilvalkov
+Sun Jan 04 12:20:19 PST 2015 --  Turning Design Ideas into Reality: Brainstorming, Wireframing, Prototyping http://webdesignledger.com/resources/turning-design-ideas-into-reality-brainstorming-wireframing-prototyping … #webdesigner #webdevelopment #smallbiz
+Sat Jan 03 20:16:00 PST 2015 --  Yeah, flat is large and in charge right now, but for how much longer? http://www.webdesignerdepot.com/2014/12/has-flat-design-gone-too-far/ … via @designerdepot #webdesign #trends #UI
+Sat Jan 03 16:02:15 PST 2015 --  4 simple ways to perfect the UX of mobile ecommerce http://www.webdesignerdepot.com/2014/12/4-simple-ways-to-perfect-the-ux-of-mobile-ecommerce/ … via @designerdepot #ecommerce #webdesign
+Sat Jan 03 13:57:44 PST 2015 --  3 essential navigation trends for 2015 http://www.webdesignerdepot.com/2015/01/3-essential-navigation-trends-for-2015/ … via @designerdepot #wedesign #html #css #javascript
+Fri Jan 02 11:46:02 PST 2015 --  Designing Your Website to Serve Every Customer Individually http://www.entrepreneur.com/article/237782  #webdesign #webdevelopment #smallbiz #Entrepreneur
+Thu Jan 01 14:30:29 PST 2015 --  An original, creative layout goes a long way to improving the user experience of a website. http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/ … #webdesign #html #CSS
+Thu Jan 01 14:26:56 PST 2015 --  CSS-Only Solution For UI Tracking http://www.smashingmagazine.com/2014/10/16/css-only-solution-for-ui-tracking/#more-208694 … #CSS #webdevelopment
+Thu Jan 01 10:02:40 PST 2015 --  Whats new for #Ruby in #2O15 http://www.sitepoint.com/ruby-peek-2015/  #techie #webdeveloper
+Wed Dec 31 09:52:55 PST 2014 --  Check out these great #tech tools for the New Year! http://www.lifehack.org/articles/technology/new-tools-for-the-new-year-technology.html … #HappyNewYear #LifeHack
+Wed Dec 31 09:18:42 PST 2014 --  Check out all things cool in #VR Sculpting in Virtual Reality - Oculus Rift DK2 + …: http://youtu.be/jnqFdSa5p7w  #technology #innovation
+Tue Dec 30 16:56:32 PST 2014 --  78% of #php installs have at least one known security vulnerability. Pathetic.http://blog.ircmaxell.com/2014/12/php-install-statistics.html …
+Tue Dec 30 14:00:06 PST 2014 --  The key to innovation? Keeping a consistent leadership team in place for the long term. http://s.hbr.org/1Bl9aYL 
+Tue Dec 30 11:51:10 PST 2014 --  Check out this awesome tool that vanquishes unencrypted wifi networks inspired by the #Hobbit http://blog.spark.io/2014/12/17/warsting-a-wifi-scanning-sword-for-hobbits/ … #techie #gadget #hack
+Thu Dec 25 12:55:39 PST 2014 --  #MerryChristmas want to have come Christmas Fun with you kids? Check out this poorly designed, but fun website http://www.merry-christmas.com/kids-zone 
+Wed Dec 24 11:28:08 PST 2014 --  a good resource for new #webdesign concepts of 2015 #responsivedesign #webdeveloper http://moveableonline.com/blog/2014/08/01/web-design-trends-2014-whats-next/ …
+Tue Dec 23 16:10:10 PST 2014 --  Starting to get my feet wet with #rubyonrails. Here are some reasons you should too http://blog.teamtreehouse.com/reasons-why-every-web-designer-needs-to-learn-rails … #webdevelopment
+Sat Dec 20 12:54:30 PST 2014 --  How To Speak Startup http://tcrn.ch/1yTmBwr  via @techcrunch
+Sun Dec 21 14:30:49 PST 2014 --  Great upcoming #webdesign conferences http://www.smashingmagazine.com/2014/12/08/upcoming-web-design-events-dec-2014-june-2015/ … #html5 #css
+Sat Dec 20 17:55:37 PST 2014 --  Check out these very clever #presents for web designers. http://www.creativebloq.com/web-design/christmas-gift-ideas-121410032 … #webdesign #HappyHolidays
+Sat Dec 20 10:01:27 PST 2014 --  This map shows the most educated town in every state. http://read.bi/1qFmt3I  pic.twitter.com/mLo8wZhWG5
+Sat Dec 20 10:25:10 PST 2014 --  6 daily battles in the life of a coder http://bit.ly/1GtzsLN 
+Sat Dec 20 14:33:36 PST 2014 --  3 Great #design Tips for Building a Website for a #SmallBusiness. http://www.huffingtonpost.com/alex-ivanovs/3-design-tips-for-buildin_b_5937738.html … #entrepreneur #santamonica #webdesign
+Fri Dec 19 20:15:02 PST 2014 --  The ten biggest things that will happen with the internet in 2015 http://buff.ly/1z3xsUz  pic.twitter.com/lOzY8m4kqs
+Fri Dec 19 20:06:03 PST 2014 --  Do you agree with these new trends in the growing industry of #webdesign?http://www.elegantthemes.com/blog/resources/web-design-trends-to-look-out-for-in-2015 … #entrepreneurs #freelance #UX
+Fri Dec 19 16:49:16 PST 2014 --  Check out these awesome #responsivedesign tools http://www.webdesignerdepot.com/2013/10/the-5-best-tools-for-responsive-design/ … #webdesign
+Thu Dec 18 10:58:04 PST 2014 --  Material UI Colors - http://materialui.co/colors 
+Thu Dec 18 10:46:37 PST 2014 --  Do you think Dreamweaver CC is bridging the gap between #webdesigners and #webdevelopers? http://www.sitepoint.com/dreamweaver-2014-opens-psds/ … #html #javascript #css #php
+Wed Dec 17 18:43:03 PST 2014 --  A brief history on #webdesign. http://blog.froont.com/brief-history-of-web-design-for-designers/ … What are your thoughts on the future of the web? #HTML #CSS #javascript #php
+Wed Dec 17 18:25:03 PST 2014 --  Tweaking the Moral UI http://bit.ly/1znFZpg  / @alistapart
+Wed Dec 17 14:55:12 PST 2014 --  A #desinger knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away. #webdesign
+Sun Dec 14 18:06:41 PST 2014 --  "Never re-invent the wheel, unless you’re sure the client needn’t go anywhere" #html5 #webdevelopment #quote
+Sun Dec 14 13:41:02 PST 2014 --  'JavaScript for Kids' Book Released: http://www.nostarch.com/javascriptforkids … pic.twitter.com/ZcnhMUuhiK
+Sun Dec 14 14:25:34 PST 2014 --  How much does #Google use the Keywords #metadata? The answer might surprise you https://www.youtube.com/watch?v=jK7IPbnmvVU … #webdesign
+Sun Dec 14 12:50:27 PST 2014 --  Making good #design is easy. Here is a link to of the just donts when it comes to #webdesign http://www.mrbottles.com/ 
+Sat Dec 13 14:14:17 PST 2014 --  Some of the best #webdesign and #webdevelopment tools around right here for free https://www.google.com/webmasters/ !! #webdesigner #ShareTheLove
+Sat Dec 13 12:18:10 PST 2014 --  The point is that I don't design stuff for myself. I'm a toolmaker. I design things that other people want to use. #Designer #webdesign
+Thu Dec 11 12:50:22 PST 2014 --  Tips for Creating Fullscreen Website Backgrounds #webdesign #fullscreen #backgrounds #websitedesign http://ow.ly/FIXtM 
+Fri Dec 12 10:26:30 PST 2014 --  To design the future effectively, you must first let go of your past. #design #webdesigner #responsivedesign
+Sun Dec 07 15:40:24 PST 2014 --  The life of a designer is a life of fight: fight against the ugliness #designerproblems #webdesign #CSS
+Sat Dec 06 11:40:56 PST 2014 --  If you have a business, you should have a website. Period. No question. Without a doubt.http://www.entrepreneur.com/article/65204  #entrepreneur #webdesign
+Tue Dec 02 16:37:43 PST 2014 --  The difference between a Designer and Developer when it comes to design skills, is the difference between shooting a bullet and throwing it
+Mon Dec 01 16:15:36 PST 2014 --  "Being a graphic designer gets you used to rejection of your brilliance. So it’s good practice for dating" A great #quote on #webdesign
+Sun Nov 30 17:17:35 PST 2014 --  https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/ … Google #webdevelopers go in depth on the foundation of making flawless responsive web pages. With #HTML5 & #CSS
+Fri Nov 28 17:08:23 PST 2014 --  "No masterpiece was ever created by a lazy artist" #SalvadorDali #design #webdesign
+Fri Nov 28 12:59:09 PST 2014 --  To create a memorable design you need to start with a thought that’s worth remembering #design #webdesign #smallbusiness
+Sun Nov 23 14:16:52 PST 2014 --  If you are hiring a #Webdesigner make sure they are using Responsive Web design techniques .Here are some reasons why http://www.huffingtonpost.com/john-rampton/business-mobile-responsive-design_b_5267077.html …
+Fri Nov 21 09:57:49 PST 2014 --  A computer without Photoshop is like a dog with no legs. Sure is fun, but you can’t really do anything with it. #design #webdesign
+Thu Nov 20 12:25:53 PST 2014 --  The computing scientist’s main challenge is not to get confused by the complexities of his own making. #programming #webdesigner
+Tue Nov 18 12:30:50 PST 2014 --  Good design is all about making other designers feel like idiots because that idea wasn’t theirs. #quote #design #webdesign
+Mon Nov 17 11:03:39 PST 2014 --  "Beauty is the ultimate defense against complexity" #webdesigner #quote #CSS
+Sun Nov 16 14:00:19 PST 2014 --  Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works. #SteveJobs
+Sat Nov 15 16:05:10 PST 2014 --  "Anything less than exceptional customer service is your fault." -- @theofficialgkic http://entm.ag/1sMBEWf 
+Sat Nov 15 15:09:59 PST 2014 --  The SCO trick is to draw traffic with desirable content, and to ’seduce’ the traffic into portions of the site. #webdesigner #SEO #HTML5
+Fri Nov 14 19:13:00 PST 2014 --  Most of the time we don’t choose the best option we choose the first reasonable option, a strategy known as satisfying. #design #webdesign
+Wed Nov 12 15:31:22 PST 2014 --  A camel is a horse designed by committee. "Alec Issigonis" #quote #webdesign #SantaMonica
+Tue Nov 11 15:31:17 PST 2014 --  “Websites promote you 24/7: No employee will do that.” ― Paul Cookson #webdesigner #quote #HTML5
+Mon Nov 10 16:35:28 PST 2014 --  Recognizing the need is the primary condition for design. "Charles Eames" #webdesign #HTML5 #css
