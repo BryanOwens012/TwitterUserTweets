@@ -1,84 +1,100 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.MalformedURLException;
+import java.net.URISyntaxException;
+import java.net.URL;
 import java.util.List;
-import java.util.Scanner;
-import java.util.concurrent.atomic.AtomicInteger;
 
-public class Main extends TwitterSearch {
+import org.apache.http.client.utils.URIBuilder;
 
-	private final AtomicInteger counter = new AtomicInteger();
-	public static int count = 0;
-	public static int numLines = 0;
-	public static int numUsers = 0;
+import com.google.gson.Gson;
 
-	@Override
-	public boolean saveTweets(List<Tweet> tweets) {
-		if (tweets != null) {
-			for (Tweet tweet : tweets) {
-				System.out.println(counter.getAndIncrement() + 1 + "["
-						+ tweet.getCreatedAt() + "] - " + tweet.getText());
-				if (counter.get() >= 100) {
-					return false;
-				}
-			}
-		}
-		return true;
-	}
+public abstract class TwitterSearch {
 
-	public static void main(String[] args) throws Exception {
+    public TwitterSearch() {
 
-		// TwitterSearch twitterSearch = new TwitterSearchImpl();
-		// twitterSearch.search("BarackObama", 2000);
+    }
 
-		System.out
-				.println("This program takes a file full of Twitter screen names (e.g., @BarackObama), and for each screen name, creates a txt of all the person's tweets.");
-		System.out.println("Enter the name of the input file now:");
-		Scanner in = new Scanner(System.in);
-		String input = in.nextLine();
-		ReadFromFileObj inputFile = new ReadFromFileObj(input);
-		ReadNumLinesObj readLinesFile = new ReadNumLinesObj(input);
-		numLines = readLinesFile.getNumLines();
-		numUsers = numLines;
-		count = 0;
-		System.out.println("Accepted file \"" + input + "\"." + "\n");
+    public abstract boolean saveTweets(List<Tweet> tweets);
 
-		while (!input.isEmpty()) {
-			String output = inputFile.readLine();
-			if (output == null || output.equals("")) {
-				numUsers--;
-				double progress = (count + 0.0) / numUsers * 100; // this is
-																	// %progress
-				if (progress >= 100.0) {
-					System.out
-							.println("File \""
-									+ input
-									+ "\" has been completely processed. Program terminated.");
-					break;
-				}
-				continue;
-			}
-			output = output.substring(1);
-			WriteToFileObj outputFile = new WriteToFileObj(output + ".txt");
-			TwitterPost tp = new TwitterPost(output);
-			List<Tweet> posts = tp.getPost();
-			for (int i = 0; i < posts.size(); i++) {
-				Tweet item = posts.get(i);
-				if (item.getCreatedAt() == null) {
-					continue;
-				}
-				outputFile.write((i + 1) + "[" + item.getCreatedAt() + "] --  "
-						+ item.getText());
-				outputFile.write("\n");
-				System.out.println("@" + item.getUserScreenName() + ": "
-						+ item.getCreatedAt() + " --  " + item.getText());
-			}
-			outputFile.close();
-			count++;
-			System.out.println("[@" + output + " had " + posts.size()
-					+ " posts]");
-			double progress = (count + 0.0) / numUsers * 100;
-			String.format("%.2f", progress);
-			System.out.println(count + " users done with " + (numUsers - count)
-					+ " users to go (" + progress + "% done)");
-			System.out.println();
-		}
-	}
+    public void search(final String query, final long rateDelay)
+            throws InvalidQueryException {
+        TwitterResponse response;
+        URL url = constructURL(query, null);
+        boolean continueSearch = true;
+        String minTweet = null;
+        while ((response = executeSearch(url)) != null && continueSearch
+                && !response.getTweets().isEmpty()) {
+            if (minTweet == null) {
+                minTweet = response.getTweets().get(0).getId();
+            }
+            continueSearch = saveTweets(response.getTweets());
+            String maxTweet = response.getTweets()
+                    .get(response.getTweets().size() - 1).getId();
+            if (!minTweet.equals(maxTweet)) {
+                try {
+                    Thread.sleep(rateDelay);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                String maxPosition = "TWEET-" + maxTweet + "-" + minTweet;
+                url = constructURL(query, maxPosition);
+            }
+
+        }
+    }
+
+    public static TwitterResponse executeSearch(final URL url) {
+        BufferedReader reader = null;
+        try {
+            reader = new BufferedReader(new InputStreamReader(url
+                    .openConnection().getInputStream()));
+            Gson gson = new Gson();
+            return gson.fromJson(reader, TwitterResponse.class);
+        } catch (IOException e) {
+            // If we get an IOException, sleep for 5 seconds and retry.
+            System.err
+                    .println("Could not connect to Twitter. Retrying in 5 seconds.");
+            try {
+                Thread.sleep(50);
+                return executeSearch(url);
+            } catch (InterruptedException e2) {
+                e.printStackTrace();
+            }
+        } finally {
+            try {
+                if (reader != null) {
+                    reader.close();
+                }
+            } catch (NullPointerException | IOException e) {
+                e.printStackTrace();
+            }
+        }
+        return null;
+    }
+
+    public final static String TYPE_PARAM = "f";
+    public final static String QUERY_PARAM = "q";
+    public final static String SCROLL_CURSOR_PARAM = "max_position";
+    public final static String TWITTER_SEARCH_URL = "https://twitter.com/i/search/timeline";
+
+    public static URL constructURL(final String query, final String maxPosition)
+            throws InvalidQueryException {
+        if (query == null || query.isEmpty()) {
+            throw new InvalidQueryException(query);
+        }
+        try {
+            URIBuilder uriBuilder = new URIBuilder(TWITTER_SEARCH_URL);
+            uriBuilder.addParameter(QUERY_PARAM, query);
+            uriBuilder.addParameter(TYPE_PARAM, "tweets");
+            if (maxPosition != null) {
+                uriBuilder.addParameter(SCROLL_CURSOR_PARAM, maxPosition);
+            }
+            return uriBuilder.build().toURL();
+        } catch (MalformedURLException | URISyntaxException e) {
+            e.printStackTrace();
+            throw new InvalidQueryException(query);
+        }
+    }
 }
